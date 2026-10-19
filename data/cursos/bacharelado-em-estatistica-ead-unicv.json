@@ -1,0 +1,103 @@
+{
+ "id": 203666,
+ "slug": "bacharelado-em-estatistica-ead-unicv",
+ "url": "https://unicive.com/courses/bacharelado-em-estatistica-ead-unicv/",
+ "titulo": "Estatística",
+ "publicado": "2025-11-06T18:22:32",
+ "modificado": "2026-09-09T09:41:04",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
+ ],
+ "categorias": [],
+ "tags": [
+  "3 anos"
+ ],
+ "seo_descricao": "Curso de Estatística no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Vire a página com o Unicive e transforme dados em decisões que fazem a diferença!",
+   "O Bacharelado em Estatística EAD do Unicive é a escolha ideal para quem enxerga nos números o caminho para grandes decisões. Em um mundo movido por dados, o curso prepara você para compreender padrões, prever cenários e transformar informações em estratégias inteligentes para empresas e instituições.",
+   "Com uma formação sólida em matemática, computação, probabilidade e métodos estatísticos , o estudante desenvolve habilidades analíticas e domínio técnico para atuar com precisão em ambientes complexos e tecnológicos. Além disso, aprende a interpretar dados de forma crítica, com base ética e responsabilidade científica.",
+   "A proposta do Unicive é unir teoria, prática e flexibilidade em uma jornada de aprendizado que forma profissionais prontos para o futuro, conectados com o mercado e preparados para inovar em qualquer área de atuação."
+  ]
+ },
+ "matriz_curricular": [
+  "ÁLGEBRA LINEAR",
+  "ALGORÍTIMO E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE EXPLORATÓRIA DE DADOS E VISUALIZAÇÃO",
+  "ANÁLISE MULTIVARIADA",
+  "ATIVIDADES EXTENSIONISTAS",
+  "BANCO DE DADOS",
+  "BUSINESS INTELLIGENCE",
+  "CÁLCULO I",
+  "CÁLCULO II",
+  "COMUNICAÇÃO E EXPRESSÃO",
+  "CONTROLE ESTATÍSTICO DE QUALIDADE",
+  "DATA MINING E DATA WAREHOUSE",
+  "ESTATÍSTICA BAYESIANA",
+  "ESTATÍSTICA COMPUTACIONAL",
+  "ESTATÍSTICA GERAL",
+  "ESTRUTURA DE DADOS",
+  "GEOMETRIA ANALÍTICA",
+  "INFERÊNCIA ESTATÍSTICA",
+  "INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "DISCIPLINA INTERNACIONAL",
+  "INTRODUÇÃO À MATEMÁTICA",
+  "LABORATÓRIO DE ESTATÍSTICA APLICADA",
+  "METODOLOGIA DA PESQUISA E DO TRABALHO CIENTÍFICO",
+  "MÉTODOS NÃO PARAMÉTRICOS",
+  "MÉTODOS NUMÉRICOS",
+  "MÉTODOS QUANTITATIVOS ESTATÍSTICOS",
+  "MINERAÇÃO DE DADOS",
+  "MODELOS LINEARES GENERALIZADOS E REGRESSÃO AVANÇADA",
+  "MODELOS MATEMÁTICOS DE EQUAÇÕES DIFERENCIAIS",
+  "PESQUISA EM ESTATÍSTICA (PRÉ-REQUISITO PARA TRABALHO DE CONCLUSÃO DE CURSO)",
+  "PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS",
+  "PROBABILIDADE I e II",
+  "PROJETOS INTEGRADORES",
+  "RACIOCÍNIO LÓGICO",
+  "SÉRIES TEMPORAIS",
+  "TÉCNICAS DE AMOSTRAGEM",
+  "TRABALHO DE CONCLUSÃO DE CURSO",
+  "Disciplinas Optativas:",
+  "Libras – Língua Brasileira de Sinais",
+  "Inglês Instrumental",
+  "Tópicos Especiais em Estatística",
+  "Disciplina Internacional",
+  "*A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso.*"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O estatístico formado pelo Unicive encontra um cenário de oportunidades crescente, em que o domínio dos dados é o diferencial competitivo das organizações. As principais áreas de atuação incluem:",
+   "• Análise de Dados e Ciência de Dados: empresas de tecnologia, consultorias e startups, com foco em machine learning, inteligência artificial e modelagem preditiva.",
+   "• Finanças e Mercado de Capitais: bancos, seguradoras e corretoras, atuando na análise de risco, precificação e investimentos.",
+   "• Saúde e Bioestatística: hospitais, laboratórios e indústrias farmacêuticas, com análise de estudos clínicos e epidemiológicos.",
+   "• Marketing e Pesquisa de Mercado: criação de estratégias baseadas em comportamento do consumidor e análise de performance de campanhas.",
+   "• Indústria e Controle de Qualidade: implementação de processos de melhoria contínua e controle estatístico em ambientes produtivos.",
+   "• Setor Público e Instituições Governamentais: elaboração de estatísticas oficiais e políticas públicas baseadas em evidências.",
+   "• Academia e Pesquisa: continuidade dos estudos em pós-graduação, com foco em docência e produção científica."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Jéssica Pavão Antoniassi",
+   "curriculo": "Possui bacharelado (2012) e licenciatura (2017) em Química pela Universidade Estadual de Maringá, mestrado em Química pelo Programa de Pós-Graduação em Química da Universidade Estadual de Maringá (2015) com destaque para o tema de alimentos funcionais; e doutorado em Ensino de Ciências e Matemática pela Universidade Estadual de Maringá (2023) com ênfase em avaliação no Ensino de Ciências. Atualmente atua como docente do Centro Educacional Axia e no Centro Universitário Cidade Verde.Currículo Lattes: Veja Aqui",
+   "lattes": "http://lattes.cnpq.br/8009163278218939"
+  }
+ ],
+ "investimento": {
+  "de": 543.94,
+  "por": 227.18,
+  "parcelamento": null,
+  "texto": "De: R$ 543.94 a mensalidade Por: 1+36x R$ 227,18"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "3 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2025/10/empresario-usando-computador-com-analise-de-crescimento-grafico-na-tela-virtual-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:52:25+00:00",
+ "primeira_vez_visto": "2026-10-16T14:52:25+00:00"
+}

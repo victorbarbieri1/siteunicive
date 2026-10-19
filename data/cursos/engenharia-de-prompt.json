@@ -1,0 +1,82 @@
+{
+ "id": 220808,
+ "slug": "engenharia-de-prompt",
+ "url": "https://unicive.com/courses/engenharia-de-prompt/",
+ "titulo": "Engenharia de Prompt",
+ "publicado": "2026-06-11T15:40:12",
+ "modificado": "2026-09-03T08:37:33",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "3 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Prompt no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Se você é apaixonado por tecnologia, inovação e Inteligência Artificial, o curso de Bacharelado em Engenharia de Prompt do Unicive é o caminho certo para o seu futuro. Aqui, você aprende a projetar, estruturar e otimizar interações entre pessoas e sistemas inteligentes, utilizando as mais modernas tecnologias de IA Generativa para criar soluções capazes de transformar processos, automatizar tarefas e potencializar resultados em diferentes áreas de atuação.",
+   "Ao longo da graduação, você desenvolve competências em Engenharia de Prompt, Engenharia de Contexto, modelos de linguagem (LLMs), desenvolvimento de software com Inteligência Artificial, análise de dados, automação inteligente e experiência do usuário, vivenciando na prática todas as etapas de construção de soluções baseadas em IA — desde a definição de objetivos e contextos até a avaliação de desempenho e implementação em ambientes reais.",
+   "Com disciplinas voltadas para inovação, criatividade, governança, eficiência e transformação digital, o Unicive forma profissionais capazes de criar soluções inteligentes de alto valor agregado, preparados para atuar em um mercado cada vez mais tecnológico, dinâmico e orientado por dados. Chegou a hora de transformar o futuro da Inteligência Artificial.",
+   "Escolha o Unicive e construa uma carreira de sucesso na Engenharia de Prompt!"
+  ]
+ },
+ "matriz_curricular": [
+  "Arquitetura de LLMs",
+  "Atividades Extensionistas I, II e III",
+  "Automação de Fluxos com Agentes de Inteligência Artificial",
+  "Avaliação de Raciocínio e Métricas de Performance",
+  "Banco de Dados Relacionais e NoSQL",
+  "BI e Análise de Dados",
+  "Ciências Sociais",
+  "Controle de Versão Utilizando GitHub",
+  "Deep Learning",
+  "Desenvolvimento de Software com Inteligência Artificial",
+  "Empreendedorismo, Inovação e Tecnologia",
+  "Engenharia de Contexto, RAG e Banco de Vetores",
+  "Engenharia de Software",
+  "Estruturas de Dados em Python",
+  "Fundamentos de Prompting",
+  "Gestão de Equipes e Liderança",
+  "Gestão de Projetos de Inteligência Artificial",
+  "Lógica de Programação e Algoritmos em Python",
+  "Programação Orientada a Objetos em Python",
+  "Prompt Ops e MLOps",
+  "Segurança, Ética e Governança em Inteligência Artificial",
+  "UX – Experiência do Usuário",
+  "Web Design"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O mercado de trabalho para o Bacharel em Engenharia de Prompt encontra-se em franca expansao, impulsionado pelo crescimento acelerado da Inteligencia Artificial Generativa e pela crescente adoção de modelos de linguagem de grande porte (LLMs) em organizações públicas e privadas. À medida que empresas de diferentes segmentos incorporam soluções baseadas em IA para automatizar processos, apoiar decisões, gerar conteúdo, analisar informações e melhorar a experiência dos usuários, aumenta significativamente a demanda por profissionais capazes de estruturar, otimizar e governar as interações entre seres humanos e sistemas inteligentes.",
+   "Nesse contexto, o Engenheiro de Prompt assume um papel estratégico ao atuar na concepcao, desenvolvimento, avaliacão e melhoria contínua de instruções, contextos e fluxos conversacionais que potencializam o desempenho dos modelos de Inteligencia Artificial. Sua atuacão contribui diretamente para a qualidade, precisão, segurança e eficiência das soluções baseadas em IA, tornando-se essencial para organizações que buscam obter resultados consistentes e confiáveis com o uso dessas tecnologias."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo e dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeicoar os conteudos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+36x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "3 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/06/engenharia-prompt.webp",
+ "sincronizado_em": "2026-10-16T14:51:21+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:21+00:00"
+}

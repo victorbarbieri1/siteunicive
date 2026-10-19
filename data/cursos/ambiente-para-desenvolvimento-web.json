@@ -1,0 +1,65 @@
+{
+ "id": 221379,
+ "slug": "ambiente-para-desenvolvimento-web",
+ "url": "https://unicive.com/courses/ambiente-para-desenvolvimento-web/",
+ "titulo": "Ambiente para Desenvolvimento Web",
+ "publicado": "2026-06-30T17:53:53",
+ "modificado": "2026-09-09T10:57:38",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Ambiente para Desenvolvimento Web no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso de Ambiente para Desenvolvimento Web proporciona ao estudante uma visão ampla dos fundamentos necessários para a criação de sites, aplicações e sistemas para Internet. A disciplina aborda desde os conceitos de arquitetura web e protocolos de comunicação até as principais linguagens, ferramentas e ambientes utilizados no desenvolvimento de aplicações web modernas.",
+   "Ao longo do curso, o aluno aprende a compreender a estrutura da Internet, os modelos cliente-servidor, os protocolos de comunicação, a construção de páginas utilizando HTML e CSS, a implementação de interatividade com JavaScript e o uso de tecnologias complementares para desenvolvimento web. Também são apresentados conceitos introdutórios sobre linguagens de programação utilizadas no desenvolvimento de sistemas para Internet, como PHP, Java e C#.",
+   "A formação prepara o estudante para atuar em projetos web, fornecendo conhecimentos essenciais para o desenvolvimento, manutenção e publicação de aplicações digitais, além de familiarizá-lo com ferramentas e ambientes amplamente utilizados no mercado de tecnologia."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "Unidade 1 – Arquiteturas de Aplicações e os Protocolos da Web",
+   "– Arquitetura cliente-servidor",
+   "– Arquitetura web",
+   "– HTTP Server",
+   "– File Transfer Protocol (FTP)",
+   "Unidade 2 – HTML e CSS",
+   "– Web Standards",
+   "– HTML",
+   "– Editores HTML",
+   "– Cascading Style Sheets (CSS)",
+   "Unidade 3 – HTML5 e JavaScript",
+   "– HTML5",
+   "– JavaScript",
+   "– Bootstrap e Frameworks de CSS",
+   "– IDEs",
+   "Unidade 4 – Visão Geral das Linguagens de Programação Web",
+   "– PHP",
+   "– Noções de máquinas virtuais",
+   "– Noções de Java",
+   "– C#"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/04/programador_sistemas.webp",
+ "sincronizado_em": "2026-10-16T14:50:52+00:00",
+ "primeira_vez_visto": "2026-10-16T14:50:52+00:00"
+}

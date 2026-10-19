@@ -1,0 +1,77 @@
+{
+ "id": 220774,
+ "slug": "engenharia-de-agentes-de-ia",
+ "url": "https://unicive.com/courses/engenharia-de-agentes-de-ia/",
+ "titulo": "Engenharia de Agentes de IA",
+ "publicado": "2026-06-11T15:40:13",
+ "modificado": "2026-09-09T09:22:47",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "3 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Agentes de IA no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Se você é apaixonado por tecnologia, inovação e Inteligência Artificial, o curso de Bacharelado em Engenharia de Agentes de IA do Unicive é o caminho certo para o seu futuro. Aqui, você aprende a projetar, desenvolver e implementar agentes inteligentes capazes de automatizar processos, interagir com usuários, integrar sistemas e transformar dados em decisões estratégicas, utilizando as tecnologias mais avançadas da nova era digital.",
+   "Ao longo da graduação, você vivencia na prática todas as etapas de criação de soluções baseadas em Inteligência Artificial, desde a programação e integração de sistemas até o desenvolvimento de agentes autônomos, aplicações com LLMs, Engenharia de Prompt, sistemas multiagentes e automação inteligente de processos.",
+   "Com disciplinas voltadas para inovação, transformação digital, governança, segurança e aplicações avançadas de IA, o Unicive forma profissionais preparados para liderar projetos que estão revolucionando empresas e mercados em todo o mundo.",
+   "O futuro pertence aos profissionais capazes de criar sistemas inteligentes que trabalham, aprendem e evoluem continuamente. Chegou a hora de construir a próxima geração da Inteligência Artificial.",
+   "Escolha o Unicive e torne-se um protagonista da revolução dos Agentes de IA!"
+  ]
+ },
+ "matriz_curricular": [
+  "AgentOps e Ciclos de Vida de Modelos",
+  "Arquitetura de LLMs",
+  "Atividades Extensionistas I, II e III",
+  "Automação de Fluxos com Agentes de Inteligência Artificial",
+  "Avaliação de Raciocínio e Métricas de Performance",
+  "Banco de Dados Relacionais e NoSQL",
+  "Ciências Sociais",
+  "Controle de Versões e CI/CD para Agentes",
+  "Desenvolvimento de Ferramentas e Funções para IA",
+  "Disciplina Internacional (Optativa)",
+  "Deep Learning (Optativa)",
+  "Empreendedorismo, Inovação e Tecnologia",
+  "Engenharia de Contexto, RAG e Banco de Vetores",
+  "Engenharia de Prompt Estruturada",
+  "Libras – Língua Brasileira de Sinais (Optativa)",
+  "Lógica de Programação e Algoritmos em Python",
+  "Matemática para Inteligência Artificial"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ],
+  "Mercado de trabalho": [
+   "A evolução da Inteligência Artificial Generativa, dos modelos de linguagem de grande porte (LLMs) e dos sistemas autônomos tem promovido uma profunda transformação nos processos produtivos, organizacionais e sociais em escala global. Organizações de todos os setores da economia vêm incorporando agentes inteligentes capazes de executar tarefas, tomar decisões assistidas por dados, interagir com usuários, integrar sistemas e automatizar fluxos operacionais complexos, criando uma demanda crescente por profissionais especializados no desenvolvimento, gerenciamento e governança dessas tecnologias.",
+   "Nesse contexto, surge a necessidade de formação de um novo perfil profissional: o Bacharel em Engenharia de Agentes de IA, capaz de projetar, construir, integrar, orquestrar, monitorar e evoluir agentes inteligentes que atuam de forma autônoma ou colaborativa em ambientes corporativos, industriais, governamentais e de serviços. O mercado de trabalho aponta para uma crescente substituição de automações tradicionais por sistemas inteligentes capazes de compreender linguagem natural, acessar múltiplas fontes de informação, utilizar ferramentas externas, executar ações e aprender continuamente com os dados e interações realizadas. Essa transformação amplia significativamente a demanda por profissionais que dominem áreas como Engenharia de Prompt, Sistemas Multiagentes, Integração de APIs, Bancos Vetoriais, RAG (Retrieval-Augmented Generation), AgentOps, Governança de IA e Avaliação de Desempenho de Agentes."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+36x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "3 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/06/engenharia_agente_ia.jpg",
+ "sincronizado_em": "2026-10-16T14:51:19+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:19+00:00"
+}

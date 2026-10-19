@@ -1,0 +1,124 @@
+{
+ "slug": "extensao-universitaria",
+ "titulo": "Extensão Universitária",
+ "url": "https://unicive.com/extensao-universitaria/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "O que é a Extensão Universitária?"
+  },
+  {
+   "tipo": "texto",
+   "texto": "É o eixo institucional que se comunica com a sociedade por meio da promoção de projetos, programas e atividades que dialoguem com a realidade social e nela atuem para contribuir diretamente para o fortalecimento do compromisso social e para o debate de políticas públicas efetivas e, assim, articuladas com o ensino e a pesquisa, cumpra plenamente a função social do Unicive na sociedade."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Clique aqui e acesse a Política de Extensão"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Clique aqui e acesse a Resolução 7/2028"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Clique aqui e acesse a Resolução Consepe nª 021/2022"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Como acessar o sistema de extensão curricular?"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Dúvidas frequentes"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A curricularização da extensão é o processo de integração das atividades de extensão na matriz curricular dos cursos de graduação, visando assegurar, no mínimo, 10% da carga horária curricular total dos cursos, atendendo à Resolução nº 7/2018 do Conselho Nacional de Educação."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Esse processo busca promover a interação entre ensino, pesquisa e extensão, viabilizando a formação de habilidades e competências tanto para o exercício da profissão e mercado de trabalho quanto para o exercício da cidadania e compromisso social."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Ao incluir projetos de extensão no currículo, os estudantes têm a oportunidade de aplicar e compartilhar os conhecimentos adquiridos em seus cursos de forma prática e efetiva, tornando a educação mais significativa e alinhada com as necessidades do mundo real."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Segundo as diretrizes estabelecidas pela Resolução do Conselho Nacional de Educação – 07/2018, todas as instituições de ensino superior brasileiras devem ter em sua política interna e planos de curso, a carga horária destinada para a extensão curricular. A determinação vale para as instituições públicas e privadas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Todos os estudantes de graduação que ingressaram a partir do ano de 2023 devem realizar projetos de Extensão, conforme estabelecido no Artigo 9º da Resolução do Conselho Nacional de Educação – 07/2018."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Este documento determina que, “nos cursos superiores, na modalidade a distância, as atividades de extensão devem ser realizadas, presencialmente, em região compatível com o polo de apoio presencial, no qual o estudante esteja matriculado, observando-se, no que couber, as demais regulamentações, previstas no ordenamento próprio para oferta de educação a distância”."
+  },
+  {
+   "tipo": "texto",
+   "texto": "A carga horária destinada à extensão curricular é de, no mínimo, 10% do total da carga horária curricular estudantil dos cursos de graduação, conforme estabelecido pela Resolução do Conselho Nacional de Educação – 07/2018."
+  },
+  {
+   "tipo": "texto",
+   "texto": "A carga horária total dos cursos de graduação é calculada somando-se as horas dos componentes curriculares obrigatórios, conforme definido no Projeto Pedagógico de Curso (PPC) de cada programa. Isso abrange, quando aplicável ao curso de graduação, atividades complementares, trabalho de conclusão de curso (TCC), estágio curricular obrigatório e quaisquer outros componentes exigidos."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Assim, os 10% destinados às atividades de extensão são calculados com base nessa carga horária total."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não. A carga horária total do curso permanece inalterada."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não, as horas de estágio realizadas pelos estudantes não podem ser creditadas para a curricularização da extensão. Isso porque, conforme estabelecido pela Lei n. 11.788, de 25 de setembro de 2008, o estágio é definido como um ato educativo escolar supervisionado, desenvolvido em ambiente de trabalho, com o objetivo de preparar os estudantes para o trabalho produtivo. Dessa forma, as atividades de estágio não se enquadram no âmbito da extensão universitária."
+  },
+  {
+   "tipo": "texto",
+   "texto": "No Unicive, nos cursos da modalidade EAD, compete ao coordenador do curso a responsabilidade de estabelecer o calendário das atividades extensionistas. Assim, é sob a orientação desse coordenador que os estudantes irão elaborar e realizar o projeto de extensão, seguindo o cronograma e os critérios estabelecidos para garantir a efetivação das atividades propostas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "O sistema está disponível no JACAD do aluno, no ícone localizado ao lado esquerdo da tela, intitulado “Extensão Curricular”. Ao clicar, você será direcionado para a plataforma de gestão de projetos de extensão."
+  },
+  {
+   "tipo": "texto",
+   "texto": "No Portal você terá acesso a todas as informações referentes ao projeto de extensão do seu curso, as etapas, as atividades, os prazos, os requisitos de avaliação bem como os materiais de apoio."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Sob a supervisão dos coordenadores, que estabelecem os critérios de avaliação a serem seguidos, os tutores educacionais assumem a responsabilidade pelo"
+  },
+  {
+   "tipo": "texto",
+   "texto": "acompanhamento, orientação e validação das atividades do projeto de extensão dos estudantes."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Sim, é possível que o aluno reprove no projeto de extensão."
+  },
+  {
+   "tipo": "texto",
+   "texto": "O não cumprimento das atividades previstas resultará na reprovação do estudante. O desenvolvimento do projeto foi estruturado em etapas, cada uma com prazos e entregas específicas. Caso o aluno não entregue as tarefas dentro do prazo estipulado, ele terá a oportunidade de cumprir essas tarefas durante o prazo da etapa seguinte. No entanto, se ao término do curso o estudante não concluir todas as atividades e não obtiver aprovação no projeto de extensão, poderá ser reprovado no curso e impedido de participar das atividades de colação de grau."
+  },
+  {
+   "tipo": "texto",
+   "texto": "A Resolução CNE/CES nº 7/2018 estabelece que a extensão é um componente obrigatório nos cursos de graduação, tanto em instituições presenciais quanto em modalidades de ensino a distância. Essa resolução define que as atividades de extensão devem ser incluídas na matriz curricular dos cursos de graduação, e compor no mínimo 10% do total da carga horária curricular estudantil do país."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Desse modo, o Centro Universitário Cidade Verde – Unicive, instituição de ensino responsável pela emissão dos diplomas de seus respectivos polos, deve cumprir todas as exigências legais da Secretaria de Regulação e Supervisão da Educação Superior (Seres), que é uma das secretarias do Ministério da Educação (MEC). Isso inclui a implementação da extensão curricular nos cursos de graduação."
+  },
+  {
+   "tipo": "texto",
+   "texto": "A aplicabilidade dessas diretrizes se aplica em todos os polos onde a instituição está inserida, incluindo os Polos Internacionais. Isso significa que os estudantes dos polos internacionais também devem realizar o projeto de extensão curricular para cumprir os requisitos legais e garantir a validade dos diplomas emitidos pela Unicive."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Conheça o Projeto de extensão Unicive em Ação"
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:10:43+00:00"
+}

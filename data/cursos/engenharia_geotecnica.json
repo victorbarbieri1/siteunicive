@@ -1,0 +1,73 @@
+{
+ "id": 2832,
+ "slug": "engenharia_geotecnica",
+ "url": "https://unicive.com/courses/engenharia_geotecnica/",
+ "titulo": "Engenharia Geotécnica",
+ "publicado": "2023-06-29T08:30:12",
+ "modificado": "2026-08-27T10:49:04",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Engenharia Geotécnica no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "A necessidade contínua de adquirir habilidades técnicas avançadas, pensamento inovador e uma abordagem holística para enfrentar os problemas complexos que os profissionais da área encontram em seu campo de atuação, refletem a importância crítica do trabalho que desenvolvem na sociedade moderna.",
+   "Mitigar os riscos relacionados à instabilidade do solo e outros fenômenos geotécnicos, ao mesmo tempo em que se desenvolvem soluções para reduzir o impacto ambiental de grandes projetos de engenharia, demanda a criação de estruturas seguras e eficientes, especialmente em ambientes onde o espaço e as condições geotécnicas apresentam desafios significativos.",
+   "O curso de pós-graduação EAD em Engenharia Geotécnica do Unicive tem como objetivo aplicar princípios da engenharia e geologia para entender o comportamento mecânico e as propriedades dos solos e rochas. Isso é crucial para projetar estruturas seguras e sustentáveis, prevenir desastres naturais e melhorar o uso do solo em diversas aplicações. (Curso credenciado no CREA/PR: CEEC nº 11424/24 e DP nº 674/24).",
+   "Desenvolver projetos, avaliar riscos geotécnicos, gerenciar impactos ambientais, planejar e executar obras com segurança e eficiência, além de monitorar e avaliar o desempenho de estruturas geotécnicas ao longo do tempo são elementos essenciais que enriquecem o curso, através de disciplinas atualizadas e práticas que preparam os estudantes para os desafios da engenharia geotécnica.",
+   "Prepare-se para uma carreira de sucesso com disciplinas atualizadas e práticas que garantem excelência profissional. Seja um aluno Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "Processos Organizacionais – 40H",
+  "Classificação de Solos – 40H",
+  "Caracterização dos Solos – 40H",
+  "Dimensionamento do Pavimento – 40H",
+  "Geotecnia de Estrada – 40H",
+  "Drenagem e Barragem – 40H",
+  "Custos e Perdas – 40H",
+  "Planos de Desmonte e Variedades – 40H",
+  "Metodologias Aplicadas à Rochas – 40H",
+  "DISCIPLINA OPTATIVA: TCC – Trabalho de Conclusão de Curso – 60H"
+ ],
+ "carga_horaria_total": "360 HORAS",
+ "outras_secoes": {
+  "Público alvo": [
+   "Profissionais da engenharia, geologia, geografia ou áreas afins que buscam atuar na área de Geotécnica ou mesmo para os profissionais que já atuam na área e desejam realizar uma atualização de seus conhecimentos."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Felipe Delapria Dias Dos Santos",
+   "curriculo": "Possui Mestrado em Engenharia Mecânica com ênfase em materiais poliméricos - UEM (2020). Graduado em Engenharia Mecânica - UTFPR (2017). Graduado em Administração - UniBF (2016). Pós graduado em Avaliações e Perícia - Unyleaya (2021). Pós Graduado em Gestão Da Qualidade e Processos Gerenciais - UniFCV (2019). Pós Graduado em Segurança do Trabalho - UCAM (2018). Pós Graduado em Tecnologias Digitais e Inovação na Educação - UniFCV (2021). Atualmente trabalha como coordenador de cursos de pós-graduação para a Centro Universitário Cidade Verdade (UniCV), coordenador dos cursos de Engenharia Mecânica e Engenharia de Produção (UniFatecie), orientador para cursos de pós-graduação na USP-ESALQ e atua na área de desenvolvimento de produtos na APTAR-BRASIL, multinacional do ramo de injeção plástica. Curriculo Lattes: Veja Aqui",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/engenharia_geotecnica.webp",
+ "sincronizado_em": "2026-10-16T14:54:30+00:00",
+ "primeira_vez_visto": "2026-10-16T14:54:30+00:00"
+}

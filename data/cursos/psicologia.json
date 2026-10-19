@@ -1,0 +1,164 @@
+{
+ "id": 5220,
+ "slug": "psicologia",
+ "url": "https://unicive.com/courses/psicologia/",
+ "titulo": "Psicologia",
+ "publicado": "2023-08-03T14:02:37",
+ "modificado": "2026-10-15T08:53:51",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
+ ],
+ "categorias": [],
+ "tags": [
+  "5 anos"
+ ],
+ "seo_descricao": "Curso de Psicologia no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "INFORMAÇÕES SOBRE O CURSO",
+   "Aprenda a compreender o comportamento humano e atuar com ética",
+   "A atenção à saúde mental, ao bem-estar e às relações humanas amplia o campo da Psicologia. O mercado busca profissionais que unam conhecimento cientifico, escuta qualificada e ética.",
+   "É com esse propósito que o Unicive oferece o curso de Bacharelado em Psicologia: uma formação para quem tem interesse pelas pessoas, sabe ouvir e gosta de analisar situações, seja para atuar em clínica, organizações, saúde ou pesquisa.",
+   "Uma formação completa para o mercado de trabalho",
+   "Durante a graduação, você desenvolve competências essenciais para sua carreira, como: ● Pensamento crítico e análise; ● Comunicação e escuta qualificada; ● Compreensão do comportamento humano; ● Estratégias de intervenção; ● Ética e responsabilidade profissional; ● Trabalho em equipe.",
+   "Aqui, você não aprende apenas conceitos. Você aprende a aplicar o conhecimento na prática. A formação une conhecimento científico e prática profissional, com foco em análise de situações, estratégias de intervenção, ética e responsabilidade social.",
+   "Estágios em campos reais de atuação Os estágios obrigatórios são realizados em campos reais de atuação profissional, proporcionando ao estudante experiências práticas e contato direto com diferentes contextos da Psicologia. Para organizar essa formação prática, o estudante deve reservar ao menos um período da semana para atividades extracurriculares, destinado à realização dos estágios, conforme os horários e a disponibilidade dos campos conveniados.",
+   "Prática profissional no NAC – Clínica-Escola Parte dos estágios obrigatórios é realizada no NAC – Clínica-Escola do Unicive, nosso serviço próprio de atendimento, que oferece estrutura, supervisão e diferentes horários para a prática profissional. O estudante vivencia, na prática, processos clínicos, avaliação psicológica e outras atividades relacionadas à atuação do psicólogo, ampliando sua experiência em um serviço real de Psicologia.",
+   "Uma profissão com muitos caminhos",
+   "O Bacharelado em Psicologia do Unicive foi pensado para quem quer atuar em diferentes áreas da profissão, com visão humanizada e compromisso social. Seja na clínica, nas empresas, na saúde, na educação ou em projetos sociais, a Psicologia oferece uma formação ampla para direcionar a carreira conforme seus interesses. Conheça o Bacharelado em Psicologia do Unicive e prepare-se para atuar em diferentes áreas da Psicologia, com uma formação generalista e ênfase nos campos escolar, organizacional e do trabalho, na prevenção e promoção da saúde e na clínica."
+  ]
+ },
+ "matriz_curricular": [
+  "Análise experimental do comportamento",
+  "Anatomofisiologia do sistema nervoso",
+  "Avaliação psicológica",
+  "Avaliação psicológica: técnicas projetivas",
+  "Cargos e salários e avaliação de desempenho",
+  "Ciência: metodologia e escrita",
+  "Ciências sociais",
+  "Desenvolvimento pessoal e orientação profissional",
+  "Diversidade social",
+  "Educação especial e inclusiva",
+  "Epistemologia da psicologia",
+  "Estágio I: observação científica e entrevista",
+  "Estágio II: observação e intervenção em grupos",
+  "Estágio III: psicodiagnóstico e avaliação psicológica",
+  "Estágio supervisionado – ênfase eletiva I – p. 1",
+  "Estágio supervisionado – ênfase eletiva I – p. 2",
+  "Estágio supervisionado – ênfase eletiva II – p. 1",
+  "Estágio supervisionado – ênfase eletiva II – p. 2",
+  "Estágio supervisionado ênfase III – psicologia e processos clínicos – p.1",
+  "Estágio supervisionado ênfase III – psicologia e processos clínicos – p.2",
+  "Ética profissional",
+  "Fenomenologia, existencialismo e humanismo",
+  "Génetica humana",
+  "Gestão de pessoas",
+  "História da psicologia",
+  "Intervenções psicológicas na abordagem cognitiva e comportamental",
+  "Intervenções psicológicas na abordagem psicanalítica",
+  "Intervenções psicológicas nas abordagens fenomenológica, existencial e humanista",
+  "Libras",
+  "Métodos quantitativos e qualitativos de pesquisa",
+  "Processos psicológicos básicos",
+  "Psicofarmacologia",
+  "Psicologia comunitária e ambiental",
+  "Psicologia da personalidade",
+  "Psicologia do desenvolvimento: adolescência",
+  "Psicologia do desenvolvimento: adulto e velhice",
+  "Psicologia do desenvolvimento: gravidez e criança",
+  "Psicologia educacional e escolar",
+  "Psicologia experimental",
+  "Psicologia institucional e políticas públicas",
+  "Psicologia organizacional e do trabalho",
+  "Psicologia social",
+  "Psicologia sócio histórica",
+  "Psicopatologia",
+  "Psicopatologia: introdução",
+  "Recrutamento e seleção",
+  "Relações interpessoais e dinâmica de grupo",
+  "Saúde coletiva",
+  "Seminários em psicologia hospitalar",
+  "Seminários em psicologia jurídica",
+  "Subjetividade e trabalho",
+  "Teoria psicanalítica",
+  "Teorias e sistemas em psicologia",
+  "Teorias e técnicas psicoterápicas",
+  "CARGA HORÁRIA TOTAL: 4.200H",
+  "*A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso.*"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Formação profissional = diploma 2x": [
+   "Amplie sua formação e abra novos caminhos para sua carreira: 1 jornada acadêmica, 2 formações superiores e 2 possibilidades profissionais.",
+   "Nas organizações, entender o comportamento humano é a base para recrutar, selecionar e desenvolver pessoas. Por isso, ampliar a formação pode ser um diferencial para quem desejar construir uma trajetória profissional mais completa.",
+   "É com esse propósito que o Unicive oferece o Programa de formação profissional que possibilita ao aluno do Bacharelado em Psicolgia cursar, de forma concomitante, o Curso Superior de Tecnologia em Recrutamento, Seleção e Desenvolvimento de Pessoas."
+  ],
+  "Como funciona?": [
+   "Durante a graduação em Psicologia, o aluno pode cursar ao mesmo tempo o Tecnólogo em Recrutamento, Seleção e Desenvolvimento de Pessoas, com duração de 2 anos, conforme as condições do programa.",
+   "Ao longo desse percurso, ele também recebe certificações intermediárias na área:",
+   "● Auxiliar de Seleção e Desenvolvimento de Pessoas, em 1 ano;",
+   "● Assistente de Seleção e Desenvolvimento de Pessoas, em 1,5 ano.",
+   "Ao cumprir os requisitos acadêmicos, o estudante conclui a jornada com dois diplomas: Bacharel em Psicologia e Tecnólogo em Recrutamento, Seleção e Desenvolvimento de Pessoas."
+  ],
+  "Uma formação que amplia seus conhecimentos": [
+   "A combinação entre Psicologia e Recrutamento, Seleção e Desenvolvimento de Pessoas une a compreensão do comportamento humano às rotinas de gestão de pessoas, contribuindo para uma visão mais ampla da atuação nas organizações.",
+   "Assim, o aluno desenvolve competências complementares ao longo da graduação e se prepara para atuar em psicologia organizacional, recrutamento e seleção e desenvolvimento de pessoas."
+  ],
+  "Uma trajetória pensada para sua carreira": [
+   "O Programa de Formação Profissional acompanha o desenvolvimento do estudante durante sua jornada acadêmica, permitindo que diferentes qualificações sejam construídas ao longo desse percurso.",
+   "Psicologia para compreender o comportamento humano. Recrutamento, Seleção e Desenvolvimento de Pessoas para atuar nas organizações. Duas formações em uma única jornada acadêmica.",
+   "Conheça o Programa de Formação Profissional do Unicive e descubra as possibilidades para sua carreira."
+  ],
+  "Mercado de trabalho": [
+   "Diversas possibilidades para sua atuação profissional",
+   "A formação em Psicologia permite ao profissional atuar em clínicas, empresas, serviços de saúde, escolas e projetos sociais.",
+   "Entre as principais áreas de atuação estão:",
+   "● Psicologia clínica;",
+   "● Psicologia organizacional e do trabalho;",
+   "● Psicologia e saúde;",
+   "● Psicologia social e comunitária;",
+   "● Psicologia educacional;",
+   "● Psicologia Hospitalar;",
+   "● Psicologia Jurídica;",
+   "● Psicologia Ambiental.",
+   "● Psicologia e atuação em situações de emergenciais e desastres;",
+   "● Pesquisa e consultoria.",
+   "● Entre outras áreas"
+  ],
+  "Diferenciais do curso": [
+   "– Uma formação conectada à prática profissional",
+   "O curso de Psicologia do Unicive foi pensado para unir conhecimento científico, prática profissional e ética, com preparo para diferentes áreas de atuação.",
+   "– Preparo para várias áreas",
+   "O curso prepara para atuar em clínica, saúde, empresas, educação, projetos sociais entre outros.",
+   "– Foco em intervenção",
+   "O curso trabalha a análise de situações e o desenvolvimento de estratégias de intervenção.",
+   "– Visão humanizada",
+   "A graduação mantém a visão humanizada e o compromisso social e ético da Psicologia ao longo de todo o curso.",
+   "– Visão ampla da profissão",
+   "Com uma visão ampla da profissão, você direciona a carreira conforme seus interesses. Ciência, prática e ética para construir uma formação conectada ao mercado de trabalho.",
+   "– Excelência acadêmica reconhecida",
+   "Nota máxima no reconhecimento do MEC. Em uma escala de 0 a 5 o curso de Psicologia do Unicive é nota 5 no reconhecimento do curso e ENADE nota 4."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Michelle Aparecida Ferreira dos Santos",
+   "curriculo": "Doutoranda (2021-atual), Mestra (2018) e graduada (2011) em Psicologia pela Universidade Estadual de Maringá. Pssui pós-graduação em: Gestão de Pessoas e Psicologia Organizacional pela Faculdade Cidade Verde (2017); em Gestão e Planejamento de Projetos Sociais pela Unicesumar (2013) e em Tecnologias Aplicadas ao Ensino a Distância (2021) pela UniFCV. Possui experiência como psicóloga social, clínica e universitária. Atualmente é professora na disciplina de Estágio Supervisionado em Psicologia e Processos Educativos, e Coordenadora dos Cursos Presenciais do UniCV (Centro Universitário Cidade Verde): Psicologia e Recrutamento, Seleção e Desenvolvimento de Pessoas. E do curso EaD: Recrutamento, Seleção e Desenvolvimento de Pessoas. Curriculo Lattes: Veja Aqui E-mail: prof_michelle@unicv.edu.br",
+   "lattes": "http://lattes.cnpq.br/2105072768959881"
+  }
+ ],
+ "investimento": {
+  "de": 1410.02,
+  "por": 951.77,
+  "parcelamento": null,
+  "texto": "De: R$ 1410.02 Por: 1+60x R$ 951,77"
+ },
+ "modalidade": "Graduação Presencial",
+ "duracao": "5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/psicologiapresencial.webp",
+ "sincronizado_em": "2026-10-16T14:53:34+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:34+00:00"
+}

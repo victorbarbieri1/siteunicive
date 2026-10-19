@@ -1,0 +1,110 @@
+{
+ "id": 177695,
+ "slug": "engenharia-devops",
+ "url": "https://unicive.com/courses/engenharia-devops/",
+ "titulo": "Engenharia DevOps",
+ "publicado": "2023-11-24T17:40:58",
+ "modificado": "2026-09-09T09:28:42",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "3 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia DevOps no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Escolher uma carreira é escolher o futuro — e o Bacharelado em Engenharia DevOps do Unicive coloca você no centro da transformação digital. Essa é uma área dinâmica, tecnológica e em constante evolução, que integra desenvolvimento (Dev) e operações (Ops) para criar sistemas mais ágeis, seguros e eficientes, impulsionando o sucesso de projetos em empresas modernas.",
+   "No Unicive, você aprende a unir equipes, automatizar processos e otimizar o ciclo de vida do software, garantindo qualidade contínua e alto desempenho. As disciplinas abordam ferramentas, práticas e métricas inovadoras, formando profissionais preparados para implantar soluções inteligentes, reduzir falhas e acelerar resultados.",
+   "Acelere o desenvolvimento, otimize operações e transforme sua carreira. Escolha o Unicive e lidere a nova era da Engenharia DevOps!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ARQUITETURA DE SOFTWARE",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "ATIVIDADES EXTENSIONISTAS III",
+  "AUTOMATIZAÇÃO DE TESTES",
+  "BIG DATA E DATA MINING",
+  "CONTROLE DE VERSÕES UTILIZANDO GITHUB",
+  "DATA MINING E DATA WAREHOUSE",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "ESTRUTURAS DE DADOS",
+  "ÉTICA APLICADA",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GERENCIAMENTO DE REDES DE COMPUTADORES",
+  "GESTÃO DE EQUIPES E LIDERANÇA",
+  "INFRAESTRUTURA DE CÓDIGO",
+  "INGLÊS INSTRUMENTAL",
+  "INTEGRAÇÃO CONTÍNUA",
+  "INTRODUÇÃO À CULTURA DEVOPS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "MONITORAMENTO E DIAGNÓSTICO",
+  "ORQUESTRAÇÃO DE CONTÊINERS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "SEGURANÇA EM DEVOPS",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Objetivo": [
+   "O objetivo do curso bacharelado em Engenharia DevOps é formar profissionais altamente capacitados e especializados na integração eficaz entre desenvolvimento e operações de software.",
+   "O curso visa proporcionar uma compreensão abrangente das práticas e ferramentas DevOps, capacitando os alunos à automatização de processos, adoção de integração contínua e entrega contínua (CI/CD) e promoção de uma cultura de colaboração.",
+   "Busca-se ainda dotar os estudantes de habilidades avançadas em gestão de infraestrutura como código (IaC), monitoramento de desempenho e práticas de segurança integrada."
+  ],
+  "Mercado de trabalho": [
+   "Os profissionais formados em Engenharia DevOps estão entre os mais procurados do mercado, com oportunidades em diversos setores que buscam unir agilidade, automação e alto desempenho em seus processos digitais.",
+   "Empresas de tecnologia, finanças, telecomunicações, e-commerce e consultoria em TI são grandes contratantes, valorizando especialistas que saibam integrar equipes, otimizar fluxos e garantir entregas rápidas e seguras.",
+   "Além disso, há forte demanda em startups e ambientes de computação em nuvem (Cloud), como AWS, Azure e Google Cloud, onde o profissional DevOps é essencial para garantir infraestruturas escaláveis, sistemas estáveis e inovação contínua. Até mesmo órgãos públicos e organizações sem fins lucrativos têm incorporado práticas DevOps para aumentar a eficiência e a segurança digital."
+  ],
+  "Especificidades": [
+   "O curso bacharelado em Engenharia DevOps será oferecido na modalidade remota (EaD), compreendendo aulas assíncronas, com um compromisso central de garantir a qualidade do ensino e a transmissão eficaz dos conhecimentos.",
+   "Para que isso aconteça, é de suma importância que as disciplinas específicas do curso sejam produzidas, pois os fornecedores não apresentam conteúdos atualizados em relação ao tema do curso.",
+   "Além disso, é de fundamental que os alunos consigam realizar práticas em todas as disciplinas específicas do curso. Não há laboratórios virtuais voltados para essa área."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+36x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "3 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_conceito-de-colagem-de-html-e-css-com-pessoa_23-2150062008_large.jpg",
+ "sincronizado_em": "2026-10-16T14:53:19+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:19+00:00"
+}

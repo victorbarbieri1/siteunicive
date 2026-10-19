@@ -1,0 +1,158 @@
+{
+ "id": 5213,
+ "slug": "engenharia-de-software",
+ "url": "https://unicive.com/courses/engenharia-de-software/",
+ "titulo": "Engenharia de Software",
+ "publicado": "2023-08-03T13:51:30",
+ "modificado": "2026-10-15T12:03:32",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "4 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Software no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Aprenda a criar sistemas, aplicativos e soluções digitais",
+   "Bancos, hospitais, industrias, empresas e governos dependem de software. O mercado busca profissionais que saibam desenvolver, testar e manter sistemas, aplicativos e plataformas digitais seguros e funcionais.",
+   "É com esse propósito que o Unicive oferece o curso de Bacharelado em Engenharia de Software: uma formação para quem gosta de tecnologia, tem perfil analítico e resolve problemas com lógica, seja para trabalhar em empresas, em startups ou para empreender.",
+   "Uma formacao completa para o mercado de trabalho",
+   "Durante a graduação, você desenvolve competências essenciais para sua carreira, como:",
+   "• Lógica de programação e algoritmos; • Padrões de projeto; • Desenvolvimento de APIs; • Desenvolvimento, gestão e integração de Inteligência artificial; • Experiência do usuário (UX); • Testes e qualidade de software.",
+   "Aqui, você não aprende apenas conceitos. Você aprende a aplicar o conhecimento na prática.",
+   "A prática começa no primeiro semestre, com aulas em laboratórios, softwares alinhados ao mercado e projetos que aproximam você da rotina das empresas.",
+   "Mais flexibilidade para conciliar seus estudos com a sua rotina",
+   "Sabemos que quem busca uma graduação também precisa conciliar trabalho, familia, compromissos e vida pessoal.",
+   "Por isso, o Unicive oferece uma organização acadêmica que proporciona mais flexibilidade e autonomia para os seus estudos, em conformidade com as possibilidades estabelecidas pela Portaria MEC n° 378, de 19 de maio de 2025.",
+   "No curso de Engenharia de Software, até 30% da formação pode ser desenvolvida por meio de atividades assincronas.",
+   "O que isso significa para você?",
+   "Nas atividades assíncronas, professor e aluno não precisam estar conectados ao mesmo tempo. Dessa forma, você organiza seus estudos nos horários que funcionam melhor para a sua rotina.",
+   "Uma carreira em tecnologia",
+   "O Bacharelado em Engenharia de Software do Unicive foi pensado para quem quer desenvolver sistemas na prática e construir uma carreira em tecnologia.",
+   "Seja em uma empresa, em uma startup ou no proprio negocio, a Engenharia de Software oferece uma formação com espaço em diferentes setores.",
+   "Conheça o Bacharelado em Engenharia de Software do Unicive e construa sua carreira em tecnologia."
+  ]
+ },
+ "matriz_curricular": [
+  "ALGORITMOS EM GRAFOS",
+  "ANÁLISE DE VIABILIDADE DE PRODUÇÃO DE SOFTWARE",
+  "ANÁLISE E PROJETO DE SOFTWARE",
+  "ARQUITETURA DE COMPUTADORES",
+  "BOAS PRÁTICAS DE PROGRAMAÇÃO E PADRÕES DE PROJETO",
+  "BUSINESS INTELLIGENCE",
+  "CÁLCULO DIFERENCIAL E INTEGRAL",
+  "CIÊNCIAS SOCIAIS",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "DESENVOLVIMENTO DE WEBSERVICES E API’S",
+  "DIREITO APLICADO A TECNOLOGIA",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ESTRUTURA DE DADOS",
+  "GESTÃO DE PESSOAS",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GERENCIAMENTO DE PROJETOS",
+  "INFORMÁTICA E SOCIEDADE",
+  "INTELIGÊNCIA ARTIFICIAL E APRENDIZAGEM DE MÁQUINA",
+  "INTERNET DAS COISAS",
+  "INTERAÇÃO HUMANO-COMPUTADOR",
+  "INTRODUÇÃO A CLOUD COMPUTING",
+  "LABORATÓRIO AVANÇADO DE DESENVOLVIMENTO DE SOFTWARE",
+  "LABORATÓRIO DE DESENVOLVIMENTO DE SOFTWARE",
+  "LÓGICA DE PROGRAMAÇÃO E ALGORITMOS",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MODELAGEM DE BANCO DE DADOS",
+  "NEGÓCIOS ELETRÔNICOS",
+  "PARADIGMA DE PROGRAMAÇÃO IMPERATIVA E ORIENTADA A OBJETOS",
+  "PROCESSO DE SOFTWARE E ENGENHARIA DE REQUISITOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "PROGRAMAÇÃO WEB",
+  "PROBABILIDADE E ESTATÍSTICA",
+  "QUALIDADE E IMPLEMENTAÇÃO DE TESTE DE SOFTWARE",
+  "REDES DE COMPUTADORES",
+  "SISTEMAS OPERACIONAIS",
+  "TEORIA DA COMPUTAÇÃO",
+  "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE",
+  "UX – EXPERIÊNCIA DO USUÁRIO"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Formação profissional = diploma 2x": [
+   "Amplie sua formação e abra novos caminhos para sua carreira: 1 jornada acadêmica, 2 formações superiores e 2 possibilidades profissionais.",
+   "Quem desenvolve software também precisa entender a análise e a organização dos sistemas e dos dados que sustentam cada projeto. Por isso, ampliar a formação pode ser um diferencial para quem deseja construir uma trajetória profissional mais completa.",
+   "É com esse propósito que o Unicive oferece o Programa de Formação Profissional, que possibilita ao aluno do Bacharelado em Engenharia de Software cursar, de forma concomitante, o Curso Superior de Tecnologia em Analise e Desenvolvimento de Sistemas."
+  ],
+  "Como funciona?": [
+   "Durante a graduação em Engenharia de Software, o aluno pode cursar ao mesmo tempo o Tecnólogo em Análise e Desenvolvimento de Sistemas, com duração de 2,5 anos, conforme as condições do programa.",
+   "Ao longo desse percurso, ele também recebe certificações intermediárias na área:",
+   "● Auxiliar em Sistemas de Informação, em 1 ano;",
+   "● Assistente de Banco de Dados, em 1,5 ano.",
+   "Ao cumprir os requisitos acadêmicos, o estudante conclui a jornada com dois diplomas: Bacharel em Engenharia de Software e Tecnólogo em Análise e Desenvolvimento de Sistemas."
+  ],
+  "Uma formação que amplia seus conhecimentos": [
+   "A combinação entre Engenharia de Software e Análise e Desenvolvimento de Sistemas une a engenharia de soluções à análise e ao desenvolvimento de sistemas, contribuindo para uma visão mais ampla da criação de software.",
+   "Assim, o aluno desenvolve competências complementares ao longo da graduação e se prepara para atuar em desenvolvimento de sistemas, banco de dados e tecnologia da informação. Nessa trajetória, o curso tecnólogo tem um foco dinâmico e prático, preparando o estudante para uma entrada rápida e direta no mercado de trabalho. Já o bacharelado aprofunda os conhecimentos teóricos, metodológicos e de arquitetura, desenvolvendo competências estratégicas para assumir cargos de liderança e gestão de projetos de tecnologia."
+  ],
+  "Uma trajetória pensada para sua carreira": [
+   "O Programa de Formação Profissional acompanha o desenvolvimento do estudante durante sua jornada acadêmica, permitindo que diferentes qualificações sejam construídas ao longo desse percurso.",
+   "Engenharia de Software para criar soluções digitais. Análise e Desenvolvimento de Sistemas para ampliar sua atuação. Duas formações em uma única jornada acadêmica.",
+   "Conheça o Programa de Formação Profissional do Unicive e descubra as possibilidades para sua carreira."
+  ],
+  "Uma formação para diferentes caminhos profissionais": [
+   "A variedade de áreas permite que o engenheiro de software construa sua trajetória de acordo com seus interesses e objetivos. Seja no desenvolvimento, nos testes, na segurança da informação, na inteligência artificial ou na gestão de projetos, a Engenharia de Software oferece uma formação que acompanha diferentes caminhos de carreira.",
+   "O curso de Engenharia de Software do Unicive prepara você para escolher seu caminho e crescer em um mercado que depende de tecnologia em todos os setores."
+  ],
+  "Mercado de trabalho": [
+   "Diversas possibilidades para sua atuação profissional",
+   "A formação em Engenharia de Software permite ao profissional atuar em bancos, hospitais, indústrias, empresas e órgãos públicos, além de empreender com tecnologia.",
+   "Entre as principais áreas de atuação estão:",
+   "● Desenvolvimento de sistemas para web, mobile e desktop;",
+   "● Arquitetura de software;",
+   "● Testes e qualidade;",
+   "● Segurança da informação;",
+   "● Inteligência artificial e dados;",
+   "● Gestão de projetos e metodologias ágeis;",
+   "● Consultoria e inovação."
+  ],
+  "Diferenciais do curso": [
+   "• Uma formação conectada à prática profissional",
+   "O curso de Engenharia de Software do Unicive foi pensado para conectar o que você aprende às demandas do mercado, com prática desde o primeiro semestre.",
+   "• Prática desde o primeiro semestre",
+   "As aulas acontecem em laboratórios, com softwares alinhados ao mercado, e os projetos aproximam o estudante da rotina das empresas.",
+   "• Smart Space",
+   "O Unicive conta com o Smart Space, um espaço maker com impressora 3D e óculos de realidade virtual.",
+   "• Professores atuantes em tecnologia",
+   "O curso conta com professores que atuam na área de tecnologia, trazendo para a formação a experiência da prática profissional.",
+   "• Eventos interdisciplinares",
+   "O Unicive promove eventos interdisciplinares de criatividade e inovação.",
+   "Tecnologia, prática e inovação para construir uma formação conectada ao mercado de trabalho.",
+   "• Inteligência Artificial na prática",
+   "Formação focada na aplicação e integração de recursos de Inteligência Artificial para o desenvolvimento de soluções modernas de software."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Erick Starcy Gagliardi",
+   "curriculo": "Mestre em Comunicação pela Universidade Estadual de Londrina UEL, Especialista em Tecnologias Aplicadas ao Ensino a Distância pelo UniCV. Pós-Graduado em MBA Marketing, Vendas e Mídias Digitais. Graduado em Processamento de Dados, Graduado em Design Gráfico, Coordenador de Cursos e Professor na UniCV, é consultor credenciado no programa SEBRAETEC do SEBRAE na área de Design, Inovação, Tecnologia e Marketing Digital.Currículo Lattes: Veja Aqui E-mail: prof_erick@unicv.edu.br",
+   "lattes": "http://lattes.cnpq.br/4360278227148097"
+  }
+ ],
+ "investimento": {
+  "de": 1142.03,
+  "por": 668.09,
+  "parcelamento": null,
+  "texto": "De: R$ 1142.03 Por: 1+48x R$ 668,09"
+ },
+ "modalidade": "Graduação Presencial",
+ "duracao": "4 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [
+  "Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/softwarepresencial.webp",
+ "sincronizado_em": "2026-10-16T14:53:35+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:35+00:00"
+}

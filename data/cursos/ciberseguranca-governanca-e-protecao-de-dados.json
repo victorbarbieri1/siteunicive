@@ -1,0 +1,63 @@
+{
+ "id": 228545,
+ "slug": "ciberseguranca-governanca-e-protecao-de-dados",
+ "url": "https://unicive.com/courses/ciberseguranca-governanca-e-protecao-de-dados/",
+ "titulo": "Cibersegurança, Governança e Proteção de Dados",
+ "publicado": "2026-08-25T17:05:26",
+ "modificado": "2026-08-25T17:05:26",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Cibersegurança, Governança e Proteção de Dados no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Empregar maior conhecimento referente à segurança da informação, governança corporativa e proteção de dados nas organizações. Desenvolver junto aos alunos conhecimentos na área da cibersegurança voltados à prevenção, identificação e mitigação de riscos cibernéticos, bem como à implementação de políticas e práticas de governança e conformidade com as legislações de proteção de dados.",
+   "Utilização de técnicas, ferramentas e procedimentos que permitem às organizações proteger seus ativos digitais, gerenciar riscos, garantir a privacidade das informações e promover a segurança em ambientes tecnológicos cada vez mais complexos e conectados.",
+   "O curso de Pós-Graduação EAD em Cibersegurança, Governança e Proteção de Dados do Unicive direciona o profissional para assumir novos desafios, com acesso a conteúdos práticos e teóricos de qualidade, aprendizagem flexível e aperfeiçoamento de competências e habilidades essenciais para seu desenvolvimento profissional e para a atuação estratégica na área de segurança da informação."
+  ]
+ },
+ "matriz_curricular": [
+  "FUNDAMENTOS DE CIBERSEGURANÇA E GESTÃO",
+  "GOVERNANÇA DE TI, COMPLIANCE E AUDITORIA",
+  "INFRAESTRUTURA E SEGURANÇA DE REDES",
+  "GESTÃO DE IDENTIDADES, ACESSOS E CRIPTOGRAFIAS",
+  "SEGURANÇA EM CLOUD COMPUTING E AMBIENTES HÍBRIDOS",
+  "ETHICAL HAKING, TESTE DE INVASÃO E ANÁLISE DE VUNERABILIDADES",
+  "RESPOSTAS A INCIDENTES, FORENSE COMPUTACIONAL E CONTINUIDADE DE NEGÓCIOS",
+  "LGPD, PRIVACIDADE, PROTEÇÃO DE DADOS E DIREITO DIGITAL",
+  "PROTOCOLOS DE SEGURANÇA",
+  "TCC – Trabalho de Conclusão de Curso (Optativo)"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Público-alvo": [
+   "Profissionais graduados nas áreas de Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia de Software, Redes de Computadores, Gestão de Tecnologia e áreas afins, bem como demais profissionais que tenham interesse em aprimorar seus conhecimentos e ampliar sua formação e atuação nas áreas de cibersegurança, governança de tecnologia e proteção de dados."
+  ],
+  "Metodologia": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/08/ciberseguranca_governanca_protecao_dados.jpg",
+ "sincronizado_em": "2026-10-16T14:49:51+00:00",
+ "primeira_vez_visto": "2026-10-16T14:49:51+00:00"
+}

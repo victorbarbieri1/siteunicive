@@ -1,0 +1,20 @@
+{
+ "slug": "simulador-segunda-graduacao",
+ "titulo": "2ª Graduação",
+ "url": "https://unicive.com/simulador-segunda-graduacao/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "Simulador de Segunda Graduação"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A Segunda Graduação do Unicive é a oportunidade ideal para quem deseja conquistar uma nova formação em nível superior de forma mais rápida. Para quem já possui diploma de graduação, é possível concluir um novo curso em prazo reduzido, de 6 a 24 meses, conforme a área de formação."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Para descobrir quais cursos têm compatibilidade com a sua primeira graduação e podem ser concluídos em menos tempo, basta informar sua formação anterior e simular o prazo da sua Segunda Graduação no Unicive."
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:11:23+00:00"
+}

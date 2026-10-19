@@ -1,0 +1,64 @@
+{
+ "id": 224304,
+ "slug": "programacao-coding-mobile-java",
+ "url": "https://unicive.com/courses/programacao-coding-mobile-java/",
+ "titulo": "Programação – Coding Mobile (Java)",
+ "publicado": "2026-07-01T10:09:30",
+ "modificado": "2026-07-01T10:16:14",
+ "centro": [],
+ "categorias": [
+  "Tecnologia"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de Programação – Coding Mobile (Java) no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso Programação – Coding Mobile (Java) aborda os fundamentos do desenvolvimento de aplicativos para dispositivos móveis utilizando a linguagem Java e a plataforma Android. O conteúdo contempla a arquitetura e os recursos do sistema operacional Android, a configuração e utilização do ambiente de desenvolvimento, a estrutura de projetos mobile e os conceitos fundamentais da programação orientada a objetos. Ao longo da formação, são explorados temas como estruturas de controle, classes, interfaces, polimorfismo, ciclo de vida de aplicações Android, navegação entre telas, passagem de parâmetros, tratamento de eventos e integração com recursos nativos do sistema operacional. O curso também aborda a construção de interfaces gráficas, layout de telas e boas práticas de usabilidade, proporcionando uma visão prática do desenvolvimento de aplicativos móveis modernos. A formação capacita o estudante a projetar, desenvolver, testar e manter aplicações Android, aplicando conceitos de programação e design de interfaces para atender às demandas do mercado de tecnologia.",
+   "Capacitar estudantes e profissionais da área de tecnologia a desenvolver aplicativos para dispositivos móveis utilizando a linguagem de programação Java e os recursos do sistema operacional Android. O curso busca desenvolver competências relacionadas à programação orientada a objetos, à construção de interfaces gráficas, ao gerenciamento do ciclo de vida das aplicações, à implementação da navegação entre telas e ao tratamento de eventos e dados em ambientes mobile. Além disso, visa preparar os participantes para criar soluções funcionais, intuitivas e alinhadas às boas práticas de desenvolvimento de software, contribuindo para sua atuação no mercado de desenvolvimento de aplicativos móveis."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "UNIDADE 1 – AMBIENTE E FUNDAMENTOS DO DESENVOLVIMENTO MOBILE",
+   "– ANDROID",
+   "– AMBIENTE DE DESENVOLVIMENTO JAVA PARA MOBILE",
+   "– ESTRUTURA DO PROJETO JAVA-ANDROID",
+   "– FUNDAMENTOS DO JAVA PARA MOBILE",
+   "UNIDADE 2 – PROGRAMAÇÃO JAVA",
+   "– JAVA BÁSICO",
+   "– ESTRUTURA DE CONTROLE DE SELEÇÃO E DE REPETIÇÃO",
+   "– CLASSES EM JAVA",
+   "– POLIMORFISMO, INTERFACE E CLASSES ABSTRATAS",
+   "UNIDADE 3 – GERENCIANDO O APP ANDROID",
+   "– CICLO DE VIDA DO APLICATIVO ANDROID E A CLASSE ACTIVITY",
+   "– NAVEGABILIDADE",
+   "– PASSAGEM DE PARÂMETROS ENTRE TELAS",
+   "– INSERINDO COMPONENTES NA TELA",
+   "UNIDADE 4 – EVENTOS E RESULTADOS NA INTERFACE DO APP",
+   "– TRATAMENTO DE EVENTOS",
+   "– CAPTURANDO RESULTADOS DE UMA ATIVIDADE",
+   "– CHAMANDO AÇÕES DO SISTEMA ANDROID",
+   "– LAYOUT DE TELA"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/07/programacao_coding_mobile.jpg",
+ "sincronizado_em": "2026-10-16T14:50:26+00:00",
+ "primeira_vez_visto": "2026-10-16T14:50:26+00:00"
+}

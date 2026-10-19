@@ -1,0 +1,186 @@
+{
+ "id": 5201,
+ "slug": "arquitetura-e-urbanismo",
+ "url": "https://unicive.com/courses/arquitetura-e-urbanismo/",
+ "titulo": "Arquitetura e Urbanismo",
+ "publicado": "2023-08-03T13:39:03",
+ "modificado": "2026-10-14T13:59:18",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
+ ],
+ "categorias": [],
+ "tags": [
+  "5 anos"
+ ],
+ "seo_descricao": "Curso de Arquitetura e Urbanismo no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Aprenda a projetar edificações, ambientes e espaços urbanos",
+   "Casas, edifícios, praças e cidades começam com um projeto. O mercado busca arquitetos e urbanistas que unam criatividade, técnica e tecnologia para criar espaços funcionais, acessíveis e sustentáveis.",
+   "É com esse propósito que o Unicive oferece o curso de Bacharelado em Arquitetura e Urbanismo: uma formação para quem tem olhar criativo, gosta de desenhar e planejar espaços e se interessa por modelagem 3D.",
+   "Uma formação completa para o mercado de trabalho",
+   "Durante a graduação, você desenvolve competências essenciais para sua carreira, como:",
+   "● Ateliê de projetos e planejamento espacial; ● Computação gráfica 2D e 3D; ● Construções sustentáveis; ● Criatividade e design thinking; ● Paisagismo residencial e urbano; ● Planejamento urbano e regional; ● Restauro e patrimônio; ● Tecnologias da construção.",
+   "Aqui, você não aprende apenas conceitos. Você aprende a aplicar o conhecimento na prática.",
+   "Você tem aulas em laboratórios de desenho, materiais de construção e maquetes, além de ateliês no Espaço Maker e do uso de softwares específicos do curso.",
+   "Mais flexibilidade para conciliar seus estudos com a sua rotina",
+   "Sabemos que quem busca uma graduação também precisa conciliar trabalho, família, compromissos e vida pessoal.",
+   "Por isso, o Unicive oferece uma organização acadêmica que proporciona mais flexibilidade e autonomia para os seus estudos, em conformidade com as possibilidades estabelecidas pela Portaria MEC nº 378, de 19 de maio de 2025.",
+   "No curso de Arquitetura e Urbanismo, até 30% da formação pode ser desenvolvida por meio de atividades assíncronas. O que isso significa para você?",
+   "Nas atividades assíncronas, professor e aluno não precisam estar conectados ao mesmo tempo. Dessa forma, você organiza seus estudos nos horários que funcionam melhor para a sua rotina.",
+   "Projetos que saem do papel",
+   "O Bacharelado em Arquitetura e Urbanismo do Unicive foi pensado para quem quer transformar ideias em projetos, com prática em ateliê e laboratório.",
+   "Seja em escritórios de arquitetura, na construção civil, no setor público ou em projetos autorais, a profissão oferece caminhos variados.",
+   "Conheça o Bacharelado em Arquitetura e Urbanismo do Unicive e forme-se com prática em ateliê e laboratório."
+  ]
+ },
+ "matriz_curricular": [
+  "CRIATIVIDADE E DESIGN THINKING",
+  "ESTÉTICA E HISTÓRIA DA ARTE",
+  "FÍSICA E MATEMÁTICA APLICADA A ARQUITETURA",
+  "FORMAÇÃO SOCIOCULTURAL E ÉTICA",
+  "MATERIAIS DA CONSTRUÇÃO",
+  "MEIOS DE EXPRESSÃO E REPRESENTAÇÃO",
+  "MODELOS TRIDIMENSIONAIS",
+  "PLÁSTICA",
+  "TEORIA E FUNDAMENTOS DA ARQUITETURA E URBANISMO",
+  "ARQUITETURA, ESPAÇO E SOCIEDADE",
+  "ATELIÊ DE PROJETOS: TEORIA E FUNDAMENTOS",
+  "CONFORTO AMBIENTAL I – TÉRMICO",
+  "DESENHO ARQUITETÔNICO I",
+  "ERGONOMIA, ACESSIBILIDADE E DESENHO UNIVERSAL",
+  "ESTUDOS AMBIENTAIS URBANOS",
+  "HISTÓRIA DA ARQUITETURA E URBANISMO – ANTIGUIDADE AO SÉCULO XIX",
+  "MATERIAIS DE REVESTIMENTOS E ACABAMENTOS",
+  "SISTEMAS ESTRUTURAIS I: CONCRETO",
+  "ARQUITETURA E DESIGN EFÊMERO",
+  "ATELIÊ DE ARQUITETURA I",
+  "ATELIÊ DE DESIGN E PLANEJAMENTO ESPACIAL I: PROJETOS",
+  "RESIDENCIAIS",
+  "COMPUTAÇÃO GRÁFICA 2D",
+  "CONFORTO AMBIENTAL II: LUMÍNICO",
+  "DESENHO ARQUITETÔNICO II",
+  "HISTÓRIA DA ARQUITETURA E URBANISMO – MODERNA E CONTEMPORÂNEA",
+  "SISTEMAS ESTRUTURAIS II: METAL E MADEIRA",
+  "ARQUITETURA DA PAISAGEM I: PEQUENA ESCALA",
+  "ATELIÊ DE ARQUITETURA II",
+  "ATELIÊ DE DESIGN DE MOBILIÁRIO",
+  "ATELIÊ DE DESIGN E PLANEJAMENTO ESPACIAL II:PROJETOS",
+  "COMERCIAIS",
+  "COMPUTAÇÃO GRÁFICA 3D",
+  "CONFORTO AMBIENTAL III: ACÚSTICO",
+  "HISTÓRIA DA ARQUITETURA BRASILEIRA",
+  "TOPOGRAFIA",
+  "ARQUITETURA DA PAISAGEM II: PROJETOS RESIDENCIAIS",
+  "ATELIÊ DE ARQUITETURA III",
+  "ATELIÊ DE ARQUITETURA: LUMINOTÉCNICA",
+  "COMUNICAÇÃO E LINGUAGEM VISUAL",
+  "INSTALAÇÕES HIDRÁULICAS PREDIAIS",
+  "METODOLOGIA DA PESQUISA EM ARQUITETURA E URBANISMO",
+  "PLANEJAMENTO DOS SISTEMAS URBANOS",
+  "TECNOLOGIA EM INFRAESTRUTURA URBANA",
+  "ARQUITETURA DA PAISAGEM III: PROJETOS URBANOS",
+  "ATELIÊ DE ARQUITETURA IV",
+  "ATELIÊ DE URBANISMO I",
+  "CONSTRUÇÕES SUSTENTÁVEIS E INOVAÇÕES",
+  "ESTÁGIO SUPERVISIONADO I",
+  "INSTALAÇÕES ELÉTRICAS PREDIAIS",
+  "TÉCNICAS RETROSPECTIVAS",
+  "TECNOLOGIA DA CONSTRUÇÃO I",
+  "ANÁLISE E PREVENÇÃO DE PATOLOGIAS",
+  "ATELIÊ DE ARQUITETURA V",
+  "ATELIÊ DE RESTAURO E PATRIMÔNIO HISTÓRICO",
+  "ATELIÊ DE URBANISMO II",
+  "ESTÁGIO SUPERVISIONADO II",
+  "GERENCIAMENTO DE OBRAS",
+  "QUANTITATIVO E ORÇAMENTÁRIO",
+  "TECNOLOGIA DA CONSTRUÇÃO II",
+  "ATELIÊ DE ARQUITETURA VI",
+  "DESEMPENHO E SEGURANÇA NAS EDIFICAÇÕES",
+  "ESTÁGIO SUPERVISIONADO III",
+  "GESTÃO DE ESCRITÓRIOS DE ARQUITETURA E URBANISMO",
+  "PLANEJAMENTO URBANO E REGIONAL",
+  "POLÍTICAS DE HABITAÇÃO SOCIAL",
+  "TÓPICOS DE ESTUDOS AVANÇADOS: FUNDAÇÕES",
+  "ATELIÊ DE ARQUITETURA E URBANISMO",
+  "PRÁTICA PROFISSIONAL E LEGISLAÇÃO",
+  "TRABALHO FINAL DE GRADUAÇÃO I",
+  "EMPREENDEDORISMO",
+  "TRABALHO FINAL DE GRADUAÇÃO II"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Formação profissional = diploma 2x": [
+   "Amplie sua formação e abra novos caminhos para sua carreira: 1 jornada acadêmica, 2 formações superiores e 2 possibilidades profissionais.",
+   "Quem projeta espaços precisa dominar também o que acontece dentro deles: layout, conforto, materiais e uso. Por isso, ampliar a formação pode ser um diferencial para quem deseja construir uma trajetória profissional mais completa.",
+   "É com esse propósito que o Unicive oferece o Programa de Formação Profissional, que possibilita ao aluno do Bacharelado em Arquitetura e Urbanismo cursar, de forma concomitante, o Curso Superior de Tecnologia em Design de Interiores."
+  ],
+  "Como funciona?": [
+   "Durante a graduação em Arquitetura e Urbanismo, o aluno pode cursar ao mesmo tempo o Tecnólogo em Design de Interiores, com duração de 2 anos, conforme as condições do programa.",
+   "Ao longo desse percurso, ele também recebe certificações intermediárias na área:",
+   "● Decorador, em 1 ano;",
+   "● Assistente de Projetos, em 1,5 ano.",
+   "Ao cumprir os requisitos acadêmicos, o estudante conclui a jornada com dois diplomas: Bacharel em Arquitetura e Urbanismo e Tecnólogo em Design de Interiores."
+  ],
+  "Uma formação que amplia seus conhecimentos": [
+   "A combinação entre Arquitetura e Urbanismo e Design de Interiores une o projeto da edificação e da cidade ao projeto dos ambientes, contribuindo para uma visão mais completa do espaço construído.",
+   "Assim, o aluno desenvolve competências complementares ao longo da graduação e se prepara para atuar em projetos de arquitetura, interiores, paisagismo e urbanismo."
+  ],
+  "Uma trajetória pensada para sua carreira": [
+   "O Programa de Formação Profissional acompanha o desenvolvimento do estudante durante sua jornada acadêmica, permitindo que diferentes qualificações sejam construídas ao longo desse percurso.",
+   "Arquitetura e Urbanismo para projetar edificações e cidades. Design de Interiores para projetar ambientes. Duas formações em uma única jornada acadêmica.",
+   "Conheça o Programa de Formação Profissional do Unicive e descubra as possibilidades para sua carreira."
+  ],
+  "Uma formação para diferentes caminhos profissionais": [
+   "A variedade de áreas permite que o arquiteto e urbanista construa sua trajetória de acordo com seus interesses e objetivos. Seja em projetos residenciais e corporativos, no planejamento urbano, na preservação do patrimônio ou no paisagismo, a Arquitetura e Urbanismo oferece uma formação que acompanha diferentes caminhos de carreira.",
+   "O curso de Arquitetura e Urbanismo do Unicive prepara você para escolher seu caminho e atuar em um mercado com espaço para diferentes especialidades."
+  ],
+  "Mercado de trabalho": [
+   "Diversas possibilidades para sua atuação profissional",
+   "A formação em Arquitetura e Urbanismo permite ao profissional atuar em escritórios, na construção civil e em órgãos públicos, além de áreas como arquitetura sustentável e restauro. Também é possível empreender com projetos autorais.",
+   "● Entre as principais áreas de atuação estão:",
+   "● Construção civil e incorporação imobiliária;",
+   "● Órgãos públicos e prefeituras;",
+   "● Patrimônio histórico e cultural;",
+   "● Paisagismo;",
+   "● Consultoria e empreendimento próprio;",
+   "● Ensino e pesquisa."
+  ],
+  "Diferenciais do curso": [
+   "• Uma formação conectada à prática profissional",
+   "O curso de Arquitetura e Urbanismo do Unicive foi pensado para aproximar o que você aprende em sala de aula da rotina real dos projetos, com projetos reais de urbanismo, sustentabilidade e inovação.",
+   "• Laboratórios e ateliês",
+   "As aulas práticas acontecem em laboratórios de desenho, materiais de construção e maquetes, e os ateliês de Arquitetura funcionam no Espaço Maker do Unicive.",
+   "• Escritório modelo de Arquitetura",
+   "No Unicive o aluno de arquitetura e urbanismo tem a possibilidade de atuar na prática, acompanhado pelos responsáveis técnicos, no escritório modelo de arquitetura e urbanismo.",
+   "• Softwares específicos",
+   "Você aprende a usar softwares específicos para o curso, que apoiam o desenho e a modelagem 3D dos projetos.",
+   "• Professores atuantes no mercado",
+   "O curso conta com professores que atuam no mercado e em escritórios de arquitetura, trazendo experiências da prática profissional para a formação.",
+   "Prática em ateliê e laboratório para construir uma formação conectada ao mercado de trabalho."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Fernando Henrique de Santana Novaes",
+   "curriculo": "Mestre em Engenharia Urbana pela Universidade Estadual de Maringá (PEU/UEM), possui Pós-Graduação em Docência no Ensino Superior: Tecnologias Educacionais e Inovação, e Bacharelado em Arquitetura e Urbanismo pela UniCesumar (2016). Atua como Coordenador dos Cursos de Bacharelado em Arquitetura e Urbanismo; CST Design de Interiores e Bacharelado em Engenharia Civil do Centro Universitário Cidade Verde - UniCV. Conselheiro no Conselho Municipal de Planejamento e Gestão Territorial (CMPGT) de Maringá. Conselheiro no Conselho Municipal de Defesa do Meio Ambiente (COMDEMA) de Maringá. Possui experiência na gestão pedagógica, acadêmica, escrita e produção de materiais para o Ensino Superior nas áreas de Arquitetura e Urbanismo e Design. Participou da elaboração do Exame Nacional de Desempenho dos Estudantes - ENADE - para as provas do CST Design de Interiores no ciclo 2018 e 2022, para o CST em Segurança do Trabalho na edição de 2019 e 2023, e para o Curso de Bacharelado em Design em 2025. Currículo Lattes: Veja aqui E-mail: prof_fernando@unicv.edu.br",
+   "lattes": "http://lattes.cnpq.br/2939950177544739"
+  }
+ ],
+ "investimento": {
+  "de": 1410.02,
+  "por": 761.41,
+  "parcelamento": null,
+  "texto": "De: R$ 1410.02 Por: 1+60x R$ 761,41"
+ },
+ "modalidade": "Graduação Presencial",
+ "duracao": "5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [
+  "Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/arquiteturapresencial.webp",
+ "sincronizado_em": "2026-10-16T14:53:37+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:37+00:00"
+}

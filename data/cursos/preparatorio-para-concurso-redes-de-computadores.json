@@ -1,0 +1,59 @@
+{
+ "id": 222369,
+ "slug": "preparatorio-para-concurso-redes-de-computadores",
+ "url": "https://unicive.com/courses/preparatorio-para-concurso-redes-de-computadores/",
+ "titulo": "Preparatório para Concurso – Redes de Computadores",
+ "publicado": "2026-06-17T17:30:19",
+ "modificado": "2026-08-05T17:29:02",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [
+  "Preparatório para Concursos"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de Preparatório para Concurso - Redes de Computadores no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso Preparatório para Concurso – Redes de Computadores foi desenvolvido para preparar candidatos que desejam aprimorar seus conhecimentos em infraestrutura de redes, comunicação de dados e tecnologias de conectividade. A formação aborda os principais fundamentos de redes de computadores, incluindo componentes, topologias, transmissão de dados, arquitetura TCP/IP, protocolos de comunicação e técnicas de roteamento.",
+   "O curso também contempla temas relacionados a redes sem fio, padrões de redes, cabeamento estruturado, virtualização, automação de redes, segurança da informação e planejamento de infraestrutura. Dessa forma, proporciona uma visão ampla sobre projeto, implementação, gerenciamento e proteção de redes computacionais, contribuindo para o desenvolvimento das competências necessárias para concursos e seleções na área.",
+   "Preparar os participantes para concursos públicos e processos seletivos na área de Redes de Computadores, oferecendo conhecimentos essenciais sobre infraestrutura, protocolos, segurança, gerenciamento e tecnologias aplicadas à comunicação de dados."
+  ],
+  "Sobre a carga horária": [
+   "O preparatório para concurso tem carga horária de 20 horas, que poderão ser utilizadas como parte das AAC – Atividades Acadêmicas Complementares."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "– Fundamentos, componentes e topologias de redes de computadores",
+   "– Fundamentos da comunicação e transmissão de dados",
+   "– Arquitetura TCP/IP e seus protocolos",
+   "– Tipos de algoritmos e protocolos de roteamento",
+   "– Padrões de redes IEEE 802.x",
+   "– Redes sem fio",
+   "– Normas e padrões de cabeamento estruturado",
+   "– Virtualização de redes, servidores, aplicativos e desktops",
+   "– Programação e Automação de redes de computadores",
+   "– Conceitos de banco de dados aplicados a redes de computadores",
+   "– Segurança de redes de computadores",
+   "– Projeto lógico e físico de redes de computadores"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 50.0,
+  "por": 20.0,
+  "parcelamento": null,
+  "texto": "De: R$ 50.00 Por: R$ 20,00"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "20 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/06/preparatorio_redes_computadores.jpg",
+ "sincronizado_em": "2026-10-16T14:51:16+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:16+00:00"
+}

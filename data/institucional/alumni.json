@@ -1,0 +1,56 @@
+{
+ "slug": "alumni",
+ "titulo": "Alumni Egressos",
+ "url": "https://unicive.com/alumni/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "SEJA BEM-VINDO AO ALUMNI!"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O Alumni Unicive é uma plataforma criada para você que já foi nosso aluno, com o objetivo de continuarmos conectados."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "OBJETIVO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O Portal Alumni Unicive tem o objetivo de continuar contribuindo com conhecimento aos seus alunos mesmo após a sua formação, fornecendo um ambiente de conexão, aprendizado e oportunidades. Nossa missão é criar uma comunidade de egressos que possam se apoiar profissionalmente, além de nos mantermos sempre atualizados com informações dos nossos alunos."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "VANTAGENS"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Acessando a plataforma você pode:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Utilizar descontos exclusivos nos cursos de Graduação e Pós-graduação, motivando a continuidade nos estudos;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir um e-mail exclusivo do Unicive (aluno@unicv.edu.br), através da solicitação por formulário e, assim, aproveitar o G Suit for Education;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir acesso ao acervo online da instituição bem como sugestões de links para pesquisas de materiais atualizados na biblioteca virtual;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Baixar seu diploma digital;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Buscar oportunidades profissionais – e divulgar suas vagas por aqui também."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Não perca tempo e venha fazer parte da nossa comunidade, inscreva-se já!"
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:11:02+00:00"
+}

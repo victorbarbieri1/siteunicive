@@ -1,0 +1,57 @@
+{
+ "id": 209627,
+ "slug": "excel-avancado-com-analise-de-dados",
+ "url": "https://unicive.com/courses/excel-avancado-com-analise-de-dados/",
+ "titulo": "Excel Avançado com Análise de Dados",
+ "publicado": "2026-02-05T17:11:04",
+ "modificado": "2026-10-15T15:04:11",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Excel Avançado com Análise de Dados no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações do curso": [
+   "Potencialize sua carreira com o curso “Excel Avançado com Análise de Dados” e domine uma das ferramentas mais valorizadas no mercado. Aprenda a usar fórmulas avançadas, funções inteligentes e recursos de análise para resolver problemas reais. Com uma abordagem prática, você ganhará agilidade na organização de dados e segurança na tomada de decisões. Automatize rotinas, crie relatórios claros e profissionais e aumente sua produtividade!"
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático:": [
+   "OPERADORES: Operadores Aritméticos que são utilizados para a realização de cálculos matemáticos; Operadores de Comparação utilizados para validarem retornos de resultados booleanos (verdadeiro ou falso).",
+   "FÓRMULAS AVANÇADAS: são combinações de funções, operadores e referências que permitem realizar cálculos complexos, manipular dados de forma dinâmica e automatizar análises, com uso de funções de lógica (permite a criação de condições para tomadas de decisões com retorno de valores verdadeiros ou falsos), busca e referência (utilizadas para localizar dados em base de dados e o cruzamento de informações para retorno de valores relacionados), funções de estatísticas (usadas para analisar dados, resumo de informações e identificação de padrões) e agregação (usadas para resumo e consolidação de conjunto de dados), manipulação de textos (usadas para manipular, extrair, combinar e formatar informações) e datas (usadas para análise e cálculos de períodos, intervalos e extração de partes de uma data).",
+   "FORMATAÇÃO CONDICIONAL: é um recurso que permite alterar automaticamente a aparência de células (como cor de fundo, cor da fonte, ícones ou barras de dados) com base em regras ou condições definidas pelo usuário.",
+   "FORMATOS PERSONALIZADOS: são regras criadas pelo usuário para controlar como os valores (números, datas, textos) aparecem nas células, sem alterar o conteúdo real armazenado. Eles permitem adaptar a exibição dos dados às necessidades específicas de relatórios, análises ou apresentações.",
+   "VALIDAÇÃO DE DADOS: é uma ferramenta que permite controlar o tipo de informação que pode ser inserida em uma célula ou intervalo, garantindo consistência e evitando erros na planilha.",
+   "GRÁFICOS: são representações visuais dos dados de uma planilha, usados para facilitar a análise, interpretação e comunicação de informações. Eles transformam números e tabelas em imagens que destacam tendências, comparações e padrões, tornando relatórios mais claros e dinâmicos.",
+   "GERENCIADOR DE NOMES: é uma ferramenta que permite criar, editar, excluir e organizar nomes definidos para células, intervalos, constantes ou fórmulas. Esses nomes funcionam como atalhos que tornam as fórmulas mais fáceis de entender e manter, substituindo referências diretas.",
+   "TABELAS: são intervalos de dados convertidos em um objeto estruturado, que oferece recursos adicionais de organização, análise e formatação. Elas tornam o trabalho com grandes conjuntos de informações mais eficiente e dinâmico.",
+   "TABELAS DINÂMICAS: são ferramentas de análise que permitem resumir, reorganizar e explorar grandes volumes de dados de forma interativa, sem alterar a base original. Elas transformam listas extensas em relatórios claros e flexíveis, ideais para identificar padrões, tendências e comparações.",
+   "SEGMENTAÇÃO DE DADOS: é um recurso visual que permite filtrar informações em tabelas e tabelas dinâmicas de forma rápida e interativa, usando botões em vez de menus tradicionais de filtro.",
+   "LINHA DE TEMPO: é uma ferramenta visual usada em conjunto com tabelas dinâmicas para filtrar dados por período de tempo (anos, trimestres, meses ou dias) de forma simples e interativa.",
+   "INTRODUÇÃO A DASHBOARDS: Também conhecida como Gestão a Vista, através de visual e interação reúne, em uma única tela, gráficos, tabelas, indicadores e controles para apresentar informações de forma resumida e dinâmica. Ele funciona como um painel de controle, permitindo acompanhar métricas, analisar tendências e tomar decisões rapidamente.",
+   "TECLAS DE ATALHO: são combinações de teclas que permitem executar comandos de forma rápida e eficiente, sem precisar navegar pelos menus ou usar o mouse. Elas aumentam a produtividade, reduzem o tempo de trabalho e tornam o uso do Excel mais dinâmico."
+  ],
+  "Professor responsável": [
+   "Prof. Esp. Marcelo Silveira",
+   "Especialista na área de TI, desde 1988, trabalhou em áreas distintas, como gerência de TI, consultoria, treinamentos, coordenação e implantações. Elaborou melhorias nos processos e apresentou soluções práticas e objetivas. Teve trabalhos desenvolvidos, como reestruturação de ambiente tecnológico, implantação de servidores de rede, arquivos e impressão, implantação de ferramenta de CRM, em um projeto-piloto criado com a FIAT do Brasil, gerenciamento do banco de dados MSSQL Server e criação de conexão dos dados com planilhas do Microsoft Excel e Microsoft Power BI. Realizou diversas consultorias na área de TI, treinamentos especializados em sistemas ERP, sistemas de internet, sistema operacional Windows e ferramentas do Microsoft Office, do módulo básico ao avançado, com foco especializado no Microsoft Excel, Power Query, Solver, criação de Dashboards, com a utilização do Microsoft Excel e Microsoft Power BI. Graduado em Administração, com MBAs em Gestão de Processos, Gestão Estratégica de Pessoas, Contabilidade e Gestão Financeira, Análise de Dados e Cálculos Atuariais. Possui especialização em Tradução e Interpretação em LIBRAS, a qual utilizou durante os seis anos como intérprete de LIBRAS em faculdades e trabalho voluntário de intérprete."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 410.0,
+  "por": 295.0,
+  "parcelamento": null,
+  "texto": "De: R$ 410.00 Por: R$ 295,00"
+ },
+ "modalidade": "Cursos Livres Presencial",
+ "duracao": "28 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/02/dynamic-team-collaboration-modern-office-environment-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:52:17+00:00",
+ "primeira_vez_visto": "2026-10-16T14:52:17+00:00"
+}

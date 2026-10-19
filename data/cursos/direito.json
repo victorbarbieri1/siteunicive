@@ -1,0 +1,172 @@
+{
+ "id": 5210,
+ "slug": "direito",
+ "url": "https://unicive.com/courses/direito/",
+ "titulo": "Direito",
+ "publicado": "2023-08-03T13:48:08",
+ "modificado": "2026-10-15T08:54:21",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
+ ],
+ "categorias": [],
+ "tags": [
+  "5 anos"
+ ],
+ "seo_descricao": "Curso de Direito no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Prepare-se para atuar na advocacia, no setor público e nas empresas",
+   "Leis, contratos e conflitos estão presentes em todas as relações sociais, institucionais e empresariais. O mercado busca profissionais que saibam interpretar normas, construir argumentos e resolver demandas jurídicas com ética e visão estratégica.",
+   "É com esse propósito que o Unicive oferece o curso de Bacharelado em Direito: uma formação para quem se interessa por leis e Justiça, gosta de argumentar e quer seguir carreira jurídica ou corporativa, no setor público ou privado.",
+   "Uma formação completa para o mercado de trabalho",
+   "Durante a graduação, você desenvolve competências essenciais para sua carreira,como:",
+   "● Interpretação de normas; ● Argumentação jurídica; ● Análise de casos complexos; ● Solução de conflitos e mediação; ● Compliance e governança empresarial; ● Tomada de decisão fundamentada; ● Domínio técnico do Direito e da estrutura das instituições.",
+   "Aqui, você não aprende apenas conceitos. Você aprende a aplicar o conhecimento na prática.",
+   "Desde o início do curso, você participa de audiências simuladas e casos reais no Núcleo de Prática Jurídica, em parceria com o Tribunal de Justiça e o CEJUSC.",
+   "Mais flexibilidade para conciliar seus estudos com a sua rotina",
+   "Sabemos que quem busca uma graduação também precisa conciliar trabalho, família, compromissos e vida pessoal.",
+   "Por isso, o Unicive oferece uma organização acadêmica que proporciona mais flexibilidade e autonomia para os seus estudos, em conformidade com as possibilidades estabelecidas pela Portaria MEC nº 378, de 19 de maio de 2025.",
+   "No curso de Direito, até 30% da formação pode ser desenvolvida por meio de atividades assíncronas.",
+   "O que isso significa para você?",
+   "Nas atividades assíncronas, professor e aluno não precisam estar conectados ao mesmo tempo. Dessa forma, você organiza seus estudos nos horários que funcionam melhor para a sua rotina.",
+   "Uma carreira com prática desde o início",
+   "O Bacharelado em Direito do Unicive foi pensado para quem quer construir uma carreira jurídica com prática, ética e visão estratégica.",
+   "Seja na advocacia, nas carreiras públicas, nas empresas ou na mediação de conflitos, o Direito oferece uma formação ampla e com espaço em diferentes setores.",
+   "Conheça o Bacharelado em Direito do Unicive e comece a construir sua carreira jurídica."
+  ]
+ },
+ "matriz_curricular": [
+  "Ciências Sociais E Cidadania Política",
+  "Direito Civil – Parte Geral",
+  "Direito Constitucional – Teoria Geral E Direitos Humanos",
+  "Português Aplicado Ao Direito E Produção Textual",
+  "Prática Jurídica",
+  "Teoria Do Direito",
+  "Controle De Constitucionalidade",
+  "Direito Das Obrigações",
+  "Formas Consensuais De Solução De Conflitos",
+  "Hermenêutica E Argumentação Jurídica",
+  "Prática Jurídica De Direito Administrativo",
+  "Teoria Geral Do Crime",
+  "Direito Ambiental E Urbanístico",
+  "Direito Contratual E Prática Jurídica Contratual",
+  "Filosofia Jurídica",
+  "Sistema De Informações Gerenciais",
+  "Teoria Geral Da Pena",
+  "Teoria Geral Do Processo",
+  "Direito Do Trabalho",
+  "Direito E Prática Do Consumidor",
+  "Direito Empresarial Societário",
+  "Direito Penal Parte Especial",
+  "Processo De Conhecimento",
+  "Serviços Registrais E Notariais",
+  "Análise Econômica Do Direito",
+  "Direito Negocial",
+  "Direito Penal Legislação Especial",
+  "Direito Previdenciário E Prática Administrativa Previdenciária",
+  "Procedimentos Especiais E Tutelas Provisórias",
+  "Responsabilidade Civil",
+  "Coisa Julgada E Ação Rescisória – Prática De Sentença",
+  "Direito Administrativo",
+  "Direito Constitucional Tributário",
+  "Direitos Reais",
+  "Teoria Geral Do Processo Penal",
+  "Direito De Família E Legislação Especial",
+  "Direito Processual Civil – Recursos",
+  "Direito Processual Do Trabalho",
+  "Estágio Supervisionado – Civil I E Previdenciário (Simulado)",
+  "Persecução Penal",
+  "Direito Das Sucessões",
+  "Direito Internacional",
+  "Direito Tributário",
+  "Estágio Supervisionado – Civil II E Trabalhista (Simulado)",
+  "Metodologia E Projeto De Pesquisa Científica",
+  "Psicologia Forense",
+  "Direito Digital",
+  "Direito Financeiro",
+  "Direito Processual Civil – Execução",
+  "Eixo I: Direito Processual Do Trabalho",
+  "Eixo II: Direito Processual Empresarial E Prática Empresarial",
+  "Estágio Real – Npj I",
+  "Estágio Supervisionado – Processo Penal E Constitucional (Simulado)",
+  "Trabalho De Conclusão De Curso",
+  "Eixo III: Direito Processual Tributário E Prática Tributária",
+  "Eixo IV: Compliance E Governança Empresarial",
+  "Estágio Real – Npj II",
+  "Estágio Supervisionado – Tribunal Do Júri (Simulado)",
+  "Ética Geral E Profissional",
+  "Negócios Eletrônico"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Formação profissional = diploma 2x": [
+   "Amplie sua formação e abra novos caminhos para sua carreira: 1 jornada acadêmica, 2 formações superiores e 2 possibilidades profissionais.",
+   "O dia a dia jurídico vai além dos tribunais: envolve rotinas de escritório, documentos, prazos e atendimento. Por isso, ampliar a formação pode ser um diferencial para quem deseja construir uma trajetória profissional mais completa.",
+   "É com esse propósito que o Unicive oferece o Programa de Formação Profissional, que possibilita ao aluno do Bacharelado em Direito cursar, de forma concomitante, o Curso Superior de Tecnologia em Serviços Jurídicos."
+  ],
+  "Uma formação que amplia seus conhecimentos": [
+   "A combinação entre Direito e Serviços Jurídicos une a formação de bacharel às rotinas práticas da área, contribuindo para uma visão mais ampla do funcionamento dos serviços jurídicos.",
+   "Assim, o aluno desenvolve competências complementares ao longo da graduação e se prepara para atuar em escritórios, empresas e órgãos públicos."
+  ],
+  "Uma trajetória pensada para sua carreira": [
+   "O Programa de Formação Profissional acompanha o desenvolvimento do estudante durante sua jornada acadêmica, permitindo que diferentes qualificações sejam construídas ao longo desse percurso.",
+   "Direito para uma formação jurídica ampla. Serviços Jurídicos para dominar a rotina da área. Duas formações em uma única jornada acadêmica."
+  ],
+  "Como funciona?": [
+   "Durante a graduação em Direito, o aluno pode cursar ao mesmo tempo o Tecnólogo em Serviços Jurídicos, com duração de 2 anos, conforme as condições do programa.",
+   "Durante a graduação em Direito, o aluno pode cursar ao mesmo tempo o Tecnólogo em Serviços Jurídicos, com duração de 2 anos, conforme as condições do programa.",
+   "● Auxiliar de Serviços Jurídicos, em 1 ano;",
+   "● Assistente de Serviços Jurídicos, em 1,5 ano.",
+   "Ao cumprir os requisitos acadêmicos, o estudante conclui a jornada com dois diplomas: Bacharel em Direito e Tecnólogo em Serviços Jurídicos."
+  ],
+  "Mercado de trabalho": [
+   "Diversas possibilidades para sua atuação profissional",
+   "A formação em Direito permite ao profissional atuar, observados os requisitos legais, em escritórios, empresas e órgãos públicos. O bacharel pode seguir a advocacia, as carreiras públicas ou a área corporativa.",
+   "Entre as principais áreas de atuação estão:",
+   "● Advocacia pública e privada;",
+   "● Carreiras jurídicas: magistratura, Ministério Público, Defensoria e Procuradoria;",
+   "● Serviço público em órgãos municipais, estaduais e federais;",
+   "● Compliance, contratos e direito empresarial;",
+   "● Mediação e arbitragem;",
+   "● Ensino e pesquisa."
+  ],
+  "Diferenciais do curso": [
+   "• Uma formação conectada à prática profissional",
+   "O curso de Direito do Unicive foi pensado para levar a prática jurídica para dentro da graduação, aproximando o estudante da rotina real da Justiça.",
+   "• Núcleo de Prática Jurídica",
+   "No Núcleo de Prática Jurídica, os alunos atuam em casos reais e simulados, com audiências simuladas, em parceria com o Tribunal de Justiça e o CEJUSC.",
+   "• Parcerias institucionais",
+   "O curso mantém parcerias com o Tribunal de Justiça, o CEJUSC e o PROCON.",
+   "• Resultado reconhecido",
+   "O curso de Direito do Unicive tem nota 4 no ENADE e nota 5 no IDD.",
+   "• Visitas técnicas",
+   "Os estudantes participam de visitas técnicas a tribunais, penitenciárias e órgãos públicos.",
+   "• Formação para o empreendedorismo",
+   "O curso também prepara para o empreendedorismo e para a atuação empresarial.",
+   "Prática, ética e visão estratégica para construir uma formação conectada ao mercado de trabalho."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Priscila Kutne Armelin",
+   "curriculo": "Doutorado em Direito pela FADISP (2-2022). Graduada em Direito pela Universidade Estadual de Maringá (1993) e mestrado em Direito pela Universidade Estadual de Maringá (2007). Especialização pela Escola Superior do Ministério Público (1992). Especialização em Direito Empresarial pela OAB/INBRAPE (2001). Especialização em Tecnologias Aplicada ao Ensino à distância pelo UniCV (2021). Advogada inscrita na OAB/PR sob o n. 20625. Membro Comissão da Educação Jurídica Estadual OAB/PR (2015-2021), Conselheira na OAB/Maringá-PR (gestão 2015/2018 e gestão em 2019-2021). Vice-presidente da Comissão da Educação Jurídica na OAB/Maringá-PR (gestão 2022-2024). Professora de pós-graduação e graduação. Coordena o Curso de graduação em Direito e dos cursos de tecnólogos em Serviços Jurídicos (presencial) do UniCV (desde 2019). Coordenou o Curso de Direito com Ênfase em Políticas Pública da UNIFAMMA (2009-2019), foi membro da CPA e CONSEPE. Tem experiência em gestão acadêmica e atua na área jurídica. Instrutora e facilitadora de Justiça Restaurativa. Mediadora e Conciliadora Judicial pelo Núcleo Permanente de Métodos Consensuais de Solução de Conflitos – NUPEMEC/PR. Avaliadora de cursos de graduação pelo Ministério da Educação/INEP. Autora das obras: Patrimônio Cultural &amp; Sistema Penal (2008) e Tráfico ilícito de bem cultural (2024). Curriculo Lattes: Veja Aqui E-mail: prof_priscila@unicv.edu.br",
+   "lattes": "https://lattes.cnpq.br/9369057226299537"
+  }
+ ],
+ "investimento": {
+  "de": 1410.02,
+  "por": 951.77,
+  "parcelamento": null,
+  "texto": "De: R$ 1410.02 Por: 1+60x R$ 951,77"
+ },
+ "modalidade": "Graduação Presencial",
+ "duracao": "5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [
+  "Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/direitopresencial.webp",
+ "sincronizado_em": "2026-10-16T14:53:35+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:35+00:00"
+}

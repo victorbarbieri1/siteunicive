@@ -1,0 +1,75 @@
+{
+ "id": 229860,
+ "slug": "diagnostico-por-imagem",
+ "url": "https://unicive.com/courses/diagnostico-por-imagem/",
+ "titulo": "Diagnóstico por Imagem",
+ "publicado": "2026-10-15T18:41:08",
+ "modificado": "2026-10-16T10:48:32",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Diagnóstico por Imagem no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "A Pós-Graduação em Diagnóstico por Imagem é um programa de especialização lato sensu projetado para capacitar profissionais da saúde na interpretação, correlação e aplicação das principais modalidades radiológicas e de imagem médica.",
+   "A formação abrange desde os princípios físicos da formação de imagem até a análise avançada em Radiografia Computadorizada/digital, Mamografia, Densitometria óssea, Tomografia Computadorizada e Ressonância Magnética, correlacionando achados anatômicos e patológicos às condutas clínicas."
+  ]
+ },
+ "matriz_curricular": [
+  "Fundamentos do Diagnóstico por Imagem",
+  "Anatomia Aplicada ao Diagnóstico por Imagem",
+  "Mamografia e Densitometria Óssea no Diagnóstico por Imagem da Mama",
+  "Tomografia Computadorizada – Fundamentos, Protocolos e Aplicações Clínicas",
+  "Ressonância Magnética – Fundamentos, Protocolos e Aplicações Clínicas",
+  "Medicina Nuclear – Fundamentos, Protocolos e Aplicações Clínicas",
+  "Física das Radiações e Proteção Radiológica",
+  "Gestão, Biossegurança e Qualidade em Serviços de Imagem",
+  "Imaginologia do Sistema Neurológico e Musculoesquelético",
+  "Imaginologia do Tórax e Sistema Cardiovascular",
+  "Inteligência Artificial e Novas Tecnologias em Diagnóstico por Imagem",
+  "Contrastes Radiológicos e Segurança do Paciente",
+  "Práticas diagnósticas",
+  "Trabalho de Conclusão de Curso (TCC)"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Metodologia": [
+   "– O percurso pedagógico é estruturado para unir embasamento teórico-científico à prática diagnóstica intensiva:",
+   "– Aulas Expositivas e Discussão de Casos: Simulação de aquisição de imagens e análise/ interpretação de casos reais anonimizados, permitindo o treino contínuo de rastreio de lesões e correlação sintomática.",
+   "– Metodologias Ativas : Resolução de desafios diagnósticos em pequenos grupos, priorizando o diagnóstico diferencial e a tomada de decisão sob pressão de tempo."
+  ],
+  "Público – alvo": [
+   "– Biomédicos, Tecnólogos e Bacharéis em Radiologia que atuam ou desejam atuar no processamento, aquisição e otimização de imagens diagnósticas avançadas.",
+   "– Médicos de diversas especialidades (generalistas, emergencistas, intensivistas, ortopedistas, entre outros) que buscam aprimorar o raciocínio diagnóstico e a interpretação de exames na prática diária."
+  ],
+  "Diferenciais": [
+   "● Abordagem Multi-Modalidade Integrada: Estudo sequencial e comparativo das imagens (ex.: quando indicar e como correlacionar Radiografias, Tomografia e Ressonância no mesmo órgão ou patologia).",
+   "● Foco em Diagnósticos Emergenciais e de Alta Complexidade: Módulos dedicados à Radiologia de Urgência e Emergência (protocolos FAST, AVC agudo, trauma abdômino- torácico), essenciais para a prática em pronto-atendimento e UTI.",
+   "● Treinamento com Casos Reais de PACS: Prática imersiva em estações de trabalho e softwares de visualização de alta resolução, aproximando o aluno da rotina real de centros de imagem e hospitais.",
+   "● Corpo Docente Especializado: Aulas ministradas por Radiologistas, Biomédicos e especialistas atuantes no mercado, trazendo protocolos atualizados e discussões alinhadas às diretrizes nacionais e internacionais."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Andressa Valente",
+   "curriculo": "Técnica em Informática. Graduada em Biomedicina pela Universidade Unicesumar de Maringá, com habilitação em Patologia clínica e Imagenologia (2020). Pós-graduada em Imaginologia e Microbiologia Avançada (2022). Mestra pelo Programa de Pós-graduação em Ciências Biológicas (PBC), pela Universidade Estadual de Maringá (2022-2023). Possui experiência nas áreas de biologia molecular, genética humana e em pesquisas relacionadas a microbiologia, com ênfase na descoberta de novas moléculas. Além de experiência profissional na docencia em ensino superior e como biomédica Imagenologista. Atualmente atua como coordenadora do curso de Biomedicina do Unicive, na ministração de aulas e na supervisão de estágios obrigatórios.",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 12458.33,
+  "por": 8970.09,
+  "parcelamento": "Até 19x de R$ 472,11",
+  "texto": "De: R$ 12458.33 Por: R$ 8.970,09 Até 19x de R$ 472,11"
+ },
+ "modalidade": "Pós-graduação Presencial",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/10/diagnostico_por_imagem.webp",
+ "sincronizado_em": "2026-10-16T14:49:48+00:00",
+ "primeira_vez_visto": "2026-10-16T14:37:51+00:00"
+}

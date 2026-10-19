@@ -1,0 +1,73 @@
+{
+ "id": 3016,
+ "slug": "seguranca_da_informacao",
+ "url": "https://unicive.com/courses/seguranca_da_informacao/",
+ "titulo": "Segurança da Informação",
+ "publicado": "2023-06-29T09:47:09",
+ "modificado": "2026-08-03T12:16:05",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Segurança da Informação no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Os desafios que envolvem a Segurança da Informação atualmente são determinantes diante do que pode ser afetado caso ocorram problemas relacionados à perda de acesso, o roubo de dados, a indisponibilidade de serviços, dentre outros eventos que podem interferir no funcionamento correto das atividades da empresa .",
+   "Tema de grande importância no mundo dos negócios, o acadêmico e profissional deve preparar-se, cada vez mais, para compreender como as empresas utilizam Tecnologia da Informação nos seus processos diários e os impactos a serem considerados em relação à segurança da informação na tomada das decisões.",
+   "O curso de pós-graduação EAD em Segurança da Informação do Unicive tem como objetivo capacitar o acadêmico a identificar e tomar ações em relação à proteção de dados, a segurança física, a segurança ambiental, a aplicação das leis que envolvem a temática, o alinhamento da Tecnologia da Informação com os objetivos e a missão da empresa, dentre outras funções essenciais para a continuidade dos negócios.",
+   "As disciplinas que envolvem o curso, tanto a nível teórico quanto prático, trabalham a informação como um bem precioso, onde subentende-se que qualquer conteúdo que seja gerado pela empresa por meio de suas operações diárias, seja pelas transações de compra e venda, os registros de atividades dos funcionários ou qualquer outro conteúdo, necessita ser armazenado, e monitorado; para que não ocorram problemas relacionados a perda de acesso, roubo de dados, indisponibilidade de serviços, dentre outros eventos que podem interferir no funcionamento correto das atividades da empresa.",
+   "ESPECIALIZE-SE na segurança e sistemas de informação , CAPACITE-SE no Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "Segurança da Informação – 40H",
+  "Recursos Avançados em Segurança da Informação – 40H",
+  "Gestão da Tecnologia da Informação – 40H",
+  "Elementos da Arquitetura de Servidores – 40H",
+  "Protocolos de Segurança – 40H",
+  "Virtualização e Armazenamento – 40H",
+  "Redes Sem Fio e Comunicação Móvel – 40H",
+  "Boas Práticas em Segurança da Informação – 40H",
+  "Criptografia e Proteção de Dados – 40H",
+  "DISCIPLINA OPTATIVA: TCC – Trabalho de Conclusão de Curso – 60H"
+ ],
+ "carga_horaria_total": "360 HORAS",
+ "outras_secoes": {
+  "Público-alvo": [
+   "Profissionais graduados em Análise e Desenvolvimento de Sistemas, Gestão da Tecnologia da Informação, Ciência da Computação, Sistemas para Internet e demais profissionais de áreas afins, que estejam interessados em aprimorar seus conhecimentos e incrementar seus currículos na área de TECNOLOGIA, COMUNICAÇÃO E INOVAÇÃO, visando avanço de carreira no setor público e privado."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/seguranca_da_informacao.webp",
+ "sincronizado_em": "2026-10-16T14:53:58+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:58+00:00"
+}

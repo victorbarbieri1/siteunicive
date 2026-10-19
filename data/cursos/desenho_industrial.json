@@ -1,0 +1,73 @@
+{
+ "id": 2761,
+ "slug": "desenho_industrial",
+ "url": "https://unicive.com/courses/desenho_industrial/",
+ "titulo": "Desenho Industrial",
+ "publicado": "2023-06-29T08:10:45",
+ "modificado": "2026-08-13T10:24:36",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Desenho Industrial no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Os desafios da carreira de um profissional de desenho industrial estão em integrar habilidades técnicas, criatividade e conhecimentos teóricos, para criar produtos de sucesso com impacto ambiental mínimo.",
+   "O profissional da área deve manter-se atualizado com as últimas tendências e tecnologias, não só para garantir que os produtos desenvolvidos atendam às expectativas do mercado em constante evolução, como para adaptar-se ao design de produtos de consumo, como eletrônicos e móveis, até o design de embalagens, interfaces digitais e experiências de usuário.",
+   "O curso de pós-graduação EAD Desenho Industrial do Unicive tem como foco apresentar fundamentos teóricos e históricos sobre a evolução do design industrial, diferenciais de habilidades técnicas, desenvolvimento e aplicação de ferramentas essenciais para compreender as necessidades do usuário, além de tipos de materiais, processos de fabricação, e práticas do processo de design, desde a concepção até a implementação.",
+   "As disciplinas do curso têm como objetivo abordar os desafios do mercado de design, destacando o impacto e a utilização de ferramentas tecnológicas. Além disso, focam no desenvolvimento de habilidades em comunicação visual e na utilização de ferramentas específicas para o detalhamento preciso de projetos dentro do contexto do desenho técnico.",
+   "Desenhe o caminho para uma carreira de impacto e REALIZAÇÃO! Trilhe sua formação com o Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "Processos Organizacionais – 40H",
+  "Componentes do Desenho Técnico – 40H",
+  "Desenho Técnico Utilizando Softwares de Modelagem – 40H",
+  "Comandos de Modelagem – 40H",
+  "Comandos Avançados de CAD – 40H",
+  "Sistema de Projeção e Vistas – 40H",
+  "Cotagem, Dimensionamento e Detalhamento de Desenho – 40H",
+  "Ferramentas de Acesso Rápido ao Autocad – 40H",
+  "Ferramentas de Detalhamento – 40H",
+  "DISCIPLINA OPTATIVA: TCC – Trabalho de Conclusão de Curso – 60H"
+ ],
+ "carga_horaria_total": "360 HORAS",
+ "outras_secoes": {
+  "Público-alvo": [
+   "Profissionais da área de engenharia, exatas e de áreas afins, que estejam interessados aprimorar seus conhecimentos e incrementar seus currículos na área de ENGENHARIA, visando o aprimoramento de conhecimento relacionados a softwares de modelagem 2D e 3D bem como o estudo de parâmetros como projeção de vistas."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Felipe Delapria Dias Dos Santos",
+   "curriculo": "Possui Mestrado em Engenharia Mecânica com ênfase em materiais poliméricos - UEM (2020). Graduado em Engenharia Mecânica - UTFPR (2017). Graduado em Administração - UniBF (2016). Pós graduado em Avaliações e Perícia - Unyleaya (2021). Pós Graduado em Gestão Da Qualidade e Processos Gerenciais - UniFCV (2019). Pós Graduado em Segurança do Trabalho - UCAM (2018). Pós Graduado em Tecnologias Digitais e Inovação na Educação - UniFCV (2021). Atualmente trabalha como coordenador de cursos de pós-graduação para a Centro Universitário Cidade Verdade (UniCV), coordenador dos cursos de Engenharia Mecânica e Engenharia de Produção (UniFatecie), orientador para cursos de pós-graduação na USP-ESALQ e atua na área de desenvolvimento de produtos na APTAR-BRASIL, multinacional do ramo de injeção plástica. Curriculo Lattes: Veja Aqui",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/desenho_industrial.webp",
+ "sincronizado_em": "2026-10-16T14:54:57+00:00",
+ "primeira_vez_visto": "2026-10-16T14:54:57+00:00"
+}

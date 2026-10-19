@@ -1,0 +1,24 @@
+{
+ "slug": "polos",
+ "titulo": "Nossos Polos",
+ "url": "https://unicive.com/polos/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "CONHEÇA NOSSOS POLOS"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O Centro Universitário Cidade Verde conta com centenas de polos que ofertam cursos EAD/Semipresenciais espalhados por todo o Brasil e no exterior , garantindo ensino de qualidade para quem busca graduação e pós-graduação a distância com o apoio de uma instituição com nota máxima no MEC."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Temos polos em todos os estados brasileiros e unidades internacionais em Portugal, Inglaterra, Angola, Bélgica, EUA e Japão , levando a educação do Unicive para além das fronteiras."
+  },
+  {
+   "tipo": "texto",
+   "texto": "No mapa abaixo, digite sua cidade ou país e encontre o polo mais próximo de você para estudar com comodidade e segurança."
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:10:20+00:00"
+}

@@ -1,0 +1,64 @@
+{
+ "id": 223321,
+ "slug": "matematica-financeira",
+ "url": "https://unicive.com/courses/matematica-financeira/",
+ "titulo": "Matemática Financeira",
+ "publicado": "2026-06-30T18:20:17",
+ "modificado": "2026-06-30T18:20:17",
+ "centro": [],
+ "categorias": [
+  "Gestão"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de Matemática Financeira no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "INFORMAÇÕES SOBRE O CURSO Matemática Financeira é um curso que desenvolve conhecimentos e habilidades essenciais para a análise e tomada de decisões financeiras. O conteúdo aborda conceitos como juros simples e compostos, descontos, séries de pagamentos, atualização monetária, inflação e sistemas de amortização, fornecendo ferramentas práticas para cálculos financeiros aplicados ao contexto pessoal, empresarial e organizacional.",
+   "Capacitar profissionais e estudantes a utilizar conceitos e técnicas da matemática financeira para realizar cálculos, analisar operações de crédito, investimentos, financiamentos e fluxos de caixa, apoiando decisões financeiras com segurança e precisão."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "UNIDADE 1 – CAPITALIZAÇÃO E TAXAS",
+   "– CAPITALIZAÇÃO SIMPLES",
+   "– CAPITALIZAÇÃO COMPOSTA",
+   "– TAXAS",
+   "– FLUXO DE CAIXA E EQUIVALÊNCIA FINANCEIRA",
+   "UNIDADE 2 – SÉRIES DE PAGAMENTOS E DESCONTOS",
+   "– CONHECENDO O DESCONTO SIMPLES",
+   "– APLICANDO O DESCONTO COMPOSTO",
+   "– SÉRIES DE PAGAMENTOS POSTECIPADAS",
+   "– SÉRIES DE PAGAMENTOS ANTECIPADAS E DIFERIDAS",
+   "UNIDADE 3 – ATUALIZAÇÃO MONETÁRIA",
+   "– ÍNDICES DE ATUALIZAÇÃO E INFLAÇÃO",
+   "– VARIAÇÕES DE ÍNDICES",
+   "– TAXAS DE JUROS: NOMINAL, EFETIVA, REAL E APARENTE",
+   "– TAXA DE DESVALORIZAÇÃO DA MOEDA",
+   "UNIDADE 4 – SISTEMAS DE AMORTIZAÇÃO",
+   "– SISTEMA AMERICANO DE AMORTIZAÇÃO",
+   "– SISTEMA DE AMORTIIZAÇÃO CONSTANTE",
+   "– SISTEMA PRICE OU FRANCES DE AMORTIZAÇÃO",
+   "– SISTEMA DE AMORTIZAÇÃO MISTO"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/mba_em_economia_e_financas.webp",
+ "sincronizado_em": "2026-10-16T14:50:27+00:00",
+ "primeira_vez_visto": "2026-10-16T14:50:27+00:00"
+}

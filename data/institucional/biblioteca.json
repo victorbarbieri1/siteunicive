@@ -1,0 +1,112 @@
+{
+ "slug": "biblioteca",
+ "titulo": "Biblioteca",
+ "url": "https://unicive.com/biblioteca/",
+ "blocos": [
+  {
+   "tipo": "texto",
+   "texto": "Acervo Online"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Acesso Livre"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resoluções e Regulamentos"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Repositórios Unicive"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Revistas"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Periódicos"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Editais Unicive"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Manuais Unicive"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "INTRODUÇÃO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A Biblioteca da Unicive é um Órgão Suplementar ligado a Direção de Graduação e tem como missão prover informações ao ensino, pesquisa e extensão, bem como preservar a informação, possibilitando a sua recuperação e difusão, através de serviços e produtos ofertados à comunidade na qual está inserida, absorvendo para si a responsabilidade de proporcionar a disseminação de conhecimentos capazes de provocar mudanças individuais, sociais, políticas e econômicas, é aberta a comunidade, oferecendo assim um ambiente propicio a reflexão e as práticas educacionais."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Atende tanto os usuários da comunidade interna (alunos dos cursos de graduação, pós-graduação, professores, e funcionários), como os usuários da comunidade externa (pesquisadores, alunos de intercâmbio e demais visitantes). Possui um acervo de mais de 20 mil volumes, além de disponibilizar acesso da Biblioteca Virtual com mais de 20 mil obras através de uma parceria com a Pearson Education do Brasil, com a Minha Biblioteca, e a Biblioteca Digital da Saraiva, a biblioteca conta também com o acesso a Revista dos Tribunais on-line que contém 34 revistas especializadas, mais de 60 mil documentos com atualização diária."
+  },
+  {
+   "tipo": "texto",
+   "texto": "A biblioteca possui também com 32 Chromebook que são utilizados pela comunidade acadêmica disponibilizado para consulta a bases de dados locais, acesso a internet e para digitação de trabalhos acadêmicos, a Biblioteca conta também com espaço para leitura, estudo em grupo e cabines para estudo individual."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Serviços"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A Biblioteca, cumprindo seu propósito de apoiar o ensino, a pesquisa e a extensão, oferece os seguintes serviços:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Acesso ao catálogo : a Biblioteca possui 1 (hum) terminal para pesquisa que permitem acesso ao acervo existente, possibilitando uma busca através de autor, título, assunto. O catálogo encontra-se disponível no site da Instituição, para seu acesso à distância;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Catalogação na fonte : a catalogação na fonte gera uma ficha catalográfica, a qual é impressa no verso da página de rosto de livros, periódicos, trabalhos de conclusão de curso, teses e dissertações. O serviço é gratuito para a comunidade acadêmica (alunos, professores e funcionários) da UNICV."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Comutação bibliográfica : a Biblioteca oferece o serviço de comutação bibliográfica através do COMUT/IBICT. Esse serviço permite ao usuário acesso a cópia de artigos, teses ou partes de monografias que não constam no seu acervo. Os documentos podem ser solicitados a outras instituições, mediante pagamento de taxa."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Educação de usuários : a cada início de semestre é oferecido aos calouros, uma exposição de todos os serviços e produtos da Biblioteca. Orientação na pesquisa ao catálogo online, localização física no acervo, links de repositórios, etc."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Empréstimo domiciliar: só poderão retirar materiais para empréstimo domiciliar os alunos devidamente matriculados nos cursos de graduação, pós-graduação, professores e funcionários da instituição. O prazo de empréstimo dependerá do tipo de material e da categoria do usuário, conforme as normas de utilização da Biblioteca. (ver Regulamento da Biblioteca) ;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Normatização de trabalhos acadêmicos : a Biblioteca disponibiliza todas as normas ABNT para auxiliar na normatização dos trabalhos acadêmicos. ( Ver Manual )"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Consulte-as no balcão de atendimento."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Horário de Atendimento:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Segunda a sexta-feira: das 8h às 22:30h – sábado: das 08h às 12h30min."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Endereço:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Avenida Horácio Raccanello Filho, 5950 / Novo Centro – Maringá – Pr / Fone: (44) 3028-4416"
+  },
+  {
+   "tipo": "texto",
+   "texto": "E-mail: biblioteca@unicv.edu.br"
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:10:39+00:00"
+}

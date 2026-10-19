@@ -1,0 +1,119 @@
+{
+ "id": 5198,
+ "slug": "analise-e-desenvolvimento-de-sistemas",
+ "url": "https://unicive.com/courses/analise-e-desenvolvimento-de-sistemas/",
+ "titulo": "Análise e Desenvolvimento de Sistemas",
+ "publicado": "2023-08-03T13:37:06",
+ "modificado": "2026-10-14T11:48:11",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "2.5 anos"
+ ],
+ "seo_descricao": "Curso de Análise e Desenvolvimento de Sistemas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Aprenda a criar sistemas, aplicativos e softwares para o mercado",
+   "A tecnologia está presente em praticamente todos os setores da economia, e todos eles buscam profissionais capazes de criar e manter sistemas. Há vagas em empresas de diferentes portes, inclusive com trabalho remoto.",
+   "É com esse propósito que o Unicive oferece o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: uma formação para quem gosta de tecnologia, lógica e resolução de problemas e quer aprender a criar softwares, aplicativos e sistemas.",
+   "Uma formação completa para o mercado de trabalho",
+   "Durante a graduação, você desenvolve competências essenciais para sua carreira, como:",
+   "● Desenvolvimento de soluções de tecnologia com inteligência artificial; ● Raciocínio lógico e resolução de problemas; ● Levantamento de requisitos; ● Programação orientada a objetos; ● Modelagem de banco de dados; ● Desenvolvimento de APIs; ● Programação para dispositivos móveis.",
+   "Aqui, você não aprende apenas conceitos. Você aprende a aplicar o conhecimento na prática.",
+   "Você estuda programação, banco de dados e metodologias ágeis, com projetos integradores e conteúdos sobre desenvolvimento de soluções e integração de ferramentas com Inteligência Artificial.",
+   "Mais flexibilidade para conciliar seus estudos com a sua rotina",
+   "Sabemos que quem busca uma graduação também precisa conciliar trabalho, família, compromissos e vida pessoal.",
+   "Por isso, o Unicive oferece uma organização acadêmica que proporciona mais flexibilidade e autonomia para os seus estudos, em conformidade com as possibilidades estabelecidas pela Portaria MEC nº 378, de 19 de maio de 2025.",
+   "No curso de Análise e Desenvolvimento de Sistemas, até 30% da formação pode ser desenvolvida por meio de atividades assíncronas.",
+   "O que isso significa para você? Nas atividades assíncronas, professor e aluno não precisam estar conectados ao mesmo tempo. Dessa forma, você organiza seus estudos nos horários que funcionam melhor para a sua rotina.",
+   "Uma carreira em tecnologia",
+   "O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Unicive foi pensado para quem quer analisar, projetar, desenvolver e manter sistemas computacionais.",
+   "Seja em empresas de tecnologia, consultorias, indústrias ou em um projeto próprio, a área oferece uma formação com espaço em diferentes setores.",
+   "Conheça o curso de Análise e Desenvolvimento de Sistemas do Unicive e prepare-se para criar sistemas na prática."
+  ]
+ },
+ "matriz_curricular": [
+  "CIÊNCIAS SOCIAIS",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "INTERAÇÃO HUMANO-COMPUTADOR",
+  "LÓGICA DE PROGRAMAÇÃO E ALGORITMOS",
+  "ESTRUTURA DE DADOS",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MODELAGEM DE BANCO DE DADOS",
+  "PARADIGMA DE PROGRAMAÇÃO IMPERATIVA E ORIENTADA A OBJETOS",
+  "PROCESSO DE SOFTWARE E ENGENHARIA DE REQUISITOS",
+  "ANÁLISE E PROJETO DE SOFTWARE",
+  "ARQUITETURA DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "PROGRAMAÇÃO WEB",
+  "DESENVOLVIMENTO DE WEBSERVICES E API’S",
+  "DIREITO APLICADO A TECNOLOGIA",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "REDES DE COMPUTADORES",
+  "ANÁLISE DE VIABILIDADE DE PRODUÇÃO DE SOFTWARE",
+  "BOAS PRÁTICAS DE PROGRAMAÇÃO E PADRÕES DE PROJETO",
+  "GERENCIAMENTO DE PROJETOS",
+  "LABORATÓRIO DE DESENVOLVIMENTO DE SOFTWARE",
+  "PROBABILIDADE E ESTATÍSTICA"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Uma formação para diferentes caminhos profissionais": [
+   "A variedade de áreas permite que o tecnólogo construa sua trajetória de acordo com seus interesses e objetivos. Seja na criação de sistemas, na automação de processos, na análise de dados ou em projetos próprios, a área oferece uma formação que acompanha diferentes caminhos de carreira.",
+   "O curso de Análise e Desenvolvimento de Sistemas do Unicive prepara você para escolher seu caminho e atuar em um mercado que precisa de tecnologia em todos os setores."
+  ],
+  "Mercado de trabalho": [
+   "Diversas possibilidades para sua atuação profissional",
+   "O curso permite ao profissional atuar em empresas de tecnologia, startups, consultorias, indústrias e órgãos públicos, além de empreender com projetos autorais.",
+   "Entre as principais áreas de atuação estão:",
+   "● Empresas de tecnologia e startups;",
+   "● Consultorias e escritórios de software;",
+   "● Indústrias e grandes corporações;",
+   "● Órgãos públicos e instituições de ensino;",
+   "● Análise de dados;",
+   "● Empreendedorismo."
+  ],
+  "Diferenciais do curso": [
+   "• Uma formação conectada à prática profissional",
+   "O curso de Análise e Desenvolvimento de Sistemas do Unicive foi pensado para aproximar o que você aprende em sala de aula da rotina real da profissão.",
+   "• Conteúdo atualizado",
+   "O conteúdo acompanha linguagens, metodologias e tecnologias usadas no mercado.",
+   "• Professores atuantes em tecnologia",
+   "O curso conta com professores experientes e atuantes em empresas de tecnologia.",
+   "• Projeto Unicive Tech",
+   "O Projeto Unicive Tech e as parcerias com empresas de tecnologia de Maringá e região aproximam o estudante do mercado.",
+   "• Laboratórios físicos e digitais",
+   "As aulas usam laboratórios físicos e digitais atualizados. Conhecimento, prática e experiência para construir uma formação conectada ao mercado de trabalho.",
+   "• Inteligência Artificial na prática",
+   "Formação focada na aplicação e integração de recursos de Inteligência Artificial para o desenvolvimento de soluções modernas de software."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Erick Starcy Gagliardi",
+   "curriculo": "Mestre em Comunicação pela Universidade Estadual de Londrina UEL, Especialista em Tecnologias Aplicadas ao Ensino a Distância pelo UniCV. Pós-Graduado em MBA Marketing, Vendas e Mídias Digitais. Graduado em Processamento de Dados, Graduado em Design Gráfico, Coordenador de Cursos e Professor na UniCV, é consultor credenciado no programa SEBRAETEC do SEBRAE na área de Design, Inovação, Tecnologia e Marketing Digital.Currículo Lattes: Veja Aqui E-mail: prof_erick@unicv.edu.br",
+   "lattes": "http://lattes.cnpq.br/4360278227148097"
+  }
+ ],
+ "investimento": {
+  "de": 1142.03,
+  "por": 513.92,
+  "parcelamento": null,
+  "texto": "De: R$ 1142.03 Por: 1+30x R$ 513,92"
+ },
+ "modalidade": "Graduação Presencial",
+ "duracao": "2.5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [
+  "Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/analiseedesenvolvimentopresencial.jpg",
+ "sincronizado_em": "2026-10-16T14:53:37+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:37+00:00"
+}

@@ -1,0 +1,101 @@
+{
+ "id": 2627,
+ "slug": "sistemas_para_internet_ead",
+ "url": "https://unicive.com/courses/sistemas_para_internet_ead/",
+ "titulo": "Sistemas para Internet",
+ "publicado": "2023-06-28T17:40:51",
+ "modificado": "2026-08-06T15:31:42",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "2 anos"
+ ],
+ "seo_descricao": "Curso de Sistemas para Internet no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "A Internet vem se tornando um ambiente cada vez mais promissor, exigindo novos conhecimentos e habilidades profissionais nas áreas de tecnologia, infraestrutura, comunicação e criação, negócios, marketing e gerenciamento Web.",
+   "Trabalhar como desenvolvedor web, criar e manter sites, aplicativos e sistemas online para empresas e organizações , atuar no desenvolvimento e gerenciamento de plataformas de comércio eletrônico, incluindo lojas virtuais, sistemas de pagamento online e integração de serviços de logística exige conhecimento em ferramentas e aplicações específicas.",
+   "O Curso Superior Tecnólogo em Sistemas para Internet do Unicive tem o objetivo de formar profissionais capazes de compreender, analisar e utilizar criticamente propostas tecnológicas, econômicas, produtivas e sociais, propondo alternativas para a criação ou melhoria de soluções WEB, de forma a integrar sistemas e serviços online, para facilitar a comunicação entre diferentes plataformas e aplicações.",
+   "As disciplinas do curso visam utilizar técnicas de análise de dados para extrair informações valiosas a partir de grandes volumes de dados gerados por sistemas online, preparando os estudantes para enfrentar os desafios e aproveitar as oportunidades no mercado de trabalho.",
+   "Aqui no Unicive oferecer uma formação extensa em desenvolvimento web, abordar temas emergentes e avançados na área, e ensinar os princípios de design e desenvolvimento de interfaces web estão relacionados ao uso e desenvolvimento da tecnologia.",
+   "Não fique fora dessa! Construa valores, FAÇA Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "BUSINESS INTELLIGENCE",
+  "CLOUD COMPUTING",
+  "CONTROLE DE VERSÕES UTILIZANDO GITHUB",
+  "ESTRUTURAS DE DADOS",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GESTÃO DE EQUIPES E LIDERANÇA",
+  "INGLÊS INSTRUMENTAL",
+  "INTERAÇÃO HUMANO COMPUTADOR",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MÉTODOS ÁGEIS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "PROGRAMAÇÃO PARA WEB",
+  "PROGRAMAÇÃO PYTHON PARA INTERNET",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "WEB DESIGN",
+  "DISCIPLINAS OPTATIVAS",
+  "DATA WAREHOUSE E DATA MARTS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O mercado de trabalho para profissionais formados em Sistemas para Internet é dinâmico e oferece diversas oportunidades. Com o crescimento contínuo da digitalização e da dependência da tecnologia, há uma demanda crescente por habilidades específicas que esses profissionais possuem.",
+   "Aqui estão algumas áreas e funções onde os graduados podem encontrar emprego:",
+   "● Desenvolvimento Web",
+   "● E-commerce",
+   "● Aplicações Móveis",
+   "● Web Design",
+   "● Análise de Dados",
+   "● Segurança da Informação",
+   "● Cloud Computing",
+   "● Administração de Redes e Banco de Dados",
+   "● Inteligência Artificial e Machine Learning",
+   "● Consultoria e Treinamento"
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 649.76,
+  "por": 191.26,
+  "parcelamento": null,
+  "texto": "De: R$ 649.76 a mensalidade Até: 1+24x R$ 191,26"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "2 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter concluído o Ensino Médio"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/sistemasinternet_grad_ead.webp",
+ "sincronizado_em": "2026-10-16T14:56:13+00:00",
+ "primeira_vez_visto": "2026-10-16T14:56:13+00:00"
+}

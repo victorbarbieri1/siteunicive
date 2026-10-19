@@ -1,0 +1,94 @@
+{
+ "id": 203620,
+ "slug": "banco_de_dados_ead",
+ "url": "https://unicive.com/courses/banco_de_dados_ead/",
+ "titulo": "Banco de Dados",
+ "publicado": "2025-11-06T18:22:33",
+ "modificado": "2026-08-03T14:10:52",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "2 anos"
+ ],
+ "seo_descricao": "Curso de Banco de Dados no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Vire a página e transforme dados em decisões que movem o futuro!",
+   "No Unicive, o aprendizado vai além da teoria: você desenvolve soluções inteligentes para problemas reais, aprende a gerenciar grandes volumes de informações e a utilizar ferramentas como SQL, Python e BI para apoiar a inovação nas empresas. Uma graduação moderna e prática, feita para quem quer dominar o universo do Big Data e atuar na era da transformação digital!",
+   "Com ensino flexível, no seu ritmo e 100% online, você estuda em uma instituição com nota máxima no MEC, referência em qualidade e tecnologia.",
+   "Conquiste seu diploma de tecnólogo em Banco de Dados pelo Unicive e prepare-se para atuar com propósito, estratégia e impacto no mercado digital!"
+  ]
+ },
+ "matriz_curricular": [
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE EXPLORATÓRIA DE DADOS E VISUALIZAÇÃO",
+  "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "BLOCKCHAIN",
+  "BUSINESS INTELLIGENCE",
+  "COLETA DE DADOS: CRAWLERS E WEB SCRAPING",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "DATA MINING E DATA WAREHOUSE",
+  "DATA WAREHOUSE E DATA MARTS",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "ESTRUTURA DE DADOS",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GESTÃO DE PROJETOS",
+  "INGLÊS INSTRUMENTAL",
+  "ITELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "METODOLOGIAS ÁGEIS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "PROGRAMAÇÃO PARA WEB",
+  "WEB DESIGN",
+  "*A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso.*"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O tecnólogo em Banco de Dados formado pelo Unicive encontra um mercado em plena expansão, impulsionado pela transformação digital e pelo uso estratégico das informações. As oportunidades estão em empresas de tecnologia, indústrias, instituições financeiras, startups, órgãos públicos e consultorias especializadas. Entre as principais áreas de atuação estão:",
+   "• Administração e segurança de bancos de dados corporativos (DBA);",
+   "• Engenharia e modelagem de dados;",
+   "• Análise de dados e Business Intelligence (BI);",
+   "• Mineração e análise preditiva;",
+   "• Consultoria em gestão e governança de dados (LGPD)."
+  ],
+  "Objetivo do curso": [
+   "Geral:",
+   "Formar tecnólogos em Banco de Dados EAD com competências técnicas, analíticas e éticas para planejar, modelar, implementar e administrar sistemas de dados em diversos contextos. O curso prepara o profissional para atuar estrategicamente na transformação digital, garantindo segurança, integridade, governança e uso inteligente das informações nas organizações.",
+   "Específicos:",
+   "• Desenvolver habilidades em SQL, Python, R e BI, aplicadas à modelagem e análise de dados;",
+   "• Capacitar o aluno para administrar e otimizar bancos de dados corporativos;",
+   "• Ensinar técnicas de mineração e análise preditiva para apoiar decisões estratégicas;",
+   "• Promover práticas de governança e privacidade de dados (LGPD);",
+   "• Estimular a inovação, o pensamento crítico e o empreendedorismo tecnológico;",
+   "• Incentivar a atualização contínua frente às evoluções da área de dados."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 649.76,
+  "por": 191.26,
+  "parcelamento": null,
+  "texto": "De: R$ 649.76 a mensalidade Até: 1+24x R$ 191,26"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "2 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2025/10/servidor-no-centro-servidor-verificar-documentacao-dos-supercomputadores-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:52:25+00:00",
+ "primeira_vez_visto": "2026-10-16T14:52:25+00:00"
+}

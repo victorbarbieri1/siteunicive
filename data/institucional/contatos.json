@@ -1,0 +1,68 @@
+{
+ "slug": "contatos",
+ "titulo": "Endereços e Contatos",
+ "url": "https://unicive.com/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "Campus Sede"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Av. Horácio Raccanello Filho, 5950 - Zona 07 – Maringá/PR"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Campus II"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Av. Horácio Raccanello Filho, 5415 - Zona 07 – Maringá/PR"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Sede Administrativa"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Av. Horácio Raccanello Filho, 5410 - Zona 07 – Maringá/PR"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Núcleo de Atendimento à Comunidade (NAC)"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Av. Carneiro Leão, 756A - Zona 01 – Maringá/PR"
+  },
+  {
+   "tipo": "texto",
+   "texto": "© Copyright 2026 – Unicive – Centro Universitário Cidade Verde"
+  },
+  {
+   "tipo": "texto",
+   "texto": "CNPJ: 05.885.457/0001-44"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Cadastro da instituição no e-MEC: https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MzY0OQ=="
+  },
+  {
+   "tipo": "texto",
+   "texto": "Rede social oficial: https://www.facebook.com/share/1EHfWVMunV/"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Rede social oficial: https://www.instagram.com/unicive.oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Rede social oficial: https://www.linkedin.com/school/unifcv"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Rede social oficial: https://www.youtube.com/@unicive.oficial"
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:11:49+00:00"
+}

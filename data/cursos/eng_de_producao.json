@@ -1,0 +1,73 @@
+{
+ "id": 2825,
+ "slug": "eng_de_producao",
+ "url": "https://unicive.com/courses/eng_de_producao/",
+ "titulo": "Engenharia de Produção",
+ "publicado": "2023-06-29T08:28:17",
+ "modificado": "2026-08-27T09:07:31",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Engenharia de Produção no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O profissional que busca por uma formação que prepare para assumir posições estratégicas e de liderança em empresas de diversos setores entende a necessidade de se desenvolver em competências e áreas-chave como administração da produção, gestão de operações, e análise de cadeias produtivas, relativos ao segmento em questão.",
+   "A atuação em setores variados como manufatura, construção civil, tecnologia, saúde e serviços exige uma base de estudo das estruturas organizacionais e como os processos influenciam a eficiência operacional, além de fundamentos da administração de processos produtivos, incluindo planejamento, controle e coordenação de recursos.",
+   "O curso de pós-graduação EAD em Engenharia de Produção do Unicive tem como objetivo capacitar profissionais para otimizar processos produtivos, aumentar a eficiência operacional e implementar práticas inovadoras de gestão. Busca-se formar líderes capazes de enfrentar os desafios da indústria moderna, utilizando ferramentas avançadas de qualidade, produtividade e gestão de projetos. As disciplinas são contextualizadas em sistemas produtivos dentro do ambiente industrial moderno, incluindo tendências e práticas enxutas e eficientes, estudo das causas de perdas na produção e estratégias para mitigá-las, melhorando a eficiência global. Prepare-se para transformar desafios industriais em oportunidades de inovação. Venha para o Unicive!",
+   "As disciplinas são contextualizadas em sistemas produtivos dentro do ambiente industrial moderno, incluindo tendências e práticas enxutas e eficientes, estudo das causas de perdas na produção e estratégias para mitigá-las, melhorando a eficiência global.",
+   "Prepare-se para transformar desafios industriais em oportunidades de inovação. Venha para o Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "Processos Organizacionais – 40H",
+  "Administração da Produção – 40H",
+  "Administração da Produção e Operações – 40H",
+  "Projetos de Sistemas Produtivos – 40H",
+  "Sistemas de Produção em Cadeias Produtivas – 40H",
+  "Sistemas Produtivos: Contextualização – 40H",
+  "Mecanismo da Função Produção e a Análise das Perdas – 40H",
+  "Processo e Procedimentos Padronizados – 40H",
+  "Sistema Toyota de Produção – 40H",
+  "DISCIPLINA OPTATIVA: TCC – Trabalho de Conclusão de Curso – 60H"
+ ],
+ "carga_horaria_total": "360H",
+ "outras_secoes": {
+  "Público-alvo": [
+   "Administradores, contadores, economistas e demais profissionais de áreas afins, que estejam interessados em aprimorar seus conhecimentos e incrementar seus currículos na área de GESTÃO, NEGÓCIOS E EMPREENDEDORISMO, visando avanço de carreira no setor público e privado."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Felipe Delapria Dias Dos Santos",
+   "curriculo": "Possui Mestrado em Engenharia Mecânica com ênfase em materiais poliméricos - UEM (2020). Graduado em Engenharia Mecânica - UTFPR (2017). Graduado em Administração - UniBF (2016). Pós graduado em Avaliações e Perícia - Unyleaya (2021). Pós Graduado em Gestão Da Qualidade e Processos Gerenciais - UniFCV (2019). Pós Graduado em Segurança do Trabalho - UCAM (2018). Pós Graduado em Tecnologias Digitais e Inovação na Educação - UniFCV (2021). Atualmente trabalha como coordenador de cursos de pós-graduação para a Centro Universitário Cidade Verdade (UniCV), coordenador dos cursos de Engenharia Mecânica e Engenharia de Produção (UniFatecie), orientador para cursos de pós-graduação na USP-ESALQ e atua na área de desenvolvimento de produtos na APTAR-BRASIL, multinacional do ramo de injeção plástica. Curriculo Lattes: Veja Aqui",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/engenharia_de_producao.webp",
+ "sincronizado_em": "2026-10-16T14:54:32+00:00",
+ "primeira_vez_visto": "2026-10-16T14:54:32+00:00"
+}

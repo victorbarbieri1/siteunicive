@@ -1,0 +1,77 @@
+{
+ "id": 220734,
+ "slug": "web-design-em-wordpress",
+ "url": "https://unicive.com/courses/web-design-em-wordpress/",
+ "titulo": "Web Design em WordPress",
+ "publicado": "2026-06-30T15:53:13",
+ "modificado": "2026-06-30T15:53:13",
+ "centro": [],
+ "categorias": [
+  "Design"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de Web Design em Wordpress no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso de Web Design em WordPress aborda o desenvolvimento de sites e blogs profissionais utilizando a plataforma WordPress, explorando recursos modernos de design, personalização, performance, SEO e integração com ferramentas digitais.",
+   "Ao longo do curso, o aluno aprenderá a criar sites responsivos, seguros e otimizados, utilizando temas, plugins, page builders, WooCommerce e práticas atuais de UX/UI, além de técnicas de manutenção, automação e escalabilidade de projetos web.",
+   "Este curso visa capacitar o aluno a planejar, desenvolver e gerenciar projetos de web design utilizando o WordPress, dominando recursos atualizados de criação, personalização, otimização e manutenção de sites dinâmicos, integrando práticas de design, programação e marketing digital."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "Unidade 1 – Fundamentos do Web Design em WordPress",
+   "– Funcionamento e ecossistema do WordPress",
+   "– Configuração de ambientes de desenvolvimento e produção",
+   "– Instalação e gerenciamento do WordPress",
+   "– Temas responsivos e personalização visual",
+   "– Page Builders: Elementor e Gutenberg",
+   "– Plugins essenciais e funcionalidades avançadas",
+   "– Configuração de hospedagem e domínio",
+   "Unidade 2 – Design Responsivo e User Experience em WordPress",
+   "– Fundamentos de UX/UI Design",
+   "– Desenvolvimento de layouts responsivos",
+   "– HTML5, CSS3 e JavaScript aplicados ao WordPress",
+   "– Acessibilidade em projetos web",
+   "– SEO on-page",
+   "– Otimização de performance e velocidade",
+   "– Boas práticas de usabilidade e experiência do usuário",
+   "Unidade 3 – Integrações e Funcionalidades Extras do WordPress",
+   "– Configuração de lojas virtuais com WooCommerce",
+   "– Gestão de produtos e pagamentos online",
+   "– Integração com redes sociais e marketing digital",
+   "– Ferramentas de automação",
+   "– Criação de plugins simples",
+   "– Uso de PHP, shortcodes e hooks",
+   "– Segurança, backup e restauração de sites",
+   "Unidade 4 – Gestão, Publicação e Manutenção de Sites WordPress",
+   "– Versionamento com Git",
+   "– Publicação e deploy de projetos",
+   "– Migração e escalabilidade de sites",
+   "– Gerenciamento de hospedagem",
+   "– Monitoramento e manutenção preventiva",
+   "– Atualizações automatizadas",
+   "– Tendências emergentes: Headless WordPress e JAMstack"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/08/siteswordpress.webp",
+ "sincronizado_em": "2026-10-16T14:51:08+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:08+00:00"
+}

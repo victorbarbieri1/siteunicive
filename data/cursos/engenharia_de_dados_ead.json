@@ -1,0 +1,109 @@
+{
+ "id": 2680,
+ "slug": "engenharia_de_dados_ead",
+ "url": "https://unicive.com/courses/engenharia_de_dados_ead/",
+ "titulo": "Engenharia de Dados",
+ "publicado": "2023-06-28T17:55:28",
+ "modificado": "2026-09-09T09:24:13",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "4 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Dados no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O Bacharelado em Engenharia de Dados do Unicive prepara você para dominar uma das áreas mais promissoras do mercado: a gestão e análise inteligente de dados. O curso capacita o estudante a coletar, organizar e interpretar grandes volumes de informações, utilizando ferramentas de programação, estatística, inteligência artificial e machine learning para gerar insights que impulsionam decisões estratégicas .",
+   "Durante a formação, você aprende a trabalhar com bancos de dados, Big Data, dashboards e relatórios interativos, desenvolvendo a habilidade de transformar números em conhecimento e inovação. Essa combinação de teoria e prática coloca o engenheiro de dados no centro das transformações digitais das organizações.",
+   "Com o Unicive, você se torna o profissional que converte dados em oportunidades, identifica tendências e ajuda empresas a crescer de forma inteligente e sustentável.",
+   "Saia na frente e inove com o seu conhecimento. Faça Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE DE CORRESPONDÊNCIA SIMPLES E MÚLTIPLA",
+  "ANÁLISE DE REGRESSÃO SIMPLES E MÚLTIPLA",
+  "ANÁLISE EXPLORATÓRIA DE DADOS E VISUALIZAÇÃO",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "ATIVIDADES EXTENSIONISTAS III",
+  "ATIVIDADES EXTENSIONISTAS IV",
+  "BANCO DE DADOS NOSQL",
+  "BIG DATA E DATA MINING",
+  "Aula BLOCKCHAIN",
+  "BUSINESS INTELLIGENCE",
+  "CLOUD COMPUTING",
+  "CLUSTERING",
+  "COLETA DE DADOS: CRAWLERS E WEB SCRAPING",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "DATA MINING E DATA WAREHOUSE",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "ESTRUTURAS DE DADOS",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GERENCIAMENTO DE REDES DE COMPUTADORES",
+  "GESTÃO DE EQUIPES E LIDERANÇA",
+  "GESTÃO DE PROJETOS",
+  "INGLÊS INSTRUMENTAL",
+  "INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "INTRODUÇÃO AO DEEP LEARNING",
+  "LEGISLAÇÃO NO AMBIENTE DIGITAL (LGPD)",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MODELAGEM DE BANCO DE DADOS",
+  "NEGÓCIOS ELETRÔNICOS",
+  "NOÇÕES DE SÉRIES TEMPORAIS",
+  "PROCESSAMENTO DE LINGUAGEM NATURAL",
+  "SOCIAL NETWORK ANALYSIS",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "Com o avanço da transformação digital, empresas de tecnologia, finanças, saúde, marketing, varejo e diversos outros setores buscam especialistas capazes de organizar, analisar e transformar dados em estratégias inteligentes que impulsionam resultados.",
+   "Com essa formação, você estará preparado para conquistar cargos de destaque, como Engenheiro ou Cientista de Dados, Analista de Business Intelligence, Arquiteto de Dados, Desenvolvedor de Machine Learning, Consultor em Big Data e Especialista em Inteligência Artificial — profissões que unem alta remuneração, inovação constante e amplo reconhecimento no mercado."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+48x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "4 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/eng_dados_grad_ead.webp",
+ "sincronizado_em": "2026-10-16T14:55:40+00:00",
+ "primeira_vez_visto": "2026-10-16T14:55:40+00:00"
+}

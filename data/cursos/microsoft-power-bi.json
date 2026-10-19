@@ -1,0 +1,67 @@
+{
+ "id": 223719,
+ "slug": "microsoft-power-bi",
+ "url": "https://unicive.com/courses/microsoft-power-bi/",
+ "titulo": "Microsoft Power BI",
+ "publicado": "2026-06-30T18:06:38",
+ "modificado": "2026-06-30T18:06:38",
+ "centro": [],
+ "categorias": [
+  "Tecnologia"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de Microsoft Power BI no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso de Microsoft Power BI apresenta os fundamentos e as principais ferramentas para coleta, tratamento, modelagem, análise e visualização de dados. O curso aborda desde os conceitos de Business Intelligence (BI) até a criação de dashboards interativos, relatórios gerenciais e indicadores de desempenho, permitindo transformar dados brutos em informações estratégicas para a tomada de decisão.",
+   "Ao longo da formação, o estudante aprende a importar dados de diferentes fontes, realizar processos de limpeza e transformação, criar relacionamentos entre tabelas, desenvolver cálculos e métricas, além de construir painéis dinâmicos e personalizados. O conteúdo também explora recursos de compartilhamento e publicação de relatórios, ampliando a capacidade de comunicação e análise dentro das organizações.",
+   "A formação prepara profissionais para atuar em áreas de gestão, finanças, marketing, logística, recursos humanos e tecnologia, utilizando o Power BI como ferramenta de apoio à análise de dados, monitoramento de resultados e desenvolvimento de soluções orientadas por informações confiáveis.",
+   "O curso tem como objetivo capacitar estudantes e profissionais a utilizar o Microsoft Power BI para coletar, organizar, transformar e analisar dados de forma eficiente, desenvolvendo relatórios e dashboards que apoiem a tomada de decisões estratégicas. Busca proporcionar conhecimentos sobre modelagem de dados, criação de indicadores, elaboração de visualizações interativas e interpretação de informações gerenciais.",
+   "Além disso, visa desenvolver competências analíticas e técnicas para transformar grandes volumes de dados em informações relevantes para o ambiente corporativo, permitindo que o profissional identifique oportunidades, monitore desempenho e contribua para a melhoria dos processos organizacionais por meio da inteligência de negócios."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "UNIDADE 1 – FUNDAMENTOS DO POWER BI",
+   "– O QUE É E PARA QUE SERVE O POWER BI",
+   "– ENTENDENDO O FUNCIONAMENTO GERAL DO POWER BI",
+   "– OBTENDO DADOS PARA ANÁLISE NO POWER BI",
+   "– USANDO O POWER BI DESKTOP",
+   "UNIDADE 2 – MANIPULAÇÃO DE DADOS COM O POWER BI",
+   "– EDITOR DE CONSULTAS DO POWER BI",
+   "– LIMPANDO E TRANSFORMANDO DADOS NO POWER BI",
+   "– MODELANDO DADOS NO POWER BI",
+   "– GERENCIANDO RELACIONAMENTOS DE DADOS NO POWER BI",
+   "UNIDADE 3 – ANÁLISE DE DADOS E OS DASHBOARDS DO POWER BI",
+   "– CRIANDO E TRABALHANDO COM COLUNAS CALCULADAS NO POWER BI",
+   "– CRIANDO DASHBOARDS PARA CONSULTA DE DADOS NO POWER BI",
+   "– PERSONALIZANDO DASHBOARDS NO POWER BI",
+   "– PUBLICANDO DASHBOARDS NO SERVIÇO POWER BI",
+   "UNIDADE 4 – ESTUDO DE CASO E PROJETO COM O POWER BI",
+   "– ESTUDO DE CASO COM POWER BI: CONHECENDO O PROBLEMA",
+   "– ESTUDO DE CASO COM POWER BI: NORMALIZANDO E MODELANDO DADOS",
+   "– ESTUDO DE CASO COM POWER BI: CONSTRUINDO MODELOS DE CONSULTA",
+   "– ESTUDO DE CASO COM POWER BI: ELABORANDO DASHBOARDS"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2024/09/modern-equipped-computer-lab-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:50:38+00:00",
+ "primeira_vez_visto": "2026-10-16T14:50:38+00:00"
+}

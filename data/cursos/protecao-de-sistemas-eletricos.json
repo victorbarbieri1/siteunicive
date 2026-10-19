@@ -1,0 +1,73 @@
+{
+ "id": 191874,
+ "slug": "protecao-de-sistemas-eletricos",
+ "url": "https://unicive.com/courses/protecao-de-sistemas-eletricos/",
+ "titulo": "Proteção de Sistemas Elétricos",
+ "publicado": "2024-09-06T17:06:14",
+ "modificado": "2026-09-01T11:14:35",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Proteção de Sistemas Elétricos no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Ao capacitar profissionais para projetar, implementar e gerenciar sistemas de proteção em redes elétricas, este curso visa garantir a segurança, estabilidade e eficiência dos sistemas elétricos, através das mais recentes tecnologias e práticas de proteção contra falhas, curtos-circuitos e outros eventos que possam comprometer a integridade de um sistema elétrico.",
+   "O aprofundamento se faz através de técnicas modernas de proteção de sistemas elétricos, incluindo o uso de dispositivos inteligentes, relés de proteção, e sistemas de automação, onde os alunos têm acesso ao conhecimento e tecnologias de ponta e softwares que são utilizados em cenários reais de proteção elétrica.",
+   "O curso de pós-graduação EAD em Proteção de Sistemas Elétricos do Unicive tem como objetivo integrar conhecimentos de engenharia elétrica, automação, e tecnologia da informação para uma abordagem completa na proteção de sistemas, realizar análise dos principais equipamentos utilizados em sistemas elétricos, como transformadores, geradores, disjuntores, e abordar a manutenção e a operação segura desses equipamentos.",
+   "As disciplinas envolvidas na formação abordam processos administrativos e organizacionais que influenciam a gestão e a operação de sistemas elétricos, gestão de projetos e práticas de melhoria contínua, além de conhecimento em componentes que formam os sistemas elétricos, incluindo linhas de transmissão, subestações, e a integração desses componentes para garantir a eficiência e segurança do fornecimento de energia.",
+   "Garanta a segurança e a eficiência dos sistemas elétricos com uma especialização que vai além da teoria. Especialize-se no Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "PROCESSOS ORGANIZACIONAIS – 40H",
+  "EQUIPAMENTOS ELÉTRICOS – 40H",
+  "SISTEMAS ELÉTRICOS (COMPONENTES) – 40H",
+  "ACIONAMENTOS ELÉTRICOS – 40H",
+  "ANÁLISE DE CIRCUITOS ELÉTRICOS – 40H",
+  "ANÁLISE DE CIRCUITOS ELÉTRICOS DE CORRENTE ALTERNADA – 40H",
+  "SISTEMAS ELÉTRICOS DE POTÊNCIA – 40H",
+  "PROTEÇÃO DA REDE ELÉTRICA – 40H",
+  "DISCIPLINAS OPTATIVAS:",
+  "TCC – TRABALHO DE CONCLUSÃO DE CURSO – 60H"
+ ],
+ "carga_horaria_total": "– 360H",
+ "outras_secoes": {
+  "Púbilco-alvo": [
+   "Engenheiros eletricistas e profissionais de áreas correlatas que atuam com sistemas elétricos, potência ou automação, profissionais de empresas de geração, transmissão, distribuição e indústrias que utilizam sistemas elétricos complexos, consultores e técnicos que desejam aprofundar conhecimentos em proteção, análise de falhas e segurança de redes elétrica, recém-formados em engenharia ou áreas afins que buscam uma especialização prática e alinhada às demandas do mercado de energia."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Felipe Delapria Dias Dos Santos",
+   "curriculo": "Possui Mestrado em Engenharia Mecânica com ênfase em materiais poliméricos - UEM (2020). Graduado em Engenharia Mecânica - UTFPR (2017). Graduado em Administração - UniBF (2016). Pós graduado em Avaliações e Perícia - Unyleaya (2021). Pós Graduado em Gestão Da Qualidade e Processos Gerenciais - UniFCV (2019). Pós Graduado em Segurança do Trabalho - UCAM (2018). Pós Graduado em Tecnologias Digitais e Inovação na Educação - UniFCV (2021). Atualmente trabalha como coordenador de cursos de pós-graduação para a Centro Universitário Cidade Verdade (UniCV), coordenador dos cursos de Engenharia Mecânica e Engenharia de Produção (UniFatecie), orientador para cursos de pós-graduação na USP-ESALQ e atua na área de desenvolvimento de produtos na APTAR-BRASIL, multinacional do ramo de injeção plástica. Curriculo Lattes: Veja Aqui",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2024/09/man-electrical-technician-working-switchboard-with-fuses-uses-tablet-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:52:52+00:00",
+ "primeira_vez_visto": "2026-10-16T14:52:52+00:00"
+}

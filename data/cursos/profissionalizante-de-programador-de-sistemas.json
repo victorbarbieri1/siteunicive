@@ -1,0 +1,60 @@
+{
+ "id": 216360,
+ "slug": "profissionalizante-de-programador-de-sistemas",
+ "url": "https://unicive.com/courses/profissionalizante-de-programador-de-sistemas/",
+ "titulo": "Profissionalizante de Programador de Sistemas",
+ "publicado": "2026-05-06T12:16:32",
+ "modificado": "2026-05-06T12:57:16",
+ "centro": [],
+ "categorias": [
+  "Tecnologias e Exatas"
+ ],
+ "tags": [
+  "560 horas"
+ ],
+ "seo_descricao": "Curso de Profissionalizante de Programador de Sistemas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Sobre o curso": [
+   "O curso profissionalizante de Programador de Sistemas capacita o aluno para desenvolver, implementar e manter sistemas computacionais voltados para aplicações web e corporativas. A formação aborda lógica de programação, análise e projeto orientado a objetos, bancos de dados e desenvolvimento web utilizando linguagens como PHP. Com foco prático e alinhado às demandas do mercado, o curso prepara o profissional para atuar na criação de soluções tecnológicas eficientes e escaláveis."
+  ]
+ },
+ "matriz_curricular": [
+  "Introdução à EAD",
+  "Lógica de Programação",
+  "Análise e Projeto de Software Orientado a Objetos",
+  "Tecnologias e Linguagens de Banco de Dados",
+  "Ambiente para Desenvolvimento para Web",
+  "Programação – Coding Web (PHP)",
+  "Coaching e Planejamento de Carreiras"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Área de atuação:": [
+   "O profissional formado no curso de Programador de Sistemas poderá atuar em:",
+   "– Desenvolvimento de sistemas web e corporativos",
+   "– Análise e implementação de soluções de software",
+   "– Manutenção e atualização de sistemas",
+   "– Empresas privadas",
+   "– Órgãos públicos",
+   "– Prestação de serviços autônomos"
+  ],
+  "Certificação:": [
+   "Certificado de Curso Profissionalizante emitido pelo Unicive."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 255.0,
+  "por": 204.0,
+  "parcelamento": "1+7x de R$ 204,00",
+  "texto": "De: R$ 255.00 Por: 1+7x de R$ 204,00"
+ },
+ "modalidade": "Profissionalizante EAD",
+ "duracao": "560 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/04/programador_sistemas.webp",
+ "sincronizado_em": "2026-10-16T14:51:27+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:27+00:00"
+}

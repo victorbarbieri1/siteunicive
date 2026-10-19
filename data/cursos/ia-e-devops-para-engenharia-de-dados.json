@@ -1,0 +1,62 @@
+{
+ "id": 207916,
+ "slug": "ia-e-devops-para-engenharia-de-dados",
+ "url": "https://unicive.com/courses/ia-e-devops-para-engenharia-de-dados/",
+ "titulo": "IA e DevOps para Engenharia de Dados",
+ "publicado": "2025-11-13T16:08:04",
+ "modificado": "2026-08-07T09:40:54",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [
+  "Londrina"
+ ],
+ "tags": [],
+ "seo_descricao": "Curso de IA e DevOps para Engenharia de Dados no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso tem como propósito formar profissionais capazes de integrar Inteligência Artificial e práticas de DevOps/MLOps na área de Engenharia de Dados. A especialização prepara o aluno para planejar, estruturar, gerenciar e automatizar fluxos de dados em ambientes modernos de computação em nuvem, aplicando modelos inteligentes e soluções escaláveis. Com uma abordagem prática e interdisciplinar, o curso oferece competências essenciais para o mercado que demanda profissionais de dados altamente qualificados."
+  ]
+ },
+ "matriz_curricular": [
+  "FUNDAMENTOS DE ENGENHARIA DE DADOS – 20H",
+  "PROGRAMAÇÃO PARA CIÊNCIA E ENGENHARIA DE DADOS – 20H",
+  "SOFTSKILLS EM TECNOLOGIA DA INFORMAÇÃO – 20H",
+  "DEVOPS E MLOPS APLICADOS À ENGENHARIA DE DADOS – 30H",
+  "PROCESSAMENTO DE LINGUAGEM NATURAL (NLP) – 20H",
+  "INTEGRAÇÃO DE MODELOS E APIs INTELIGENTES – 20H",
+  "MACHINE LEARNING E IA APLICADA – 30H",
+  "LABORATÓRIO PRÁTICO: DESIGN SPRINT E IDEATHON",
+  "GESTÃO ÁGIL DE PROJETOS DE TI (EAD) – 30H",
+  "CLOUD COMPUTING E DEVOPS (EAD) – 30H",
+  "LIDERANÇA E GESTÃO DE EQUIPES DE TI (EAD) – 30H",
+  "TESTES AUTOMATIZADOS E QUALIDADE DE DADOS (EAD) – 30H",
+  "ELETIVA 1 (EAD) – 30H",
+  "ELETIVA 2 (EAD) – 30 H",
+  "Trabalho de Conclusão de Curso (TCC) – 60H"
+ ],
+ "carga_horaria_total": "360H",
+ "outras_secoes": {
+  "Metodologia": [
+   "As aulas contam com mobilização e levantamento dos conhecimentos prévios dos alunos para um melhor alinhamento e aproveitamento dos conteúdos. Apresentação de conceitos relacionados aos temas de estudos, trabalhando com debates, estudos de caso e exercícios para fixação, além de aulas práticas aplicadas dos temas estudados. A sistematização e aplicação prática dos conceitos aprendidos são sintetizados por projetos e trabalhos em equipe desenvolvidos e aplicados em sala de aula. O curso conta com 8 disciplinas presenciais obrigatórias e 6 disciplinas EAD complementares, sendo duas definidas e quatro disciplinas eletivas, que podem ser escolhidas pelo discente de acordo com sua necessidade e expectativa profissional e de carreira."
+  ],
+  "Diferenciais": [
+   "● Corpo docente de destaque: Professores mestres e doutores renomados com vasta experiência prático-teórica, atuantes no mercado. ● Integração Completa: Combinação entre fundamentos de engenharia de dados, IA e práticas de DevOps/MLOps. ● Laboratório de Inovação: Atividades práticas como Design Sprint e Ideathon para desenvolver soluções inovadoras. ● Disciplinas Estratégicas: Conteúdos que contemplam machine learning, NLP, qualidade de dados, cloud computing e integração de APIs inteligentes. ● Aplicação Real: Projetos e práticas em ambientes de nuvem, voltados para cenários corporativos. ● Formação Atualizada: Currículo alinhado às tendências do mercado de dados, IA e automação. ● Networking Profissional: Oportunidade de troca de experiências entre profissionais de diferentes setores de tecnologia."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 8796.28,
+  "por": 5541.66,
+  "parcelamento": "Até 19x de R$ 291,67",
+  "texto": "De: R$ 8796.28 Por: R$ 5.541,66 Até 19x de R$ 291,67"
+ },
+ "modalidade": "Pós-graduação Presencial",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2025/11/close-up-de-um-trabalhador-centro-de-dados-apontando-o-dedo-para-tecnologia-de-ia-na-tela-pc-scaled.webp",
+ "sincronizado_em": "2026-10-16T14:52:22+00:00",
+ "primeira_vez_visto": "2026-10-16T14:52:22+00:00"
+}

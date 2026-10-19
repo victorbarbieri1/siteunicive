@@ -1,0 +1,404 @@
+{
+ "slug": "ic",
+ "titulo": "Iniciação Científica",
+ "url": "https://unicive.com/ic/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "IC - Iniciação Científica"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "As Linhas de Pesquisa do Unicive"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Objetivo: Abrange estudos relacionados à educação, artes, linguagens, cultura, práticas sociais, processos formativos, comunicação humana, diversidade cultural e manifestações simbólicas, históricas, filosóficas e sociais."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Objetivo: Contempla pesquisas voltadas à promoção da saúde, qualidade de vida, processo de cuidado, saúde coletiva, práticas clínicas, prevenção, educação em saúde, psicologia e áreas correlatas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Objetivo: Destina-se a estudos relacionados ao planejamento urbano, sustentabilidade, construção civil, infraestrutura, inovação tecnologica aplicada, desenvolvimento de projetos arquitetônicos e engenharias em geral."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Objetivo: Compreende pesquisas voltadas às ciências juridicas, direitos fundamentais, pólíticas públicas, acesso à justiça, legislação, práticas forenses e estudos interdisciplinares do Direito."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Objetivo: Abrange pesquisas relacionadas à administração, negócios, inovação, empreendedorismo, design, tecnologias aplicadas, comunicação organizacional, marketing, análise de mercado, desenvolvimento estratégico e áreas correlatas."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Grupos de Pesquisa Oficializados do Unicive"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Professor(a) Responsável: Tacia Roch Linha de Pesquisa Vinculada: Linha 5 – Gestão, Tecnologia e Comunicação Aplicadas"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Professor(a) Responsável: André William Alves de Assis Linha de Pesquisa Vinculada: Linha 1 – Humanidades, Linguagens e Práticas Culturais"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Professor(a) Responsável: Lucas do Nascimento Rodrigues Linha de Pesquisa Vinculada: Linha 5 – Gestão, Tecnologia e Comunicação Aplicadas"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Professor(a) Responsável: Amanda Ceinoti de Almeida Molossi Linha de Pesquisa Vinculada: Linha 3 – Arquitetura e Urbanismo e Engenharia"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Professor(a) Responsável: Franciele Cristina Ferreira Krasnhak Linha de Pesquisa Vinculada: Linha 2 – Ciências da Saúde"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "PIIC – Programa Institucional de Iniciação Científica"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O PIIC é o Programa Institucional de Iniciação Científica do Centro Universitário Cidade Verde, que tem por objetivo central o desenvolvimento da pesquisa científica pelo aluno de graduação."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Agora o Unicive tem opções de pesquisa científica com direito a bolsa, além de continuar com a pesquisa gratuita. Para mais informações confira os editais abaixo."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Dúvidas ou outras informações sobre o programa podem ser encaminhadas para o email: piic@unicive.edu.br"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "ENTENDA OS EDITAIS"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Período da pesquisa: de janeiro de 2027 a dezembro de 2027"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Prazo para envio de projetos: 10/10/2026"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Requisitos principais:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno deve estar devidamente matriculado e frequentando as aulas de graduação;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno deve ter em seu histórico escolar aprovação em todas as disciplinas cursadas e média acima de 7,0;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno que possuir qualquer dependência com a instituição (financeira e/ou acadêmica) não poderá participar do processo seletivo."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir disponibilidade para dedicação de, no mínimo 8 (oito) horas semanais ao projeto de iniciação científica, em turno diferente daquele em que esteja matriculado; devendo cumprir esta carga horária na Biblioteca com controle de presença diariamente, datas e horários previamente estabelecido com o orientador;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno deverá apresentar relatórios parciais a cada 6 meses, apresentando o desenvolvimento e resultados parciais do projeto; em caso de não apresentação dos relatórios a bolsa é suspensa automaticamente após 1 (um) mês;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A duração da bolsa é de 12 (doze) meses sem prorrogação;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não poderá estar cursando o primeiro ou último semestre do curso;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Caso o acadêmico tenha se inscrito na edição anterior em algum projeto, e por qualquer motivo tenha desistido, ele ficará retido para inscrição neste edital;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "A modalidade de Segunda (2ª) Graduação e R2 não prevê a participação no Programa Institucional de Iniciação Científica;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Observação: O aluno não poderá participar de mais de um projeto de iniciação científica no mesmo ano/edital – Incluindo o Edital 2025/2026."
+  },
+  {
+   "tipo": "texto",
+   "texto": "> Consulte o Edital Com Bolsa Presencial"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir disponibilidade para dedicação de, no mínimo 8 (oito) horas semanais ao projeto de iniciação científica, devendo cumprir atividades designadas pelo professor orientador e a coordenação do programa de acordo com o plano de atividades;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Observação: O aluno não poderá participar de mais de um projeto de iniciação científica ao mesmo tempo – Incluindo o Edital 2025/2026."
+  },
+  {
+   "tipo": "texto",
+   "texto": "> Consulte o Edital Com Bolsa EAD"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno deve estar regularmente matriculado e frequentando curso de graduação do Unicive;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno que possuir qualquer pendência com a instituição (financeira e/ou acadêmica) não poderá participar do processo seletivo;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir disponibilidade para a dedicação de, no mínimo, 4 (quatro) horas semanais ao projeto de iniciação científica, devendo cumprir atividades designadas pelo professor orientador e a coordenação do programa;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não poderá estar cursando o primeiro ou o último semestre do curso;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Caso o acadêmico tenha se inscrito na edição anterior em algum projeto, e por qualquer motivo tenha desistido, ficará retido para a inscrição neste Edital;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Observação: O aluno não poderá participar de mais de um projeto de iniciação científica ao mesmo tempo – incluindo o Edital 2025/2026. Caso se inscreva em dois projetos, os projetos serão automaticamente desclassificados do edital de seleção."
+  },
+  {
+   "tipo": "texto",
+   "texto": "> Consulte o Edital Sem Bolsa – Presencial"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Período da pesquisa : de janeiro de 2027 a dezembro de 2027"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O aluno que possuir qualquer pendência com a instituição (financeira e/ou acadêmica) não poderá participar do processo seletivo."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir disponibilidade para dedicação de, no mínimo 4 (quatro) horas semanais ao projeto de iniciação científica, devendo cumprir atividades designadas pelo professor orientador e a coordenação do programa;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Caso o acadêmico tenha se inscrito na edição anterior em algum projeto, e por qualquer motivo tenha desistido, ficará retido para inscrição neste Edital"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir disponibilidade para dedicação de, no mínimo 8 (oito) horas semanais ao projeto de iniciação científica, devendo cumprir atividades designadas pelo professor orientador e a coordenação do programa;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Aluno matriculado em curso presencial deve cumprir esta carga horária na Biblioteca com controle de presença, com datas e horários previamente estabelecidos com o orientador, em turno diferente daquele que esteja matriculado;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Ao longo do Projeto de Iniciação Científica, nossos alunos são acompanhados por professores orientadores que tenham afinidade com área e tema escolhidos pelo aluno."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Orientadores"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital com e sem Bolsa – 2025.2025"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital com e sem Bolsa – EAD 2024.2025"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital com Bolsa – EAD 2024.2024"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital sem Bolsa – 2024.2024"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital com Bolsa – Presencial 2023.2024"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado Edital sem Bolsa – 2023.2024 Anais ENIIC 2023"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado PIIC sem bolsa – Presencial 2025.2026"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Resultado PIIC sem Bolsa – EAD 2025.2026"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Período da bolsa: Outubro de 2026 a Setembro de 2027"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Prazo para envio de projetos: 30/08/2026"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Possuir vínculo empregatício com o Unicive;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Ter titulação mínima de Mestre, e apresentar o Currículo Lattes. Ser graduado na área de oferta da vaga atualizado;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Consulte o Edital da Bolsa"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Edital 004/2024 – PREMIAÇÃO PROFESSOR PESQUISADOR"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Ficha de Inscrição – Prêmio Professor Pesquisador"
+  },
+  {
+   "tipo": "texto",
+   "texto": "ANAIS ENIIC 2024"
+  },
+  {
+   "tipo": "texto",
+   "texto": "ANAIS ENIIC 2025"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "ADITAMENTO DE EDITAIS"
+  },
+  {
+   "tipo": "texto",
+   "texto": "ADITAMENTO Nº 01 AO EDITAL Nº 17 – 2026/2027"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "MODELOS E DOCUMENTOS"
+  },
+  {
+   "tipo": "texto",
+   "texto": "TCLE – TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MODELO DE PROJETO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MODELO DE RELATÓRIO FINAL/ AVALIAÇÃO (DISCENTE)"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MODELO DE RELATÓRIO FINAL (DOCENTE)"
+  },
+  {
+   "tipo": "texto",
+   "texto": "SOLICITAÇÕES DE SUBSÍDIO PARA EVENTOS ACADÊMICOS"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MODELO DE RESUMO EXPANDIDO – ENIIC"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MANUAL SISTEMA PIIC – ALUNO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "MANUAL SISTEMA PIIC – PROFESSOR"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Perguntas mais frequentes do PIIC (FAQ)"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Encontre um Orientador Procure um professor que atue na sua área de interesse e que possa orientá-lo no seu projeto de iniciação científica. Converse com ele sobre suas ideias e verifique a disponibilidade para orientação."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Delimite um Tema Junto com seu orientador, defina um tema que seja de seu interesse e que se encaixe nas áreas de pesquisa do seu orientador. Certifique-se de que o tema seja viável e relevante para o seu campo de estudo."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Leia o Edital Consulte o edital vigente para entender todos os requisitos, prazos e critérios de seleção para o Programa de Iniciação Científica Institucional (PIIC). É importante seguir todas as diretrizes estabelecidas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Escreva o Projeto Elabore seu projeto de iniciação científica de acordo com o modelo disponível, que pode ser encontrado no site da instituição ou fornecido pelo programa. Certifique-se de incluir todas as seções e informações solicitadas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Envie o Projeto Solicite ao professor orientador a submissão de seu projeto dentro do prazo estabelecido através da plataforma PIIC360. Verifique se todos os documentos estão completos e corretamente preenchidos antes do envio."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Você pode solicitar por email a lista de orientadores do programa ou acessar pelo site. Ou entrar em contato diretamente com seus professores."
+  },
+  {
+   "tipo": "texto",
+   "texto": "PIIC 360, lembrando que a inscrição é realizada exclusivamente pelos professores orientadores"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não, inicialmente apenas o professor tem acesso à plataforma."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Poderá participar do PIIC apenas alunos matriculados a partir do segundo semestre letivo até o penúltimo semestre."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Após a aprovação de seu projeto, será encaminhado via e-mail seu login e senha de acesso."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Esta informação é disponibilizada em Edital, prazos adaptados conforme as especificidades de cada edital."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Sim, para que o aluno e professor receba o certificado é necessário a apresentação ou publicação do trabalho executado."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Para os professores"
+  },
+  {
+   "tipo": "texto",
+   "texto": "É necessário ser docente da IES e então encaminhar em nosso email seu nome completo, titulação e linhas de pesquisa."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Leia o edital e realize a inscrição dentro do prazo estipulado em edital, lembrando que o mesmo é exclusivo para docentes do Unicive"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Máximo de três projetos ao mesmo tempo, considerando diferentes editais"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não é necessário, a especialização lato sensu é suficiente."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Antes de tudo é necessário a solicitação ao nosso e-mail institucional seu login e senha de acesso."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Contatos: piic@unicive.edu.br e pesquisa@unicive.edu.br"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Clique no botão abaixo para ver a lista de aprovados no PIIC"
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:10:41+00:00"
+}

@@ -1,0 +1,74 @@
+{
+ "id": 3065,
+ "slug": "engenharia_eletrica",
+ "url": "https://unicive.com/courses/engenharia_eletrica/",
+ "titulo": "Engenharia Elétrica",
+ "publicado": "2023-06-29T10:08:15",
+ "modificado": "2026-08-27T10:38:02",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Engenharia Elétrica no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Profissionais de engenharia elétrica são fundamentais para o desenvolvimento e implementação de novas tecnologias que impulsionam o avanço em diversos setores, incluindo telecomunicações, automação industrial e energias renováveis.",
+   "O setor energético é vasto, abrangendo o consumo de energia elétrica, combustíveis e fontes renováveis. No setor elétrico, há uma diversificação nas aplicações, incluindo consumo residencial, industrial, comercial, rural e iluminação pública. A atuação dos profissionais desse setor impulsiona o desenvolvimento econômico ao promover a inovação, melhorar a infraestrutura e aumentar a competitividade das empresas por meio da tecnologia.",
+   "O curso de pós-graduação EAD em Engenharia Elétrica do Unicive oferece aos profissionais e acadêmicos disciplinas que agregam valor a todos os processos envolvendo energia elétrica. O foco está em alternativas, métodos, gestão e soluções que reduzam o consumo de energia e as perdas do processo, sem comprometer o volume de produção ou rendimento.",
+   "As disciplinas do curso buscam capacitar os profissionais para o planejamento, manutenção e melhoria da infraestrutura elétrica, essencial para o funcionamento contínuo de cidades, indústrias e serviços essenciais. A inovação é aplicada como uma estratégia-chave para a competitividade, o desenvolvimento econômico e a atualização do conhecimento.",
+   "Em resumo, os profissionais de engenharia elétrica desempenham um papel vital na modernização e avanço tecnológico, assegurando a sustentabilidade, segurança e eficiência dos sistemas elétricos que são a base da nossa sociedade moderna.",
+   "Torne-se um profissional que impulsiona a competitividade e o desenvolvimento econômico, sempre à frente com conhecimentos atualizados. Capacite-se com o Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "Processos Organizacionais – 40H",
+  "Energia Renovável – Questões Ambientais – 40H",
+  "Transmissão e Distribuição de Energia Elétrica – 40H",
+  "Desenho Técnico Aplicado à Engenharia Elétrica – 40H",
+  "Dinâmica das Máquinas Elétricas – 40H",
+  "Equipamentos Elétricos – 40H",
+  "Geração de Energia Elétrica – 40H",
+  "Instalações Elétricas Industriais – 40H",
+  "Instalações Prediais – 40H",
+  "DISCIPLINA OPTATIVA: TCC – Trabalho de Conclusão de Curso – 60H"
+ ],
+ "carga_horaria_total": "360 HORAS",
+ "outras_secoes": {
+  "Público-alvo": [
+   "Profissionais de Engenharia ou com formação em áreas das ciências exatas como, Tecnologia, Manutenção, Análise de Sistemas, Telecomunicações e demais profissionais envolvidos geração, transmissão, distribuição e manutenção do sistema elétrico, que desejam ampliar, aprimorar e atualizar seus conhecimentos em assuntos relacionados à Engenharia Elétrica."
+  ],
+  "Metodologia ead": [
+   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Felipe Delapria Dias Dos Santos",
+   "curriculo": "Possui Mestrado em Engenharia Mecânica com ênfase em materiais poliméricos - UEM (2020). Graduado em Engenharia Mecânica - UTFPR (2017). Graduado em Administração - UniBF (2016). Pós graduado em Avaliações e Perícia - Unyleaya (2021). Pós Graduado em Gestão Da Qualidade e Processos Gerenciais - UniFCV (2019). Pós Graduado em Segurança do Trabalho - UCAM (2018). Pós Graduado em Tecnologias Digitais e Inovação na Educação - UniFCV (2021). Atualmente trabalha como coordenador de cursos de pós-graduação para a Centro Universitário Cidade Verdade (UniCV), coordenador dos cursos de Engenharia Mecânica e Engenharia de Produção (UniFatecie), orientador para cursos de pós-graduação na USP-ESALQ e atua na área de desenvolvimento de produtos na APTAR-BRASIL, multinacional do ramo de injeção plástica. Curriculo Lattes: Veja Aqui",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 3222.0,
+  "por": 1362.96,
+  "parcelamento": "1+12x de R$ 113,58",
+  "texto": "De: R$ 3222.00 Por: R$ 1.362,96 1+12x de R$ 113,58"
+ },
+ "modalidade": "Pós-Graduação EAD",
+ "duracao": "360 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Diploma de Graduação (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Graduado em qualquer área do conhecimento"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/07/engenharia_eletrica.webp",
+ "sincronizado_em": "2026-10-16T14:53:46+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:46+00:00"
+}

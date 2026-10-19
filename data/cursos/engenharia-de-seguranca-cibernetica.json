@@ -1,0 +1,107 @@
+{
+ "id": 177754,
+ "slug": "engenharia-de-seguranca-cibernetica",
+ "url": "https://unicive.com/courses/engenharia-de-seguranca-cibernetica/",
+ "titulo": "Engenharia de Segurança Cibernética",
+ "publicado": "2023-11-27T13:26:00",
+ "modificado": "2026-09-09T09:26:25",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "3 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Segurança Cibernética no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Em um mundo cada vez mais conectado, as ameaças cibernéticas evoluem constantemente, exigindo profissionais preparados para proteger informações, prevenir ataques e garantir a segurança digital de empresas e organizações. O Bacharelado em Engenharia de Segurança Cibernética do Unicive forma especialistas capazes de enfrentar esses desafios com estratégia, tecnologia e inovação.",
+   "Com uma demanda crescente em setores como finanças, saúde, governo e tecnologia, o curso prepara você para atuar em consultorias, indústrias críticas e empresas de alta complexidade, desenvolvendo soluções que mantêm dados e sistemas seguros. Além disso, você aprenderá sobre inteligência artificial, IoT e computação em nuvem, ampliando suas possibilidades em um dos mercados que mais cresce no mundo.",
+   "Proteja, inove e lidere a segurança digital. Inscreva-se agora e faça Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE DE MALWARES E ENGENHARIA REVERSA",
+  "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "ATIVIDADES EXTENSIONISTAS III",
+  "CLOUD COMPUTING",
+  "COMPUTAÇÃO FORENSE",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "DETECÇÃO DE INTRUSÕES E PREVENÇÃO DE AMEAÇAS",
+  "DIREITO DIGITAL E CIBERCRIMES",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ENGENHARIA SOCIAL",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "ESTRUTURAS DE DADOS",
+  "ETHICAL HACKING E GUERRA CIBERNÉTICA",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GESTÃO DE EQUIPES E LIDERANÇA",
+  "INGLÊS INSTRUMENTAL",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "REDES SEM FIO",
+  "SEGURANÇA DE REDES DE COMPUTADORES",
+  "SEGURANÇA DE REDES SEM FIO",
+  "SEGURANÇA EM APLICAÇÕES WEB",
+  "SISTEMAS OPERACIONAIS",
+  "DISCIPLINAS OPTATIVAS",
+  "BIG DATA E DATA MINING",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Objetivo": [
+   "O objetivo geral do curso bacharelado em Engenharia de Segurança Cibernética é formar profissionais com competências técnicas e estratégicas para enfrentar os desafios complexos e em constante evolução no campo da cibersegurança. Busca-se proporcionar uma sólida base teórica aliada a uma ampla gama de habilidades práticas, capacitando os estudantes a projetar, implementar e gerenciar estratégias eficazes de proteção digital.",
+   "Além disso, procura-se fomentar o pensamento crítico e ético, preparando o aluno egresso para liderar iniciativas que assegurem a integridade e a confidencialidade das informações em um mundo digital interconectado."
+  ],
+  "Mercado de trabalho": [
+   "O egresso do curso de Engenharia de Segurança Cibernética do Unicive sai pronto para atuar em um dos mercados mais promissores e valorizados do momento. Com habilidades técnicas e estratégicas, o profissional pode proteger redes, sistemas e dados, além de desenvolver soluções inovadoras para enfrentar ameaças cibernéticas em diferentes setores.",
+   "As oportunidades vão desde a segurança de redes e sistemas, consultoria em cibersegurança e análise forense digital, até o desenvolvimento seguro de softwares, gestão de riscos, testes de invasão (ethical hacking) e administração de sistemas de segurança. Há também espaço para quem deseja atuar em pesquisa e ensino, contribuindo para o avanço constante desta área em expansão."
+  ],
+  "Especificidades": [
+   "O curso bacharelado em Engenharia de Segurança Cibernética será oferecido na modalidade remota (EaD), compreendendo aulas assíncronas, com um compromisso central de garantir a qualidade do ensino e a transmissão eficaz dos conhecimentos. Para que isso aconteça, é de suma importância que as disciplinas específicas do curso sejam produzidas, pois os fornecedores não apresentam conteúdos atualizados em relação ao tema do curso.",
+   "Além disso, é de fundamental que os alunos consigam realizar práticas, ao menos nos laboratórios virtuais em todas as disciplinas específicas do curso."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+36x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "3 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_vista-traseira-da-perigosa-equipe-de-hackers-trabalhando-em-um-novo-malware_482257-22976_large.jpg",
+ "sincronizado_em": "2026-10-16T14:53:18+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:18+00:00"
+}

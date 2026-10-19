@@ -1,0 +1,111 @@
+{
+ "id": 2658,
+ "slug": "engenharia_de_software_ead",
+ "url": "https://unicive.com/courses/engenharia_de_software_ead/",
+ "titulo": "Engenharia de Software",
+ "publicado": "2023-06-28T17:49:28",
+ "modificado": "2026-09-09T09:27:30",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "4 anos"
+ ],
+ "seo_descricao": "Curso de Engenharia de Software no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Se você é apaixonado por criar, desenvolver e implementar soluções tecnológicas, o curso de Engenharia de Software do Unicive é o caminho certo para o seu futuro. Aqui, você aprende a reunir requisitos, definir funcionalidades e programar em diversas linguagens, como Java e outras tecnologias modernas, vivenciando na prática todas as etapas do ciclo de desenvolvimento de software — da análise inicial aos testes e implantação.",
+   "Com disciplinas voltadas para inovação, qualidade e performance,o Unicive forma profissionais capazes de projetar softwares eficientes, seguros e de alto desempenho, preparados para atuar em um mercado cada vez mais competitivo e digital.",
+   "Chegou a hora de desenvolver o seu futuro. Escolha o Unicive e programe o sucesso da sua carreira!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE DE REQUISITOS",
+  "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "ATIVIDADES EXTENSIONISTAS III",
+  "ATIVIDADES EXTENSIONISTAS IV",
+  "BOAS PRÁTICAS DE PROGRAMAÇÃO E PADRÕES DE PROJETO",
+  "CÁLCULO DIFERENCIAL E INTEGRAL",
+  "CÁLCULO NUMÉRICO",
+  "CONTROLE DE VERSÕES UTILIZANDO GITHUB",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "ENGENHARIA DE SOFTWARE",
+  "ÉTICA APLICADA",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "ESTRUTURAS DE DADOS",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GERENCIAMENTO DE REDES DE COMPUTADORES",
+  "GESTÃO DE EQUIPES E LIDERANÇA",
+  "GESTÃO DE PROJETOS",
+  "INGLÊS INSTRUMENTAL",
+  "INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "MÉTODOS ÁGEIS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "MODELAGEM DE SOFTWARE",
+  "NEGÓCIOS ELETRÔNICOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS",
+  "PROGRAMAÇÃO PARA WEB",
+  "QUALIDADE E IMPLEMENTAÇÃO DE TESTES DE SOFTWARE",
+  "TEORIA DA COMPUTAÇÃO",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "WEB DESIGN",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "UI INTERFACE DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Público-alvo": [
+   "Profissionais da área de engenharia, exatas e de áreas afins, que estejam interessados em aprimorar seus conhecimentos e incrementar seus currículos na área de ENGENHARIA, visando o aprimoramento de conhecimento relativos à engenharia, indústria e logística."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ],
+  "Mercado de trabalho": [
+   "O engenheiro de software é o profissional que domina todo o ciclo de desenvolvimento de sistemas, unindo criatividade, lógica e tecnologia para transformar ideias em soluções inovadoras. No mercado, é ele quem planeja, desenvolve e integra softwares completos, garantindo qualidade, segurança e alto desempenho em cada etapa do processo.",
+   "Entre suas principais atribuições estão o desenvolvimento de códigos e fluxogramas, a documentação e manutenção de sistemas, a implantação de programas, além da análise de requisitos e feedback dos usuários para constante aprimoramento.",
+   "Com um mercado em plena expansão, o engenheiro de software pode atuar como autônomo, consultor, gestor de projetos ou desenvolvedor em grandes empresas de tecnologia, integrando equipes multidisciplinares e construindo o futuro digital."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 730.04,
+  "por": 292.61,
+  "parcelamento": null,
+  "texto": "De: R$ 730.04 a mensalidade Por: 1+48x R$ 292,61"
+ },
+ "modalidade": "Graduação Bacharelado",
+ "duracao": "4 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Possuir o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/engenharia_de_software_grad_ead.jpg",
+ "sincronizado_em": "2026-10-16T14:55:54+00:00",
+ "primeira_vez_visto": "2026-10-16T14:55:54+00:00"
+}

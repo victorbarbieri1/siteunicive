@@ -1,0 +1,96 @@
+{
+ "id": 2678,
+ "slug": "big_data_e_inteligencia_analitica_ead",
+ "url": "https://unicive.com/courses/big_data_e_inteligencia_analitica_ead/",
+ "titulo": "Big Data e Inteligência Analítica",
+ "publicado": "2023-06-28T17:54:56",
+ "modificado": "2026-08-03T15:04:56",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "2 anos"
+ ],
+ "seo_descricao": "Curso de Big Data e Inteligência Analítica no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O Curso Superior Tecnólogo em Big Data e Inteligência Analítica do Unicive forma profissionais preparados para dominar o mundo dos dados, da coleta à interpretação, e transformar informações em estratégias de sucesso para empresas e organizações.",
+   "Com uma formação prática e atual, o curso aborda análise de grandes volumes de dados, inteligência artificial, segurança da informação e tomada de decisão baseada em evidências . Ideal para quem tem perfil analítico, gosta de números e quer atuar na linha de frente da inovação tecnológica.",
+   "Transforme dados em decisões e resultados reais!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE EXPLORATÓRIA DE DADOS E VISUALIZAÇÃO",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "BANCO DE DADOS NOSQL",
+  "BUSINESS INTELLIGENCE",
+  "CLOUD COMPUTING",
+  "CONTROLE DE VERSÕES UTILIZANDO GITHUB",
+  "DATA MINING E DATA WAREHOUSE",
+  "DATA WHAREHOUSE E DATA MARTS",
+  "ESTRUTURAS DE DADOS",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GESTÃO DE PROJETOS",
+  "INTEGRAÇÃO CONTÍNUA",
+  "INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "INGLÊS INSTRUMENTAL",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MÉTODOS ÁGEIS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM JAVA",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O especialista em Big Data e Inteligência Analítica pode atuar em diversos setores, como manufatura, varejo, saúde, finanças, marketing e engenharia, aplicando tecnologia e análise de dados para impulsionar resultados.",
+   "Entre as possibilidades de carreira estão funções como analista ou cientista de dados, desenvolvedor, administrador de banco de dados, arquiteto de soluções em big data, cientista de machine learning e especialista em business analytics.",
+   "Esses profissionais são essenciais para entender o comportamento do consumidor, prevenir fraudes, otimizar processos e apoiar decisões estratégicas que transformam negócios."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 649.76,
+  "por": 191.26,
+  "parcelamento": null,
+  "texto": "De: R$ 649.76 a mensalidade Até: 1+24x R$ 191,26"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "2 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do 2º Grau Completo (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter concluído o 2º grau completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/bigdatainteli_grad_ead.webp",
+ "sincronizado_em": "2026-10-16T14:55:41+00:00",
+ "primeira_vez_visto": "2026-10-16T14:55:41+00:00"
+}

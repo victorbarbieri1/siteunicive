@@ -1,0 +1,97 @@
+{
+ "id": 2642,
+ "slug": "internet_das_coisas_ead",
+ "url": "https://unicive.com/courses/internet_das_coisas_ead/",
+ "titulo": "Internet das Coisas",
+ "publicado": "2023-06-28T17:45:05",
+ "modificado": "2026-08-05T16:10:53",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "2 anos"
+ ],
+ "seo_descricao": "Curso de Internet das Coisas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "Como conectar dispositivos físicos, veículos, eletrodomésticos e outros objetos através da Internet, permitindo que eles coletem e compartilhem dados?",
+   "A tecnologia revoluciona a maneira como interagimos com o mundo, possibilitando automação inteligente, monitoramento remoto e análise de dados em tempo real para melhorar a eficiência, a segurança e a qualidade de vida, ou seja, um mundo de \"coisas\" conectadas (dispositivos, veículos, prédios) capazes de conversar com uma rede, internet, consigo mesmas e que realiza ações.",
+   "O Curso Superior Tecnólogo em Internet das Coisas do Unicive atua no conhecimento dentro do conceito IOT (Internet das Coisas), desenvolvido de tal forma a estar próximo de uma nova revolução, configurando instalações, conexões, dados de sistemas incorporados, ou seja, onde se trabalha tanto no lado do hardware quanto no do software, podendo se conectar à Internet e criar dispositivos e soluções inovadoras.",
+   "As disciplinas do cursos foram escolhidas para que o estudante possa desenvolver o aprendizado sob uma base sólida em lógica de programação, algoritmos e arquitetura de computadores , junto com habilidades em matemática e modelagem de banco de dados.",
+   "Ao explorar as nuances da Internet das Coisas, os estudantes preparam-se para enfrentar desafios em áreas como cloud computing, big data, inteligência artificial e gestão estratégica de tecnologia, enquanto também adquirem uma compreensão essencial de ética, responsabilidade socioambiental e relações humanas para uma abordagem holística e inovadora no campo da tecnologia da informação.",
+   "Foque em sua capacitação, e mergulhe nesse processo ilimitado de possibilidades!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+  "ARQUITETURA DE HARDWARE PARA IOT",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "BUSINESS INTELLIGENCE",
+  "CLOUD COMPUTING",
+  "COMUNICAÇÃO EMPRESARIAL",
+  "DATA MINING E DATA WAREHOUSE",
+  "ESTATÍSTICA E PROBABILIDADE",
+  "FUNDAMENTOS DE REDES DE COMPUTADORES",
+  "GERENCIAMENTO DE BANCO DE DADOS",
+  "GERENCIAMENTO DE REDES DE COMPUTADORES",
+  "INGLÊS INSTRUMENTAL",
+  "INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING",
+  "INTRODUÇÃO À INTERNET DAS COISAS",
+  "MATEMÁTICA PARA COMPUTAÇÃO",
+  "MÉTODOS ÁGEIS",
+  "MODELAGEM DE BANCO DE DADOS",
+  "REDES SEM FIO",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS COM JAVA",
+  "PROGRAMAÇÃO PARA A WEB",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O mercado de trabalho para profissionais formados em Internet das Coisas é diversificado e em constante crescimento, oferecendo uma variedade de oportunidades em diferentes setores e áreas de atuação, como:",
+   "● Desenvolvimento de Dispositivos IoT",
+   "● Integração de Sistemas IoT",
+   "● Análise de Dados IoT",
+   "● Segurança de IoT",
+   "● Desenvolvimento de Aplicações IoT",
+   "● Consultoria e Treinamento em IoT",
+   "● Empreendedorismo em IoT"
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 649.76,
+  "por": 191.99,
+  "parcelamento": null,
+  "texto": "De: R$ 649.76 a mensalidade Até: 1+24x R$ 191,99"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "2 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/internet_das_coisas_grad_ead.jpg",
+ "sincronizado_em": "2026-10-16T14:56:04+00:00",
+ "primeira_vez_visto": "2026-10-16T14:56:04+00:00"
+}

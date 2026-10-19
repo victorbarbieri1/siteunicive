@@ -1,0 +1,58 @@
+{
+ "id": 216429,
+ "slug": "profissionalizante-de-administrador-de-redes",
+ "url": "https://unicive.com/courses/profissionalizante-de-administrador-de-redes/",
+ "titulo": "Profissionalizante de Administrador de Redes",
+ "publicado": "2026-05-06T12:23:49",
+ "modificado": "2026-05-06T12:23:49",
+ "centro": [],
+ "categorias": [
+  "Tecnologias e Exatas"
+ ],
+ "tags": [
+  "560 horas"
+ ],
+ "seo_descricao": "Curso de Profissionalizante de Administrador de Redes no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Sobre o curso": [
+   "O curso profissionalizante de Administrador de Redes capacita o aluno para planejar, implementar e administrar redes de computadores e servidores. A formação aborda protocolos de comunicação, cabeamento estruturado, segurança da informação e administração de sistemas como Windows Server e Linux. Com foco prático e alinhado às demandas do mercado, o curso prepara o profissional para atuar na área de infraestrutura de Tecnologia da Informação."
+  ]
+ },
+ "matriz_curricular": [
+  "Introdução à EAD",
+  "Introdução a Redes de Computadores e Protocolos de Comunicação",
+  "Cabeamento Estruturado",
+  "Administração de Sistema Operacional Proprietário – Windows Server",
+  "Administração de Sistema Operacional Livre – Linux",
+  "Segurança da Informação",
+  "Coaching e Planejamento de Carreiras"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Área de atuação": [
+   "– Administração e gerenciamento de redes corporativas;",
+   "– Configuração e manutenção de servidores;",
+   "– Implementação de políticas de segurança da informação;",
+   "– Empresas privadas;",
+   "– Prestação de serviços autônomos."
+  ],
+  "Certificação": [
+   "– Certificado de Curso Profissionalizante emitido pelo Unicive."
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 255.0,
+  "por": 204.0,
+  "parcelamento": "1+7x de R$ 204,00",
+  "texto": "De: R$ 255.00 Por: 1+7x de R$ 204,00"
+ },
+ "modalidade": "Profissionalizante EAD",
+ "duracao": "560 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/04/young-man-engineer-making-program-analyses-scaled.jpg",
+ "sincronizado_em": "2026-10-16T14:51:24+00:00",
+ "primeira_vez_visto": "2026-10-16T14:51:24+00:00"
+}

@@ -1,0 +1,108 @@
+{
+ "id": 177734,
+ "slug": "computacao_e_informatica_ead",
+ "url": "https://unicive.com/courses/computacao_e_informatica_ead/",
+ "titulo": "Computação e Informática",
+ "publicado": "2023-11-27T12:46:13",
+ "modificado": "2026-07-22T16:16:52",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [
+  "4 anos"
+ ],
+ "seo_descricao": "Curso de Computação e Informática no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso de Licenciatura em Computação do Unicive prepara um profissional que une tecnologia, educação e inovação. Com uma formação sólida em Ciência da Computação, Matemática e Pedagogia, o egresso sai pronto para atuar no ensino da Computação na Educação Básica e Técnica, contribuindo para a formação de novas gerações digitais.",
+   "Mais do que dominar códigos e algoritmos, o licenciado em Computação do Unicive é capaz de criar soluções educacionais inteligentes, promovendo uma interação eficiente entre pessoas e tecnologia. Ele identifica e resolve problemas de forma lógica e criativa, compreende os limites e as possibilidades da computação e avalia criticamente projetos de sistemas.",
+   "Além disso, é um profissional autônomo, capaz de gerir seu aprendizado e tempo, adaptando-se com agilidade às transformações tecnológicas. Demonstra espírito de liderança e empreendedorismo, coordenando equipes e projetos com competência e visão inovadora.",
+   "Forme-se no Unicive e esteja preparado para educar, inovar e liderar o futuro digital!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ACESSIBILIDADE, METODOLOGIAS ATIVAS E ASSISTIVAS",
+  "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
+  "ANÁLISE DE BANCO DE DADOS",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "ATIVIDADES EXTENSIONISTAS III",
+  "ATIVIDADES EXTENSIONISTAS IV",
+  "CÁLCULO NUMÉRICO",
+  "DESENVOLVIMENTO WEB",
+  "DESIGN DE INTERFACE",
+  "DIDÁTICA: ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO",
+  "EDUCAÇÃO E NOVAS TECNOLOGIAS",
+  "EDUCAÇÃO ESPECIAL E INCLUSIVA",
+  "ENGENHARIA DE REQUISITOS",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO I – PARTE A (PRÉ-REQUISITO PARA A PARTE B)",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO I – PARTE B",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO II – PARTE A (PRÉ-REQUISITO PARA A PARTE B)",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO II – PARTE B",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO III – PARTE A (PRÉ-REQUISITO PARA A PARTE B)",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO III – PARTE B",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO IV – PARTE A (PRÉ-REQUISITO PARA A PARTE B)",
+  "ESTÁGIO CURRICULAR SUPERVISIONADO IV – PARTE B",
+  "ESTRUTURAS E ORDENAÇÃO DE DADOS",
+  "ÉTICA E RESPONSABILIDADE SOCIOAMBIENTAL",
+  "FUNDAMENTOS HISTÓRICO E FILOSÓFICOS DA EDUCAÇÃO",
+  "FUNDAMENTOS SISTEMAS OPERACIONAIS",
+  "FUNDAMENTOS SOCIOLÓGICOS E ANTROPOLÓGICOS DA EDUCAÇÃO",
+  "GÊNERO, SEXUALIDADE E EDUCAÇÃO",
+  "GESTÃO DE BANCO DE DADOS",
+  "GESTÃO DE PROJETOS DE SOFTWARE",
+  "HISTÓRIA E CULTURA AFRICANA, AFRO-BRASILEIRA E INDÍGENA",
+  "INGLÊS INSTRUMENTAL",
+  "INTERFACE HOMEM-COMPUTADOR",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "METODOLOGIA DA PESQUISA E DO TRABALHO CIENTÍFICO",
+  "POLÍTICAS PÚBLICAS DA EDUCAÇÃO BÁSICA",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS",
+  "PSICOLOGIA DA EDUCAÇÃO",
+  "REDES DE COMPUTADORES",
+  "TEORIA DA COMPUTAÇÃO",
+  "DISCIPLINAS OPTATIVAS",
+  "DISCIPLINA INTERNACIONAL",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "PROGRAMAÇÃO ORIENTADA A OBJETOS EM PYTHON",
+  "UX EXPERIÊNCIA DO USUÁRIO",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Objetivo": [
+   "Seguindo a DCN, o curso licenciatura em Computação do Unicive tem como objetivo capacitar professores para formar cidadãos capazes de conviver e se destacar numa sociedade cada vez mais tecnológica e globalizada. Assim, tais professores contribuem com o desenvolvimento econômico e social do Brasil. Para atingir esse objetivo, visa-se:",
+   "– Promover a importância da introdução e desenvolvimento do pensamento computacional e algorítmico na educação básica;",
+   "– Fomentar e desenvolver práticas inovadoras apoiadas pelas tecnologias correntes;",
+   "– Ddesenvolver valores relacionados à sociedade e à sustentabilidade."
+  ],
+  "Mercado de trabalho": [
+   "O egresso do Curso de Licenciatura em Computação do Unicive sai preparado para atuar em uma ampla variedade de áreas, unindo educação, tecnologia e inovação.",
+   "Pode lecionar na Educação Básica e Superior, contribuir com pesquisas e projetos acadêmicos, ou ingressar no mercado tecnológico em desenvolvimento de software, consultoria, educação a distância e gestão de projetos de TI.",
+   "A formação também abre espaço para o empreendedorismo, a pesquisa aplicada, e para áreas em expansão como segurança da informação, inteligência artificial e ciência de dados."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Thyago Bohrer Borges",
+   "curriculo": "Mestre em Ciência da Computação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Bacharel em Análises de Sistemas pela Universidade Católica de Pelotas (UCPel), Tecnólogo em Empreendedorismo (Unicesumar), Especialista em Especialista em Gestão de Projetos em TI Especialista em Gestão Ágil (Coach Agile), Especialista em Negócios Inovadores e Digitais. Atualmente é Coordenador do Centro de Tecnologia e Informação e Comunicação do UniCV. Possuo experiência como Coordenador dos cursos de TI EAD Unicesumar. Coordenador do curso de Sistemas de Informação (2019-2021), Coordenador de Pós Graduação (2019-2021), Coordenador de Extensão (2019-2020), Coordenador de Inovação e Empreendedorismo (2021) do Centro Universitário São Lucas de Ji-Paraná. Consultor e Assessor em Tecnologia da Informação e Inovação Tecnológica para Empresas. Professor Universitário do CEULJI/ULBRA (Centro Universitário Ulbra Ji-Paraná) de 2010 a 2018, Coordenador do curso de Sistemas de Informação (2010-2018). Editor da Revista Eletrônica do CEULJI, Ciência Consciência. Consultor da Revista Eletrônica Acta do Movimento Humano. Membro Presidente do Núcleo Docente Estruturante (NDE) do curso de Sistemas de Informação, membro do Conselho do curso de Sistemas de Informação. Participei como membro do Conselho Próprio de Avaliação (CPA) (2010 - 2014) do CEULJI/ULBRA. Membro do Conselho Superior do CEULJI/ULBRA (2016-2017). Participei como membro do comitê de Bolsas Sociais do CEULJI/ULBRA (2011-2016). Diretor da Fundação ULBRA (FULBRA Ji-Paraná) 2017 a 2018, Gestor do Parque Tecnológico da ULBRA (ULBRATECH), 2017-2018. Clique aqui para visualizar o currículo lattes",
+   "lattes": "https://lattes.cnpq.br/5276614823227153"
+  }
+ ],
+ "investimento": {
+  "de": 543.94,
+  "por": 220.18,
+  "parcelamento": null,
+  "texto": "De: R$ 543.94 a mensalidade Por: 1+48x R$ 220,18"
+ },
+ "modalidade": "Graduação Licenciatura",
+ "duracao": "4 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_vista-traseira-do-programador-trabalhando-a-noite-toda_1098-18697_large.jpg",
+ "sincronizado_em": "2026-10-16T14:53:17+00:00",
+ "primeira_vez_visto": "2026-10-16T14:53:17+00:00"
+}

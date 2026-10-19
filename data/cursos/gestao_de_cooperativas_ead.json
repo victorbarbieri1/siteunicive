@@ -1,0 +1,92 @@
+{
+ "id": 2648,
+ "slug": "gestao_de_cooperativas_ead",
+ "url": "https://unicive.com/courses/gestao_de_cooperativas_ead/",
+ "titulo": "Gestão de Cooperativas",
+ "publicado": "2023-06-28T17:46:45",
+ "modificado": "2026-08-03T16:41:07",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
+ ],
+ "categorias": [],
+ "tags": [
+  "1.5 anos"
+ ],
+ "seo_descricao": "Curso de Gestão de Cooperativas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informaçõs sobre o curso": [
+   "O investimento na formação e qualificação exige de um estudante estar diante de visões e perspectivas diferenciadas de um negócio em pleno crescimento , tanto em termos numéricos quanto na qualidade exigida pelo mercado para os produtos e serviços oferecidos por uma organização.",
+   "O Curso Superior Tecnólogo em Gestão de Cooperativas do Unicive tem como pilares disciplinas voltadas para formar talentos humanos capazes de aplicar tecnologias e métodos específicos na gestão de cooperativas de diferentes ramos e atividades.",
+   "Trabalhar com cooperativas é diferente, pois o profissional deve ter como característica principal contemplar os interesses coletivos de um grupo de pessoas, contribuindo para o desenvolvimento sustentável, social e econômico tanto dos seus membros, quanto da comunidade na qual a organização está inserida.",
+   "As disciplinas do curso buscam criar, planejar, implantar e administrar atividades voltadas às mais diversas formas de cooperativismo, com o objetivo de repassar aos estudantes ferramentas que possam contribuir para o próprio desenvolvimento profissional quanto entender os processos, práticas e técnicas, econômico e social necessários para o funcionamento e educação cooperativista.",
+   "Pense e cresça profissionalmente no individual, mas faça diferença no COLETIVO, aqui no Unicive!"
+  ]
+ },
+ "matriz_curricular": [
+  "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
+  "ATIVIDADES EXTENSIONISTAS I",
+  "ATIVIDADES EXTENSIONISTAS II",
+  "DOUTRINA COOPERATIVISTA",
+  "ECONOMIA",
+  "ELABORAÇÃO E ANÁLISE DE PROJETOS",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "FUNDAMENTOS DA ADMINISTRAÇÃO",
+  "GESTÃO DE COMPETÊNCIAS",
+  "GESTÃO FINANCEIRA E ORÇAMENTÁRIA",
+  "GOVERNANÇA CORPORATIVA, CONTROLE INTERNO E COMPLIANCE",
+  "LEGISLAÇÃO COOPERATIVISTA",
+  "MARKETING SOCIAL",
+  "MATEMÁTICA FINANCEIRA",
+  "MERCADO DE CAPITAIS",
+  "MÉTODOS QUANTITATIVOS ESTATÍSTICOS",
+  "SOCIOLOGIA RURAL E URBANA",
+  "SUSTENTABILIDADE E RESPONSABILIDADE SOCIAL",
+  "TIPOLOGIA E EDUCAÇÃO COOPERATIVISTA",
+  "DISCIPLINAS OPTATIVAS:",
+  "DISCIPLINA INTERNACIONAL",
+  "ÉTICA E RESPONSABILIDADE SOCIOAMBIENTAL",
+  "LIBRAS – LÍNGUA BRASILEIRA DE SINAIS",
+  "RELAÇÕES ÉTNICO-RACIAIS E RESPONSABILIDADE SOCIAL",
+  "A matriz apresentada encontra-se em ordem alfabética. As disciplinas previstas nos respectivos períodos de acordo com a Matriz Curricular serão definidas pela coordenação, ou seja, considerando a edição das Diretrizes Curriculares, emanadas do Conselho Nacional de Educação e poderá realizar adequações pertinentes na matriz curricular do curso."
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Mercado de trabalho": [
+   "O mercado de trabalho para gestores de cooperativas está em expansão, com boas perspectivas para quem se especializa nessa área, especialmente devido à diversidade de setores e ao foco em sustentabilidade e inovação. Os profissionais formados em Gestão de Cooperativas podem atuar em diversos tipos de cooperativas (crédito, centrais, federações e confederações), além de empresas financeiras, órgãos públicos, entidades de apoio ao cooperativismo e instituições de ensino, desde que atendam às exigências legais. Entre as oportunidades disponíveis estão cargos como Gerente Geral, Consultor de Cooperativas, Auditor Interno, Instrutor ou Professor, Líder de Projetos e Especialista em Sustentabilidade. A atuação pode ocorrer em setores como cooperativas de crédito, agrícolas e de saúde, com responsabilidades que incluem gestão de produtos financeiros, produção e comercialização agrícola, ou administração de serviços de saúde. Dessa forma, a Gestão de Cooperativas é uma carreira promissora, alinhada aos desafios do cooperativismo e da economia colaborativa."
+  ],
+  "Metodologia ead": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Antônio Sanches",
+   "curriculo": "Mestre em desenvolvimento de tecnologia pelo Institutos Lactec/UFPR (2016), especialista em MBA executivo pela UEM (2004), e em tecnologias aplicadas ao ensino a distância pelo UniCV (2021), graduado em ciências contábeis pela UEM (2001), cursando a segunda graduação em Administração pelo UniCV. Experiência profissional de mais de 30 anos como executivo de compras e operações em empresas do ramo do vestuário, atuando há mais de 18 anos como professor de graduação e pós graduação.",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 693.08,
+  "por": 181.99,
+  "parcelamento": null,
+  "texto": "De: R$ 693.08 a mensalidade Até: 1+18x R$ 181,99"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "1.5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [
+  "Cópia do Certificado do Ensino Médio (autenticado).",
+  "Cópia da Certidão de nascimento ou casamento.",
+  "Cópia do RG ou CNH.",
+  "Cópia do CPF.",
+  "Comprovante de Residência atualizado (conta de água ou de energia elétrica)."
+ ],
+ "requisitos": [
+  "Ter o Ensino Médio Completo"
+ ],
+ "imagem": "https://unicive.com/wp-content/uploads/2023/06/gestaocooperativas_grad_ead.webp",
+ "sincronizado_em": "2026-10-16T14:56:01+00:00",
+ "primeira_vez_visto": "2026-10-16T14:56:01+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "id": 221405,
+ "slug": "programacao-de-jogos-digitais-para-consoles",
+ "url": "https://unicive.com/courses/programacao-de-jogos-digitais-para-consoles/",
+ "titulo": "Programação de Jogos Digitais para Consoles",
+ "publicado": "2026-06-30T17:54:09",
+ "modificado": "2026-08-05T16:14:41",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
+ ],
+ "categorias": [],
+ "tags": [],
+ "seo_descricao": "Curso de Programação de Jogos Digitais para Consoles no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O curso de Programação de Jogos Digitais para Consoles capacita o estudante para atuar no desenvolvimento de jogos eletrônicos destinados a plataformas de videogame. Ao longo da formação, são abordados conceitos fundamentais sobre a evolução da indústria dos games, funcionamento de consoles, utilização de engines profissionais como Unity e Unreal Engine, programação em C#, criação de cenários, personagens, mecânicas de jogo, testes e exportação de projetos. O curso proporciona uma visão prática e atualizada do mercado nacional e internacional de jogos digitais, preparando o aluno para participar de equipes de desenvolvimento ou criar seus próprios projetos.",
+   "Capacitar o aluno a compreender os conceitos, técnicas e ferramentas necessárias para o desenvolvimento de jogos digitais para consoles, utilizando engines como Unity e Unreal, programação em C#, criação de cenários, personagens, mecânicas de jogo e processos de testes e publicação."
+  ],
+  "Sobre a carga horária": [
+   "O curso possui 80 horas de carga horária. Porém, se for concluído antes de 5 dias, passa a ter 10 horas de carga horária. Conforme nosso contrato e termos de uso."
+  ]
+ },
+ "matriz_curricular": [],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Conteúdo programático": [
+   "Unidade 1 – Cenários do Desenvolvimento de Jogos para Consoles",
+   "– História das gerações de consoles",
+   "– Cenário internacional do desenvolvimento de jogos",
+   "– Cenário nacional do desenvolvimento de jogos",
+   "– Principais componentes de um videogame",
+   "– Gêneros e características dos jogos digitais",
+   "Unidade 2 – Engines de Jogos Digitais para Consoles",
+   "– Conceitos e funcionamento das engines",
+   "– Ambiente de desenvolvimento Unity",
+   "– Motor gráfico Unreal Engine",
+   "– Programação modular aplicada aos jogos",
+   "– Ferramentas de desenvolvimento de games",
+   "Unidade 3 – Programando um Jogo Digital",
+   "– Componentes gerais dos jogos digitais",
+   "– Desenvolvimento de sprites e modelos 2D e 3D",
+   "– Aplicação de materiais e áudios",
+   "– Programação em C#",
+   "– Implementação de jogos utilizando engines",
+   "Unidade 4 – Características e Mecânicas de um Jogo",
+   "– Construção de terrenos e cenários",
+   "– Inserção e gerenciamento de assets",
+   "– Programação de jogadores e inimigos",
+   "– Sistemas de pontuação e mecânicas",
+   "– Testes, correção de erros e exportação do jogo"
+  ]
+ },
+ "coordenacao": [],
+ "investimento": {
+  "de": 100.0,
+  "por": 79.5,
+  "parcelamento": null,
+  "texto": "De: R$ 100.00 Por: R$ 79,50"
+ },
+ "modalidade": "Cursos Livres EAD",
+ "duracao": "80 horas",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/04/programador_jogos_digitais.webp",
+ "sincronizado_em": "2026-10-16T14:50:51+00:00",
+ "primeira_vez_visto": "2026-10-16T14:50:51+00:00"
+}

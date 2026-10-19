@@ -1,0 +1,76 @@
+{
+ "slug": "espaco-maker",
+ "titulo": "Espaço Maker",
+ "url": "https://unicive.com/espaco-maker/",
+ "blocos": [
+  {
+   "tipo": "titulo",
+   "texto": "CONHEÇA O ESPAÇO MAKER"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Integrado ao Smart Space, o Espaço Maker surge com o propósito de estimular a criatividade, a inovação e o aprendizado prático no ambiente acadêmico, aproximando ideias do fazer e transformando conceitos em soluções concretas. Como parte do ecossistema de inovação do Centro Universitário Cidade Verde, o Espaço Maker fortalece a cultura maker ao oferecer infraestrutura, ferramentas e suporte para o desenvolvimento e a prototipagem de projetos em diferentes áreas."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Disponibilizado de forma contínua, o Espaço Maker pode ser utilizado mediante agendamento prévio, atendendo tanto a projetos aprovados em edital quanto a atividades acadêmicas, aulas e eventos. Equipado com impressora 3D, notebooks, projetor, óculos de realidade virtual e Wi-Fi exclusivo, o espaço democratiza o acesso à prototipação e reduz custos, tornando viável a experimentação e a validação de ideias inovadoras."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Com uma missão voltada ao estímulo da pesquisa e do desenvolvimento por meio da prototipação, e com o propósito de valorizar projetos criativos que conectam pessoas em busca de novas oportunidades, o Espaço Maker reafirma o compromisso do Unicive com a formação de profissionais criativos, éticos e preparados para os desafios contemporâneos."
+  },
+  {
+   "tipo": "titulo",
+   "texto": "EDITAL ABERTO"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O Edital de Inscrição para o Programa de Projetos no Espaço Maker – Unicive é de fluxo contínuo, sendo assim, a submissão de projetos pode ser feita a qualquer momento a partir da abertura. Independentemente da data de início, o prazo final para conclusão do projeto será 30 de novembro de 2026. Todos os projetos devem ser submetidos por meio do Sistema Espaço Maker – Unicive."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Quem pode se inscrever para o desenvolvimento de projetos:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Estudantes do Unicive;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Técnicos administrativos do Unicive;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Comunidade externa."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Quanto ao orientador do projeto:"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Um(a) professor(a) deve orientar os alunos, e acompanhar até 3 (três) projetos ao ano;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Um(a) gerente direto e/ou diretor deve acompanhar técnicos administrativos e supervisionar;"
+  },
+  {
+   "tipo": "texto",
+   "texto": "O(a) gerente de inovação do Smart Space deve acompanhar membros da comunidade externa."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Em caso de dúvidas, fale com a nossa equipe: espacomaker@unicive.edu.br"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Edital de Inscrição"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Clique no botão abaixo para acessar o edital de inscrição."
+  }
+ ],
+ "sincronizado_em": "2026-10-16T15:11:00+00:00"
+}
