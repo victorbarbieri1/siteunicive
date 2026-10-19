@@ -316,6 +316,83 @@ def markdown_inst(p):
     return "\n".join(L) + "\n"
 
 
+def md_para_html(md):
+    """Markdown simples (o que markdown_curso/markdown_inst geram) para HTML sem links."""
+    out, lista = [], None
+    negrito = lambda t: re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", e(t))
+    for linha in md.split("\n"):
+        m = re.match(r"^(#{1,4}) (.*)", linha)
+        item = re.match(r"^(- |\d+\. )(.*)", linha)
+        tipo = "ol" if item and item.group(1)[0].isdigit() else "ul" if item else None
+        if lista and tipo != lista:
+            out.append(f"</{lista}>")
+            lista = None
+        if m:
+            n = min(len(m.group(1)) + 1, 4)  # o <h1> fica para o título do pacote
+            out.append(f"<h{n}>{negrito(m.group(2))}</h{n}>")
+        elif item:
+            if not lista:
+                lista = tipo
+                out.append(f"<{tipo}>")
+            out.append(f"<li>{negrito(item.group(2))}</li>")
+        elif linha.strip():
+            out.append(f"<p>{negrito(linha.strip().strip('_'))}</p>")
+    if lista:
+        out.append(f"</{lista}>")
+    return "\n".join(out)
+
+
+def gerar_pacotes_rastreador(blocos_inst, cursos, max_paginas=95):
+    """Base inteira em poucas páginas HTML grandes, para rastreadores com limite de páginas (ex.: Hablla).
+
+    site/hablla/index.html só aponta para os pacotes, e os pacotes não têm nenhum link,
+    então um rastreador que parte do índice lê exatamente: índice + pacotes.
+    """
+    pasta = SITE / "hablla"
+    pasta.mkdir(exist_ok=True)
+    grupos = [("institucional", "Institucional, contatos, ingresso e modalidades", [b for b in blocos_inst if b.strip()])]
+    for m in MODALIDADES:
+        lista = sorted((c for c in cursos if c["analise"]["modalidade"]["id"] == m["id"]),
+                       key=lambda c: (c["analise"]["area"]["nome"], c["titulo"].lower()))
+        if lista:
+            grupos.append((m["id"], f"Cursos – {m['nome']}", [markdown_curso(c) for c in lista]))
+
+    limite = 200_000
+    while True:
+        pacotes = []
+        for gid, nome, docs in grupos:
+            atual, tam, parte = [], 0, 1
+            for d in docs:
+                t = len(d.encode())
+                if atual and tam + t > limite:
+                    pacotes.append((f"{gid}-{parte:02d}", f"{nome} (parte {parte})", atual))
+                    atual, tam, parte = [], 0, parte + 1
+                atual.append(d)
+                tam += t
+            if atual:
+                pacotes.append((f"{gid}-{parte:02d}", f"{nome} (parte {parte})" if parte > 1 else nome, atual))
+        if len(pacotes) <= max_paginas:
+            break
+        limite = int(limite * 1.25)
+
+    css = "body{font:16px/1.6 system-ui,sans-serif;max-width:900px;margin:0 auto;padding:16px;color:#16211d;background:#fff}h2{margin-top:2em;border-top:1px solid #ddd;padding-top:1em}"
+    aviso = ("Base de conhecimento do Unicive – Centro Universitário Cidade Verde, sincronizada automaticamente com unicive.com "
+             f"em {AGORA_BR}. Preços e condições conforme o site oficial nessa data. Faixas salariais são estimativas.")
+    for arq, titulo, docs in pacotes:
+        corpo = f"<h1>{e(titulo)} – Unicive</h1><p>{e(aviso)}</p>" + "\n".join(md_para_html(d) for d in docs)
+        (pasta / f"{arq}.html").write_text(
+            f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<meta name="robots" content="nofollow"><title>{e(titulo)} – Unicive</title><style>{css}</style></head><body>{corpo}</body></html>',
+            encoding="utf-8")
+    itens = "".join(f'<li><a href="{arq}.html">{e(titulo)}</a></li>' for arq, titulo, _ in pacotes)
+    (pasta / "index.html").write_text(
+        f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+        f'<title>Base de conhecimento Unicive – índice</title><style>{css}</style></head><body>'
+        f"<h1>Base de conhecimento Unicive</h1><p>{e(aviso)}</p><p>{len(cursos)} cursos em {len(pacotes)} páginas.</p><ul>{itens}</ul></body></html>",
+        encoding="utf-8")
+    return len(pacotes)
+
+
 def build():
     cursos, inst = carregar()
     if SITE.exists():
@@ -466,6 +543,7 @@ def build():
     for nome, conteudo in partes.items():
         (SITE / "kb" / nome).write_text(conteudo, encoding="utf-8")
     kb_links = "".join(f'<li><a href="kb/{n}">{n}</a> ({len(t.encode()) // 1024} KB)</li>' for n, t in partes.items())
+    n_pacotes = gerar_pacotes_rastreador(full[:full.index("# PARTE 3 — CURSOS")], cursos)
 
     # Página para o agente
     corpo = f"""<h1>Conectar o agente de IA</h1><p class="lead">Esta base é atualizada automaticamente a partir do unicive.com.
@@ -477,6 +555,9 @@ Aponte o agente SDR para uma das fontes abaixo — todas são regeneradas a cada
 <a href="api/carreiras.json">api/carreiras.json</a> e <a href="api/status.json">api/status.json</a>.</p></div>
 <div class="card"><h3 style="margin-top:0">Páginas HTML</h3><p>Uma página por curso em <code>cursos/&lt;slug&gt;.html</code>, com dados estruturados schema.org/Course.</p></div>
 </div>
+<h2>Plataformas que leem o site com limite de páginas (ex.: Hablla)</h2>
+<p>Cadastre <a href="hablla/index.html">hablla/index.html</a> como página do site, com a busca no site todo ligada e máximo de 100 páginas.
+São {n_pacotes} páginas pacote, sem links para o resto do site, com a base inteira.</p>
 <h2>Arquivos fatiados por modalidade</h2><p>Para plataformas que limitam o tamanho de cada arquivo da base:</p><ul class="check">{kb_links}</ul>
 <h2>Sugestão de instruções para o agente</h2>
 <pre>Você é SDR do Unicive. Use apenas a base de conhecimento fornecida.
