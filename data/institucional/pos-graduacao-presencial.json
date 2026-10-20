@@ -53,15 +53,11 @@
   },
   {
    "tipo": "titulo",
-   "texto": "Duração mínima do curso: 370 horas"
+   "texto": "Duração mínima do curso: 360 horas"
   },
   {
    "tipo": "titulo",
    "texto": "Cibersegurança e Cloud Computing"
-  },
-  {
-   "tipo": "titulo",
-   "texto": "Duração mínima do curso: 360 horas"
   },
   {
    "tipo": "titulo",
@@ -93,15 +89,11 @@
   },
   {
    "tipo": "titulo",
-   "texto": "Duração mínima do curso: 410 horas"
+   "texto": "Duração mínima do curso: 490 horas"
   },
   {
    "tipo": "titulo",
    "texto": "Fisioterapia na Neuropediatria"
-  },
-  {
-   "tipo": "titulo",
-   "texto": "Duração mínima do curso: 368 horas"
   },
   {
    "tipo": "titulo",
@@ -145,7 +137,15 @@
   },
   {
    "tipo": "titulo",
+   "texto": "Duração mínima do curso: 370 horas"
+  },
+  {
+   "tipo": "titulo",
    "texto": "Nutrição Esportiva"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Duração mínima do curso: 390 horas"
   },
   {
    "tipo": "titulo",
@@ -162,7 +162,11 @@
   {
    "tipo": "titulo",
    "texto": "Psicologia Analítica"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Duração mínima do curso: 465 horas"
   }
  ],
- "sincronizado_em": "2026-10-19T18:31:12+00:00"
+ "sincronizado_em": "2026-10-20T19:30:56+00:00"
 }

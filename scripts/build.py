@@ -105,6 +105,10 @@ details summary{cursor:pointer;font-weight:600}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:14px;padding:22px 0 40px}
 code,pre{font-family:ui-monospace,Consolas,monospace;font-size:14px}pre{background:var(--surface-2);padding:12px;border-radius:10px;overflow:auto}
 .cols{columns:2 280px;column-gap:28px}
+.tabela{overflow-x:auto;margin:8px 0}.tabela table{border-collapse:collapse;width:100%;min-width:520px;font-size:15px}
+.tabela th,.tabela td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+.tabela thead th{color:var(--muted);font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+.tabela .m,#markdown .m{color:var(--muted);font-size:13px}
 """
 
 JS_INDEX = """
@@ -491,6 +495,100 @@ def gerar_skills_hablla(cursos, url):
     return skills
 
 
+TIPOS_CURSO = [
+    ("graduacao-bacharelado", "Graduação Bacharelado"), ("graduacao-licenciatura", "Graduação Licenciatura"),
+    ("graduacao-tecnologo", "Graduação Tecnólogo"), ("segunda-graduacao", "Segunda Graduação"),
+    ("tecnico-para-tecnologo", "Técnico para Tecnólogo"), ("pos-graduacao", "Pós-Graduação"),
+    ("aperfeicoamento", "Aperfeiçoamento"), ("profissionalizante", "Profissionalizante"),
+    ("cursos-livres", "Cursos Livres e Preparatórios"),
+]
+FORMATOS = [("presencial", "Presencial"), ("ead", "EaD"), ("semipresencial", "Semipresencial")]
+
+
+def tipo_e_formato(c):
+    """(tipo, formato) do curso, a partir do campo Modalidade do unicive.com e, quando preciso, do texto do curso."""
+    mod = (c.get("modalidade") or "").lower()
+    texto = json.dumps([c.get("descricao"), c.get("outras_secoes"), c.get("seo_descricao")], ensure_ascii=False).lower()
+    if "2ª" in mod or "segunda" in mod:
+        tipo = "segunda-graduacao"
+    elif "técnico para tecnólogo" in mod:
+        tipo = "tecnico-para-tecnologo"
+    elif mod.startswith("pós") or "mestrado" in mod:
+        tipo = "pos-graduacao"
+    elif "aperfei" in mod:
+        tipo = "aperfeicoamento"
+    elif "profissionalizante" in mod:
+        tipo = "profissionalizante"
+    elif "bacharelado" in mod:
+        tipo = "graduacao-bacharelado"
+    elif "licenciatura" in mod:
+        tipo = "graduacao-licenciatura"
+    elif "tecnólogo" in mod:
+        tipo = "graduacao-tecnologo"
+    elif mod.startswith("graduação"):  # "Graduação Presencial": o tipo vem do texto do curso
+        tipo = ("graduacao-licenciatura" if "licenciatura" in texto else
+                "graduacao-bacharelado" if "bacharel" in texto else "graduacao-tecnologo")
+    else:
+        tipo = "cursos-livres"
+    if "presencial" in mod and "semipresencial" not in mod:
+        formato = "presencial"
+    elif ("semipresencial" in mod or "semipresencial" in texto or "semi-presencial" in texto
+          or (tipo == "graduacao-licenciatura") or (tipo == "segunda-graduacao" and "licenciatura" in mod)):
+        formato = "semipresencial"  # o unicive.com oferta a Licenciatura EaD como semipresencial
+    else:
+        formato = "ead"
+    return tipo, formato
+
+
+def gerar_markdown_por_tipo(cursos, inst):
+    """site/markdown/<tipo>-<formato>.md + institucional.md. Devolve {(tipo, formato): (arquivo, n_cursos, kb)}."""
+    pasta = SITE / "markdown"
+    pasta.mkdir(exist_ok=True)
+    nome_tipo, nome_formato = dict(TIPOS_CURSO), dict(FORMATOS)
+    grupos = defaultdict(list)
+    for c in cursos:
+        grupos[tipo_e_formato(c)].append(c)
+    regras = ("Regras: antes de informar preço, duração ou requisitos, confirme com o lead o tipo de curso e o formato "
+              "(presencial, EaD ou semipresencial). Preços conforme o site oficial na data acima; oriente confirmar em unicive.com. "
+              "Faixas salariais são estimativas, não promessas.")
+    arquivos = {}
+    for (tipo, formato), lista in grupos.items():
+        rotulo = f"{nome_tipo[tipo]} – {nome_formato[formato]}"
+        lista.sort(key=lambda c: c["titulo"].lower())
+        cab = [f"# Unicive – {rotulo}", "", f"{len(lista)} cursos · atualizado em {AGORA_BR} (Brasília) · fonte: {BASE}", "", regras, "",
+               "## Cursos neste arquivo", *[f"- {c['titulo']}" for c in lista], ""]
+        docs = []
+        for c in lista:
+            md = markdown_curso(c).split("\n", 1)
+            docs.append(f"# {c['titulo']} — {rotulo}\n{md[1] if len(md) > 1 else ''}")
+        conteudo = "\n".join(cab) + "\n" + "\n".join(docs)
+        arq = f"{tipo}-{formato}.md"
+        (pasta / arq).write_text(conteudo, encoding="utf-8")
+        arquivos[(tipo, formato)] = (arq, len(lista), len(conteudo.encode()) // 1024)
+    docs_inst = [markdown_inst(inst[s]) for _, slugs in GRUPOS_INST for s in slugs if s in inst]
+    usados = {s for _, slugs in GRUPOS_INST for s in slugs}
+    docs_inst += [markdown_inst(p) for s, p in inst.items() if s not in usados]
+    conteudo = f"# Unicive – Informações institucionais\n\nAtualizado em {AGORA_BR} (Brasília) · fonte: {BASE}\n\n" + "\n".join(docs_inst)
+    (pasta / "institucional.md").write_text(conteudo, encoding="utf-8")
+    arquivos[("institucional", "")] = ("institucional.md", len(inst), len(conteudo.encode()) // 1024)
+    return arquivos
+
+
+def tabela_markdown(arquivos, prefixo=""):
+    cab = "".join(f"<th>{e(n)}</th>" for _, n in FORMATOS)
+    linhas = ""
+    for tipo, nome in TIPOS_CURSO:
+        cel = ""
+        for formato, _ in FORMATOS:
+            a = arquivos.get((tipo, formato))
+            cel += (f'<td><a href="{prefixo}markdown/{a[0]}">{a[1]} cursos</a> <span class="m">· {a[2]} KB</span></td>' if a else '<td class="m">—</td>')
+        linhas += f"<tr><th scope=row>{e(nome)}</th>{cel}</tr>"
+    inst = arquivos[("institucional", "")]
+    return (f'<div class="tabela"><table><thead><tr><th>Tipo de curso</th>{cab}</tr></thead><tbody>{linhas}</tbody></table></div>'
+            f'<p>Informações institucionais (sobre o Unicive, contatos, ingresso, bolsas, modalidades): '
+            f'<a href="{prefixo}markdown/{inst[0]}">{inst[0]}</a> <span class="m">· {inst[2]} KB</span></p>')
+
+
 def build():
     cursos, inst = carregar()
     if SITE.exists():
@@ -514,6 +612,7 @@ def build():
         (SITE / "cursos" / f"{c['slug']}.md").write_text(markdown_curso(c), encoding="utf-8")
 
     # Catálogo
+    arquivos_md = gerar_markdown_por_tipo(cursos, inst)
     mods = sorted({c["analise"]["modalidade"]["nome"] for c in cursos})
     centros = sorted({x for c in cursos for x in c.get("centro", [])})
     opt = lambda vals, label: f'<option value="">{label}</option>' + "".join(f'<option value="{e(v)}">{e(rotulo)}</option>' for v, rotulo in vals)
@@ -531,6 +630,10 @@ def build():
     corpo = (f'<h1>Base de conhecimento Unicive</h1><p class="lead">Todos os cursos do <a href="{BASE}">unicive.com</a> com ficha completa, '
              f'análise de carreira, mercado de trabalho e guia de abordagem para o agente SDR. Atualizado automaticamente.</p>'
              '<div class="stats">' + "".join(f"<div class=stat><b>{n}</b><span>{t}</span></div>" for n, t in stats) + "</div>"
+             '<section class="card" id="markdown"><h2 style="margin-top:0">Arquivos Markdown para agentes de IA</h2>'
+             '<p class="count">Um arquivo por tipo de curso e formato, com ficha completa, análise de carreira e guia SDR de cada curso. '
+             f'Atualizados automaticamente junto com o site (última atualização: {AGORA_BR}).</p>'
+             f'{tabela_markdown(arquivos_md)}</section>'
              f'<div id="aovivo" class="banner note" data-desde="{AGORA.astimezone(dt.timezone(dt.timedelta(hours=-3))).strftime("%Y-%m-%dT%H:%M:%S")}"><span></span><ul></ul></div>'
              '<div class="filters"><input id="q" type="search" placeholder="Buscar curso, área ou palavra-chave…" aria-label="Buscar">'
              f'<select id="fm" aria-label="Modalidade">{opt([(m, m) for m in mods], "Todas as modalidades")}</select>'
@@ -654,6 +757,7 @@ Aponte o agente SDR para uma das fontes abaixo — todas são regeneradas a cada
 <a href="api/carreiras.json">api/carreiras.json</a> e <a href="api/status.json">api/status.json</a>.</p></div>
 <div class="card"><h3 style="margin-top:0">Páginas HTML</h3><p>Uma página por curso em <code>cursos/&lt;slug&gt;.html</code>, com dados estruturados schema.org/Course.</p></div>
 </div>
+<h2>Markdown por tipo de curso e formato</h2>{tabela_markdown(arquivos_md)}
 <h2>Plataformas que leem o site com limite de páginas (ex.: Hablla)</h2>
 <p>Cadastre <a href="hablla/index.html">hablla/index.html</a> como página do site, com a busca no site todo ligada e máximo de 100 páginas.
 São {n_pacotes} páginas pacote, sem links para o resto do site, com a base inteira.</p>
