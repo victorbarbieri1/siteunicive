@@ -31,6 +31,7 @@ e = html.escape
 AGORA = dt.datetime.now(dt.timezone.utc)
 AGORA_BR = AGORA.astimezone(dt.timezone(dt.timedelta(hours=-3))).strftime("%d/%m/%Y às %H:%M")
 SITE_URL = ""  # preenchido pelo workflow (SITE_URL) para sitemap e llms.txt
+URL_PADRAO = "https://victorbarbieri1.github.io/siteunicive"  # URLs das skills Hablla em builds locais
 
 GRUPOS_INST = [
     ("Sobre o Unicive", ["conheca-o-unicive", "reitoria", "contatos", "polos", "internacionalizacao"]),
@@ -393,6 +394,103 @@ def gerar_pacotes_rastreador(blocos_inst, cursos, max_paginas=95):
     return len(pacotes)
 
 
+LIMITE_URLS_SKILL = 100  # limite de URLs por skill de agente na Hablla
+SKILLS_HABLLA = [  # (id da modalidade, nome da skill), na ordem em que aparecem
+    ("bacharelado", "Graduação – Bacharelado"), ("licenciatura", "Graduação – Licenciatura"),
+    ("tecnologo", "Graduação – Tecnólogo"), ("segunda-graduacao", "Graduação – 2ª Graduação"),
+    ("tecnico-tecnologo", "Graduação – Técnico para Tecnólogo"), ("pos", "Pós-Graduação e MBA"),
+    ("mestrado", "Mestrado"), ("aperfeicoamento", "Aperfeiçoamento e Extensão"), ("livre", "Cursos Livres"),
+    ("profissionalizante", "Cursos Profissionalizantes"), ("preparatorio", "Cursos Preparatórios"),
+]
+
+
+def empacotar(grupos, limite):
+    """Junta grupos [(nome, cursos)] em pacotes de até `limite` cursos sem quebrar nenhum grupo (first-fit decrescente)."""
+    pacotes = []
+    for nome, lista in sorted(grupos, key=lambda g: -len(g[1])):
+        alvo = next((p for p in pacotes if len(p[1]) + len(lista) <= limite), None)
+        if alvo is None:
+            pacotes.append(([], []))
+            alvo = pacotes[-1]
+        alvo[0].append(nome)
+        alvo[1].extend(lista)
+    return pacotes
+
+
+def dividir_skill(lista, limite=LIMITE_URLS_SKILL):
+    """Divide os cursos de uma modalidade em skills de até `limite` URLs.
+
+    Até o limite: uma skill só. Acima: por centro (categoria do unicive.com); um centro grande demais
+    é dividido por área profissional.
+    """
+    if len(lista) <= limite:
+        return [([], lista)]
+    por_centro = defaultdict(list)
+    for c in lista:
+        por_centro[(c.get("centro") or [""])[0]].append(c)
+    grupos = []
+    for centro, cs in por_centro.items():
+        if len(cs) <= limite:
+            grupos.append((centro or "Outros (sem centro)", cs))
+            continue
+        por_area = defaultdict(list)
+        for c in cs:
+            por_area[c["analise"]["area"]["nome"]].append(c)
+        grupos += [(a, x) for a, x in por_area.items()]
+    pacotes = empacotar(grupos, limite)
+    for nomes, cs in pacotes:
+        nomes.sort()
+        cs.sort(key=lambda c: c["titulo"].lower())
+    return sorted(pacotes, key=lambda p: (-len(p[1]), p[0]))
+
+
+def gerar_skills_hablla(cursos, url):
+    """Skills da Hablla: cursos agrupados por modalidade, no máximo LIMITE_URLS_SKILL URLs por skill.
+
+    Gera site/hablla-skills/index.html (lista para copiar), um .txt com as URLs de cada skill e skills.json.
+    """
+    pasta = SITE / "hablla-skills"
+    pasta.mkdir(exist_ok=True)
+    nomes = dict(SKILLS_HABLLA)
+    ordem = [mid for mid, _ in SKILLS_HABLLA] + [m["id"] for m in MODALIDADES if m["id"] not in nomes]
+    skills = []
+    for mid in ordem:
+        lista = [c for c in cursos if c["analise"]["modalidade"]["id"] == mid]
+        if not lista:
+            continue
+        nome = nomes.get(mid) or next(m["nome"] for m in MODALIDADES if m["id"] == mid)
+        partes = dividir_skill(lista)
+        for i, (cats, cs) in enumerate(partes, 1):
+            sid = f"{mid}-{i:02d}" if len(partes) > 1 else mid
+            titulo = f"{nome} {i}/{len(partes)}" if len(partes) > 1 else nome
+            urls = [f"{url}/cursos/{c['slug']}.html" for c in cs]
+            skills.append({"id": sid, "nome": titulo, "modalidade": mid, "categorias": cats, "total_urls": len(urls),
+                           "cursos": [{"titulo": c["titulo"], "url": u} for c, u in zip(cs, urls)]})
+            (pasta / f"{sid}.txt").write_text("\n".join(urls) + "\n", encoding="utf-8")
+    assert all(s["total_urls"] <= LIMITE_URLS_SKILL for s in skills)
+    (pasta / "skills.json").write_text(json.dumps({"gerado_em": AGORA.isoformat(timespec="seconds"), "limite_urls": LIMITE_URLS_SKILL,
+                                                   "skills": skills}, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    linhas = "".join(f'<tr><td><a href="#{s["id"]}">{e(s["nome"])}</a></td><td>{s["total_urls"]}</td></tr>' for s in skills)
+    blocos = "".join(
+        f'<div class="card" id="{s["id"]}" style="margin:16px 0"><h2 style="margin-top:0">{e(s["nome"])} <span class="chip">{s["total_urls"]} URLs</span></h2>'
+        + (f'<p class="count">Categorias: {e(" · ".join(s["categorias"]))}</p>' if s["categorias"] else "")
+        + f'<p><a href="{s["id"]}.txt">{s["id"]}.txt</a> · <button type="button" data-copiar="u-{s["id"]}">Copiar URLs</button></p>'
+        f'<textarea id="u-{s["id"]}" readonly rows="6" style="width:100%;font:13px/1.4 ui-monospace,monospace">'
+        + e("\n".join(c["url"] for c in s["cursos"])) + "</textarea></div>" for s in skills)
+    js = ("document.querySelectorAll('[data-copiar]').forEach(b=>b.onclick=()=>{const t=document.getElementById(b.dataset.copiar);"
+          "t.select();(navigator.clipboard?navigator.clipboard.writeText(t.value):Promise.reject()).catch(()=>document.execCommand('copy'));"
+          "b.textContent='Copiado';setTimeout(()=>b.textContent='Copiar URLs',1500)})")
+    corpo = (f'<h1>Skills do agente na Hablla</h1><p class="lead">Os {len(cursos)} cursos separados por modalidade em {len(skills)} skills, '
+             f'cada uma com no máximo {LIMITE_URLS_SKILL} URLs. Modalidades acima do limite são divididas por centro (categoria do unicive.com) '
+             'e, quando preciso, por área profissional.</p>'
+             '<p>Em cada skill da Hablla, cole as URLs do bloco correspondente. A lista muda quando o unicive.com cria ou remove cursos: '
+             f'confira esta página depois das atualizações. Dados em <a href="skills.json">skills.json</a>.</p>'
+             f'<table><thead><tr><th>Skill</th><th>URLs</th></tr></thead><tbody>{linhas}</tbody></table>{blocos}<script>{js}</script>')
+    (pasta / "index.html").write_text(pagina("Skills Hablla – Unicive", corpo, "../", "agente"), encoding="utf-8")
+    return skills
+
+
 def build():
     cursos, inst = carregar()
     if SITE.exists():
@@ -544,6 +642,7 @@ def build():
         (SITE / "kb" / nome).write_text(conteudo, encoding="utf-8")
     kb_links = "".join(f'<li><a href="kb/{n}">{n}</a> ({len(t.encode()) // 1024} KB)</li>' for n, t in partes.items())
     n_pacotes = gerar_pacotes_rastreador(full[:full.index("# PARTE 3 — CURSOS")], cursos)
+    skills = gerar_skills_hablla(cursos, url or URL_PADRAO)
 
     # Página para o agente
     corpo = f"""<h1>Conectar o agente de IA</h1><p class="lead">Esta base é atualizada automaticamente a partir do unicive.com.
@@ -558,6 +657,7 @@ Aponte o agente SDR para uma das fontes abaixo — todas são regeneradas a cada
 <h2>Plataformas que leem o site com limite de páginas (ex.: Hablla)</h2>
 <p>Cadastre <a href="hablla/index.html">hablla/index.html</a> como página do site, com a busca no site todo ligada e máximo de 100 páginas.
 São {n_pacotes} páginas pacote, sem links para o resto do site, com a base inteira.</p>
+<p>Para skills por modalidade (até {LIMITE_URLS_SKILL} URLs cada), use <a href="hablla-skills/index.html">as {len(skills)} skills prontas</a>.</p>
 <h2>Arquivos fatiados por modalidade</h2><p>Para plataformas que limitam o tamanho de cada arquivo da base:</p><ul class="check">{kb_links}</ul>
 <h2>Sugestão de instruções para o agente</h2>
 <pre>Você é SDR do Unicive. Use apenas a base de conhecimento fornecida.
