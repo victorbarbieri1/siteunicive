@@ -25,7 +25,7 @@
   },
   {
    "tipo": "titulo",
-   "texto": "Duração mínima do curso: 4 anos"
+   "texto": "Duração mínima do curso: 3 anos"
   },
   {
    "tipo": "titulo",
@@ -46,6 +46,10 @@
   {
    "tipo": "titulo",
    "texto": "Biomedicina"
+  },
+  {
+   "tipo": "titulo",
+   "texto": "Duração mínima do curso: 4 anos"
   },
   {
    "tipo": "titulo",
@@ -101,10 +105,6 @@
   },
   {
    "tipo": "titulo",
-   "texto": "Duração mínima do curso: 3 anos"
-  },
-  {
-   "tipo": "titulo",
    "texto": "Fisioterapia"
   },
   {
@@ -144,5 +144,5 @@
    "texto": "Terapia Ocupacional"
   }
  ],
- "sincronizado_em": "2026-10-21T12:35:50+00:00"
+ "sincronizado_em": "2026-10-21T15:33:26+00:00"
 }

@@ -4,13 +4,13 @@
  "url": "https://unicive.com/courses/nutricao/",
  "titulo": "Nutrição",
  "publicado": "2023-08-03T13:53:32",
- "modificado": "2026-10-15T11:20:22",
+ "modificado": "2026-10-21T12:11:22",
  "centro": [
   "Centro de Ciências da Saúde (CCS)"
  ],
  "categorias": [],
  "tags": [
-  "4 anos"
+  "5 anos"
  ],
  "seo_descricao": "Curso de Nutrição no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -147,16 +147,16 @@
   "de": 1410.02,
   "por": 571.06,
   "parcelamento": null,
-  "texto": "De: R$ 1410.02 Por: 1+48x R$ 571,06"
+  "texto": "De: R$ 1410.02 Por: 1+60x R$ 571,06"
  },
  "modalidade": "Graduação Presencial",
- "duracao": "4 anos",
+ "duracao": "5 anos",
  "meta_extra": {},
  "documentos_necessarios": [],
  "requisitos": [
   "Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/nutricaopresencial.webp",
- "sincronizado_em": "2026-10-21T07:18:29+00:00",
+ "sincronizado_em": "2026-10-21T15:32:25+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:34+00:00"
 }

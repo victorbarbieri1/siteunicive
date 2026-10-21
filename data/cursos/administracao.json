@@ -4,13 +4,13 @@
  "url": "https://unicive.com/courses/administracao/",
  "titulo": "Administração",
  "publicado": "2023-08-03T13:31:48",
- "modificado": "2026-10-14T11:04:38",
+ "modificado": "2026-10-21T12:09:48",
  "centro": [
   "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
  "categorias": [],
  "tags": [
-  "4 anos"
+  "3 anos"
  ],
  "seo_descricao": "Curso de Administração no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -149,16 +149,16 @@
   "de": 1018.13,
   "por": 503.97,
   "parcelamento": null,
-  "texto": "De: R$ 1018.13 Por: 1+48x R$ 503,97"
+  "texto": "De: R$ 1018.13 Por: 1+36x R$ 503,97"
  },
  "modalidade": "Graduação Presencial",
- "duracao": "4 anos",
+ "duracao": "3 anos",
  "meta_extra": {},
  "documentos_necessarios": [],
  "requisitos": [
   "Ter o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/administracaopresencial.jpg",
- "sincronizado_em": "2026-10-21T07:18:30+00:00",
+ "sincronizado_em": "2026-10-21T15:32:25+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:37+00:00"
 }
