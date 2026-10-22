@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/oratoria-de-alta-performance-2/",
  "titulo": "Oratória de Alta Performance",
  "publicado": "2025-07-16T15:10:40",
- "modificado": "2026-10-15T15:48:54",
+ "modificado": "2026-10-22T10:03:39",
  "centro": [
   "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
@@ -47,10 +47,10 @@
  },
  "coordenacao": [],
  "investimento": {
-  "de": null,
+  "de": 380.0,
   "por": 240.0,
   "parcelamento": null,
-  "texto": "De: R$ 380 Por: R$ 240,00"
+  "texto": "De: R$ 380.00 Por: R$ 240,00"
  },
  "modalidade": "Cursos Livres Presencial",
  "duracao": "20 horas",
@@ -58,6 +58,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/07/pessoa-que-faz-um-discurso-num-evento-oficial-scaled.jpg",
- "sincronizado_em": "2026-10-22T07:20:14+00:00",
+ "sincronizado_em": "2026-10-22T15:33:38+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:39+00:00"
 }
