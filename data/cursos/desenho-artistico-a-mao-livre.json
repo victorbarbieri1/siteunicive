@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/desenho-artistico-a-mao-livre/",
  "titulo": "Desenho Artístico À Mão Livre",
  "publicado": "2026-06-30T17:53:39",
- "modificado": "2026-06-30T17:53:39",
- "centro": [],
- "categorias": [
-  "Artes"
+ "modificado": "2026-10-26T12:05:37",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Desenho Artístico À Mão Livre no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -61,6 +61,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/desenho_mao-livre.jpg",
- "sincronizado_em": "2026-10-26T07:23:40+00:00",
+ "sincronizado_em": "2026-10-26T16:00:51+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:52+00:00"
 }
