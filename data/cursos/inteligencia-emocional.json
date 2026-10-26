@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/inteligencia-emocional/",
  "titulo": "Inteligência Emocional",
  "publicado": "2026-06-30T18:15:07",
- "modificado": "2026-06-30T18:15:07",
- "centro": [],
- "categorias": [
-  "Desenvolvimento - pessoal"
+ "modificado": "2026-10-26T11:14:47",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Inteligência Emocional no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -59,6 +59,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/inteligencia_emocional.jpg",
- "sincronizado_em": "2026-10-26T07:23:23+00:00",
+ "sincronizado_em": "2026-10-26T14:42:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:29+00:00"
 }

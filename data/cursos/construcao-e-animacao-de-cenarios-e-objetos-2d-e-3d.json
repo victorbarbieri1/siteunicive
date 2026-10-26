@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/construcao-e-animacao-de-cenarios-e-objetos-2d-e-3d/",
  "titulo": "Construção e Animação de Cenários e Objetos 2D e 3D",
  "publicado": "2026-06-30T14:55:05",
- "modificado": "2026-06-30T14:55:05",
- "centro": [],
- "categorias": [
-  "Tecnologia"
+ "modificado": "2026-10-26T11:19:05",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
+ "categorias": [],
  "tags": [
   "80 horas"
  ],
@@ -72,6 +72,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/animacao_cenario.jpg",
- "sincronizado_em": "2026-10-26T07:23:53+00:00",
+ "sincronizado_em": "2026-10-26T14:42:09+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:14+00:00"
 }

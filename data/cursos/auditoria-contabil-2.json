@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/auditoria-contabil-2/",
  "titulo": "Auditoria Contábil",
  "publicado": "2026-06-30T15:45:17",
- "modificado": "2026-06-30T15:47:45",
- "centro": [],
- "categorias": [
-  "Gestão"
+ "modificado": "2026-10-26T11:09:28",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Auditoria Contábil no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -73,6 +73,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/auditoriacontabil.webp",
- "sincronizado_em": "2026-10-26T07:23:49+00:00",
+ "sincronizado_em": "2026-10-26T14:42:07+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:11+00:00"
 }

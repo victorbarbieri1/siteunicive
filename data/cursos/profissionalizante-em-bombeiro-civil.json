@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/profissionalizante-em-bombeiro-civil/",
  "titulo": "Profissionalizante em Bombeiro Civil",
  "publicado": "2026-05-06T11:57:22",
- "modificado": "2026-05-06T17:57:01",
- "centro": [],
- "categorias": [
-  "Saúde e Bem-estar"
+ "modificado": "2026-10-26T09:42:05",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [
   "400 horas"
  ],
@@ -52,6 +52,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/04/male-firefighter-station-suit-helmet-scaled.jpg",
- "sincronizado_em": "2026-10-26T07:24:07+00:00",
+ "sincronizado_em": "2026-10-26T14:42:13+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:37+00:00"
 }

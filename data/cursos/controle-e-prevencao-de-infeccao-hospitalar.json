@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/controle-e-prevencao-de-infeccao-hospitalar/",
  "titulo": "Controle e Prevenção de Infecção Hospitalar",
  "publicado": "2026-06-30T17:47:43",
- "modificado": "2026-06-30T17:47:43",
- "centro": [],
- "categorias": [
-  "Saúde"
+ "modificado": "2026-10-26T11:25:45",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Controle e Prevenção de Infecção Hospitalar no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -59,6 +59,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2024/01/pessoas-usando-roupas-de-protecao-em-uma-area-de-risco-biologico_23-2148848532.jpg",
- "sincronizado_em": "2026-10-26T07:23:42+00:00",
+ "sincronizado_em": "2026-10-26T14:42:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:56+00:00"
 }

@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/contabilidade-empresarial/",
  "titulo": "Contabilidade Empresarial",
  "publicado": "2026-06-30T17:47:28",
- "modificado": "2026-07-03T11:21:36",
- "centro": [],
- "categorias": [
-  "Contabilidade"
+ "modificado": "2026-10-26T11:23:58",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Contabilidade Empresarial no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -60,6 +60,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/contabilidadepospresencial.webp",
- "sincronizado_em": "2026-10-26T07:23:42+00:00",
+ "sincronizado_em": "2026-10-26T14:42:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:56+00:00"
 }
