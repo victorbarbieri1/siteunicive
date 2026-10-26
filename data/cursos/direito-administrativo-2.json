@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/direito-administrativo-2/",
  "titulo": "Direito Administrativo",
  "publicado": "2026-06-30T17:55:44",
- "modificado": "2026-06-30T17:55:44",
- "centro": [],
- "categorias": [
-  "Direito"
+ "modificado": "2026-10-26T14:04:31",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Direito Administrativo no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -66,6 +66,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_pessoas-de-estilo-vintage-trabalhando-em-um-escritorio-com-computadores_23-2149850989_large.jpg",
- "sincronizado_em": "2026-10-26T07:23:38+00:00",
+ "sincronizado_em": "2026-10-26T21:31:01+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:50+00:00"
 }

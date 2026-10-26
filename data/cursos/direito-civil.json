@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/direito-civil/",
  "titulo": "Direito Civil",
  "publicado": "2026-06-30T16:01:29",
- "modificado": "2026-06-30T16:01:29",
- "centro": [],
- "categorias": [
-  "Direito"
+ "modificado": "2026-10-26T14:17:09",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Direito Civil no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -68,6 +68,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/09/Direito-Processual-Civil-scaled.jpg",
- "sincronizado_em": "2026-10-26T07:23:45+00:00",
+ "sincronizado_em": "2026-10-26T21:31:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:02+00:00"
 }

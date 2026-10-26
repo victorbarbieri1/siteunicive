@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/elaboracao-e-gestao-de-contratos/",
  "titulo": "Elaboração e Gestão de Contratos",
  "publicado": "2026-06-30T17:42:35",
- "modificado": "2026-06-30T17:42:35",
- "centro": [],
- "categorias": [
-  "Direito"
+ "modificado": "2026-10-26T17:44:38",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Elaboração e Gestão de Contratos no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -73,6 +73,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/ComoElaborarContratos.webp",
- "sincronizado_em": "2026-10-26T07:23:44+00:00",
+ "sincronizado_em": "2026-10-26T21:31:01+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:00+00:00"
 }

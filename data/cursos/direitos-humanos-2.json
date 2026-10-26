@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/direitos-humanos-2/",
  "titulo": "Direitos Humanos",
  "publicado": "2026-06-30T15:59:50",
- "modificado": "2026-07-03T08:45:32",
- "centro": [],
- "categorias": [
-  "Direito"
+ "modificado": "2026-10-26T17:40:58",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Direitos Humanos no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -69,6 +69,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/direitos_humanos.webp",
- "sincronizado_em": "2026-10-26T07:23:47+00:00",
+ "sincronizado_em": "2026-10-26T21:31:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:05+00:00"
 }

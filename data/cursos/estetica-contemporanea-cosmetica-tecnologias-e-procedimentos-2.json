@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/estetica-contemporanea-cosmetica-tecnologias-e-procedimentos-2/",
  "titulo": "Estética Contemporânea Cosmética, Tecnologias e Procedimentos",
  "publicado": "2026-07-29T16:48:00",
- "modificado": "2026-10-26T11:31:45",
+ "modificado": "2026-10-26T13:51:49",
  "centro": [
   "Centro de Ciências da Saúde (CCS)"
  ],
@@ -29,19 +29,25 @@
  "matriz_curricular": [],
  "carga_horaria_total": null,
  "outras_secoes": {},
- "coordenacao": [],
+ "coordenacao": [
+  {
+   "nome": "Paulo Leonardo Marotti Siciliano",
+   "curriculo": "Doutor em Bioquímica pela Universidade Estadual de Maringá (UEM), Mestre em Bioquímica (PBQ/UEM) e graduado em Gastronomia e Nutrição. Possui especializações em Gestão da Segurança de Alimentos, Docência no Ensino Superior e em Bioquímica e Fisiologia Aplicada à Nutrição. Atua como professor nos cursos de Nutrição, Biomedicina e Fisioterapia no Unicive - Maringá, onde também coordena o estágio supervisionado em Nutrição. É Coordenador dos cursos de Nutrição do Unicive, além de coordenar a pós-graduação em Nutrição e Estética Regenerativa. Possui experiência na área de pesquisa em Bioquímica de Produtos Naturais, com ênfase em extratos naturais, Stevia rebaudiana, microencapsulação, moléculas bioativas, processos de separação por membrana, alimentos funcionais e digestão in vitro. Seus estudos focam em análises aplicadas a produtos naturais e alternativas para o tratamento e prevenção de doenças metabólicas, como diabetes mellitus e dislipidemia. Link currículo Lattes: https://lattes.cnpq.br/4905686409408124",
+   "lattes": "https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=95DD8FBB04395AEE891E650A7DACCF55#"
+  }
+ ],
  "investimento": {
   "de": 1538.0,
-  "por": 790.0,
+  "por": 79.0,
   "parcelamento": null,
-  "texto": "De: R$ 1538.00 Por: R$ 790,00"
+  "texto": "De: R$ 1538.00 Por: 1+9x R$ 79,00"
  },
- "modalidade": "Cursos Livres EAD",
+ "modalidade": "Aperfeiçoamento Extensão",
  "duracao": "200 horas",
  "meta_extra": {},
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/estetica_e_cosmetologia.webp",
- "sincronizado_em": "2026-10-26T14:42:04+00:00",
+ "sincronizado_em": "2026-10-26T21:31:00+00:00",
  "primeira_vez_visto": "2026-10-16T14:49:58+00:00"
 }

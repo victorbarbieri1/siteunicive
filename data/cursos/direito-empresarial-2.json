@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/direito-empresarial-2/",
  "titulo": "Direito Empresarial",
  "publicado": "2026-06-30T16:00:54",
- "modificado": "2026-07-01T12:23:22",
- "centro": [],
- "categorias": [
-  "Direito"
+ "modificado": "2026-10-26T15:01:53",
+ "centro": [
+  "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
+ "categorias": [],
  "tags": [
   "80 horas"
  ],
@@ -63,6 +63,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/direito_empresarial.webp",
- "sincronizado_em": "2026-10-26T07:23:46+00:00",
+ "sincronizado_em": "2026-10-26T21:31:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:03+00:00"
 }
