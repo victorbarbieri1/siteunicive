@@ -5,16 +5,48 @@
  "blocos": [
   {
    "tipo": "titulo",
-   "texto": "Simulador de Segunda Graduação"
+   "texto": "Sua próxima conquista profissional pode estar mais perto do que você imagina!"
   },
   {
    "tipo": "texto",
-   "texto": "A Segunda Graduação do Unicive é a oportunidade ideal para quem deseja conquistar uma nova formação em nível superior de forma mais rápida. Para quem já possui diploma de graduação, é possível concluir um novo curso em prazo reduzido, de 6 a 24 meses, conforme a área de formação."
+   "texto": "Você já tem um diploma de nível superior. Que tal aproveitar essa conquista para ampliar suas oportunidades e dar um novo passo na sua carreira?"
   },
   {
    "tipo": "texto",
-   "texto": "Para descobrir quais cursos têm compatibilidade com a sua primeira graduação e podem ser concluídos em menos tempo, basta informar sua formação anterior e simular o prazo da sua Segunda Graduação no Unicive."
+   "texto": "Com a Segunda Graduação do Unicive, você encontra uma oportunidade de conquistar uma nova formação com mais agilidade, flexibilidade e opções para diferentes objetivos profissionais."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Por que escolher a Segunda Graduação do Unicive?"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mais rapidez: conclua sua nova graduação em prazos que podem variar de 6 a 24 meses , conforme o curso e a compatibilidade com sua formação anterior."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mais possibilidades: conte com uma variedade de cursos para ampliar seu campo de atuação e explorar novos caminhos profissionais."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Mais flexibilidade: encontre alternativas para investir na sua formação de acordo com seus objetivos e sua rotina."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Não é preciso começar do zero para chegar ainda mais longe! Aproveite sua primeira formação como ponto de partida para conquistar novas oportunidades e investir no seu futuro profissional."
+  },
+  {
+   "tipo": "texto",
+   "texto": "Quer descobrir qual curso combina com sua formação e em quanto tempo você poderá concluí-lo?"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Informe qual foi sua primeira graduação e faça sua simulação com o Unicive!"
+  },
+  {
+   "tipo": "texto",
+   "texto": "Unicive: mais caminhos para sua carreira, mais possibilidades para o seu futuro."
   }
  ],
- "sincronizado_em": "2026-10-27T18:41:37+00:00"
+ "sincronizado_em": "2026-10-27T21:31:27+00:00"
 }

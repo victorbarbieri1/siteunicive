@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/ciberseguranca-e-cloud-computing/",
  "titulo": "Cibersegurança e Cloud Computing",
  "publicado": "2026-10-15T18:33:38",
- "modificado": "2026-10-16T10:49:27",
+ "modificado": "2026-10-27T16:48:16",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -13,9 +13,9 @@
  "seo_descricao": "Curso de Cibersegurança e Cloud Computing no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
   "Informações sobre o curso": [
-   "A pós-graduação em Cibersegurança e Cloud Computing foi desenvolvida para capacitar profissionais com raciocínio técnico e estratégicoavançado, atuando na proteção, governança e arquitetura de infraestruturas virtuaisseguras. Atendendo a uma demanda mercadológica crescente e de alto valor agregado, o curso alia embasamento científico e corporativo à prática focada no manejodasprincipais plataformas de nuvem (AWS, Microsoft Azure e Google Cloud) e na defesacontra ameaças cibernéticas modernas.",
-   "O grande diferencial do programa éoaprofundamento na implementação da arquiteturas de segurança em Dev SecOps, gestão de riscos e resposta a incidentes, capacitando o aluno para o gerenciamentodeidentidade e acesso, criptografia avançada e conformidade regulatória (LGPD/GDPR). O programa foi estruturado para ocorrer ao longo de 9 meses e será ministrado por um corpo docente de renome, unindo professores com grande peso acadêmico efortevivência de mercado.",
-   "Através de vivências práticas e laboratórios aplicados, oprofissional estará preparado para aplicar arquiteturas de segurança assertivas epolíticas de mitigação de riscos, tornando-se referência em um nicho de alto faturamento com constante crescimento de ofertas de emprego e garantindo a resiliência digital das organizações."
+   "A pós-graduação em Cibersegurança e Cloud Computing foi desenvolvida para capacitar profissionais com raciocínio técnico e estratégico avançado, atuando na proteção, governança e arquitetura de infraestruturas virtuais seguras. Atendendo a uma demanda mercadológica crescente e de alto valor agregado, o curso alia embasamento científico e corporativo à prática focada no manejo das principais plataformas de nuvem (AWS, Microsoft Azure e Google Cloud) e na defesa contra ameaças cibernéticas modernas.",
+   "O grande diferencial do programa é o aprofundamento na implementação da arquiteturas de segurança em Dev SecOps, gestão de riscos e resposta a incidentes, capacitando o aluno para o gerenciamento de identidade e acesso, criptografia avançada e conformidade regulatória (LGPD/GDPR). O programa foi estruturado para ocorrer ao longo de 9 meses e será ministrado por um corpo docente de renome, unindo professores com grande peso acadêmico e forte vivência de mercado.",
+   "Através de vivências práticas e laboratórios aplicados, o profissional estará preparado para aplicar arquiteturas de segurança assertivas e políticas de mitigação de riscos, tornando-se referência em um nicho de alto faturamento com constante crescimento de ofertas de emprego e garantindo a resiliência digital das organizações."
   ]
  },
  "matriz_curricular": [
@@ -69,6 +69,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/10/Ciberseguranca-e-Cloud-Computing-scaled.webp",
- "sincronizado_em": "2026-10-27T07:18:33+00:00",
+ "sincronizado_em": "2026-10-27T21:30:28+00:00",
  "primeira_vez_visto": "2026-10-16T14:49:49+00:00"
 }

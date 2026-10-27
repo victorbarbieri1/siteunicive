@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/marketing-de-servicos-e-do-varejo/",
  "titulo": "Marketing de Serviços e do Varejo",
  "publicado": "2026-06-30T15:42:35",
- "modificado": "2026-06-30T15:42:35",
- "centro": [],
- "categorias": [
-  "Marketing"
+ "modificado": "2026-10-27T17:51:57",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
+ "categorias": [],
  "tags": [
   "80 horas"
  ],
@@ -76,6 +76,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/marketing_servico_varejo.jpg",
- "sincronizado_em": "2026-10-27T07:18:47+00:00",
+ "sincronizado_em": "2026-10-27T21:30:30+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:10+00:00"
 }
