@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/ergonomia-e-seguranca-no-trabalho/",
  "titulo": "Ergonomia e Segurança no Trabalho",
  "publicado": "2026-06-30T17:57:48",
- "modificado": "2026-06-30T17:57:48",
- "centro": [],
- "categorias": [
-  "Saúde"
+ "modificado": "2026-10-27T09:49:34",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Ergonomia e Segurança no Trabalho no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -60,6 +60,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/ergonomia_seguranca_trabalho.jpg",
- "sincronizado_em": "2026-10-27T07:18:43+00:00",
+ "sincronizado_em": "2026-10-27T15:43:51+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:48+00:00"
 }

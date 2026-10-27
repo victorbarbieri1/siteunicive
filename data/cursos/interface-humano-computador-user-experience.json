@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/interface-humano-computador-user-experience/",
  "titulo": "Interface Humano-Computador e User Experience",
  "publicado": "2026-06-30T17:59:56",
- "modificado": "2026-06-30T17:59:56",
- "centro": [],
- "categorias": [
-  "Tecnologia"
+ "modificado": "2026-10-27T11:03:13",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Interface Humano-Computador e User Experience no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -60,6 +60,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/interface_humano_computador.avif",
- "sincronizado_em": "2026-10-27T07:18:43+00:00",
+ "sincronizado_em": "2026-10-27T15:43:50+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:45+00:00"
 }

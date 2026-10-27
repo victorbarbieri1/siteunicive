@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/gestao-de-projetos/",
  "titulo": "Gestão de Projetos",
  "publicado": "2026-06-30T18:11:22",
- "modificado": "2026-06-30T18:11:22",
- "centro": [],
- "categorias": [
-  "Gestão"
+ "modificado": "2026-10-27T10:25:53",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Gestão de Projetos no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -58,6 +58,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/gestao-projetos.jpg",
- "sincronizado_em": "2026-10-27T07:18:41+00:00",
+ "sincronizado_em": "2026-10-27T15:43:47+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:31+00:00"
 }

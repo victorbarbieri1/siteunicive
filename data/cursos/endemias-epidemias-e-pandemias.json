@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/endemias-epidemias-e-pandemias/",
  "titulo": "Endemias, Epidemias e Pandemias",
  "publicado": "2026-06-30T18:05:11",
- "modificado": "2026-06-30T18:05:11",
- "centro": [],
- "categorias": [
-  "Saúde"
+ "modificado": "2026-10-27T09:44:03",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Endemias, Epidemias e Pandemias no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -60,6 +60,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/endemias_epidemias_pandemias.jpg",
- "sincronizado_em": "2026-10-27T07:18:42+00:00",
+ "sincronizado_em": "2026-10-27T15:43:49+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:39+00:00"
 }

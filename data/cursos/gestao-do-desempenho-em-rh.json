@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/gestao-do-desempenho-em-rh/",
  "titulo": "Gestão do Desempenho em RH",
  "publicado": "2026-06-30T15:50:45",
- "modificado": "2026-07-03T11:54:26",
- "centro": [],
- "categorias": [
-  "Gestão"
+ "modificado": "2026-10-27T10:29:08",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
+ "categorias": [],
  "tags": [
   "80 horas"
  ],
@@ -70,6 +70,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/gestao_desempenho_rh.jpg",
- "sincronizado_em": "2026-10-27T07:18:46+00:00",
+ "sincronizado_em": "2026-10-27T15:43:52+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:10+00:00"
 }

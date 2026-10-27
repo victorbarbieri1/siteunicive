@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/fotografia-e-imagem/",
  "titulo": "Fotografia e Imagem",
  "publicado": "2026-06-30T18:10:44",
- "modificado": "2026-06-30T18:10:44",
- "centro": [],
- "categorias": [
-  "Comunicação"
+ "modificado": "2026-10-27T10:02:57",
+ "centro": [
+  "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Fotografia e Imagem no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -59,6 +59,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/fotografia_imagem.jpg",
- "sincronizado_em": "2026-10-27T07:18:41+00:00",
+ "sincronizado_em": "2026-10-27T15:43:47+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:32+00:00"
 }

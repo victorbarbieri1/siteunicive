@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/enfermagem-cirurgica/",
  "titulo": "Enfermagem Cirúrgica",
  "publicado": "2026-06-30T15:40:05",
- "modificado": "2026-06-30T15:40:05",
- "centro": [],
- "categorias": [
-  "Saúde"
+ "modificado": "2026-10-27T09:48:37",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
  ],
+ "categorias": [],
  "tags": [
   "80 horas"
  ],
@@ -72,6 +72,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/AssistenciadaEnfermagemnoPosOperatorio.webp",
- "sincronizado_em": "2026-10-27T07:18:47+00:00",
+ "sincronizado_em": "2026-10-27T15:43:52+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:11+00:00"
 }
