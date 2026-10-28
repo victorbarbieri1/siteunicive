@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/praticas-podologicas/",
  "titulo": "Práticas Podológicas",
  "publicado": "2026-06-30T18:06:12",
- "modificado": "2026-06-30T18:06:12",
- "centro": [],
- "categorias": [
-  "Saúde"
+ "modificado": "2026-10-28T17:10:19",
+ "centro": [
+  "Centro de Ciências da Saúde (CCS)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Práticas Podológicas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -60,6 +60,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/praticas_podologicas.jpg",
- "sincronizado_em": "2026-10-28T07:31:42+00:00",
+ "sincronizado_em": "2026-10-28T21:34:39+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:37+00:00"
 }

@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/tecnicas-de-vendas-2/",
  "titulo": "Técnicas de Vendas",
  "publicado": "2026-06-30T18:01:17",
- "modificado": "2026-06-30T18:01:17",
- "centro": [],
- "categorias": [
-  "Comunicação e Vendas"
+ "modificado": "2026-10-28T17:02:49",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Técnicas de Vendas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -58,6 +58,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/tecnicas_vendas.jpg",
- "sincronizado_em": "2026-10-28T07:31:46+00:00",
+ "sincronizado_em": "2026-10-28T21:34:37+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:44+00:00"
 }

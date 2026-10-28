@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/processos-cognitivos-e-aprendizagem/",
  "titulo": "Processos Cognitivos e Aprendizagem",
  "publicado": "2026-06-30T18:00:33",
- "modificado": "2026-06-30T18:00:33",
- "centro": [],
- "categorias": [
-  "Educação"
+ "modificado": "2026-10-28T17:07:45",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Processos Cognitivos e Aprendizagem no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -59,6 +59,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/processos_cognitivos_aprendizagem.jpg",
- "sincronizado_em": "2026-10-28T07:31:46+00:00",
+ "sincronizado_em": "2026-10-28T21:34:39+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:44+00:00"
 }
