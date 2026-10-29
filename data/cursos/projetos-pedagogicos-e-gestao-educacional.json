@@ -4,13 +4,11 @@
  "url": "https://unicive.com/courses/projetos-pedagogicos-e-gestao-educacional/",
  "titulo": "Projetos Pedagógicos e Gestão Educacional",
  "publicado": "2024-06-18T18:02:25",
- "modificado": "2026-07-03T11:50:41",
- "centro": [],
- "categorias": [
-  "Educação",
-  "Gestão",
-  "Pedagogia"
+ "modificado": "2026-10-29T14:22:35",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Projetos Pedagógicos e Gestão Educacional no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -74,6 +72,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2024/06/crop-people-with-textbooks-table-1-scaled.jpg",
- "sincronizado_em": "2026-10-29T07:34:29+00:00",
+ "sincronizado_em": "2026-10-29T18:44:12+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:03+00:00"
 }

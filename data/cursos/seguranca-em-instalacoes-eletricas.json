@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/seguranca-em-instalacoes-eletricas/",
  "titulo": "Segurança em Instalações Elétricas",
  "publicado": "2026-06-30T18:03:25",
- "modificado": "2026-06-30T18:03:25",
- "centro": [],
- "categorias": [
-  "Segurança Do Trabalho"
+ "modificado": "2026-10-29T14:38:15",
+ "centro": [
+  "Centro de Engenharia e Sustentabilidade (CES)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Segurança em Instalações Elétricas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -59,6 +59,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/08/SegurancaEmInstalacoeseEletricidade.webp",
- "sincronizado_em": "2026-10-29T07:33:16+00:00",
+ "sincronizado_em": "2026-10-29T18:44:12+00:00",
  "primeira_vez_visto": "2026-10-16T14:50:41+00:00"
 }
