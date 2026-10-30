@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/analise_e_desenvolvimento_de_sistemas_ead/",
  "titulo": "Análise e Desenvolvimento de Sistemas",
  "publicado": "2023-06-28T17:54:08",
- "modificado": "2026-08-03T14:04:45",
+ "modificado": "2026-10-30T15:40:34",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -12,14 +12,8 @@
  "tags": [
   "2 anos"
  ],
- "seo_descricao": "Curso de Análise e Desenvolvimento de Sistemas no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
- "descricao": {
-  "Informações sobre o curso": [
-   "Esta área da Tecnologia da Informação abrange o ciclo de vida de um sistema de software, desde a análise de requisitos até a sua manutenção. Neste curso você aprenderá a investigar, planejar, desenvolver e implementar sistemas computacionais de informação.",
-   "O curso é composto por disciplinas que desenvolvem o raciocínio lógico, aprimora o domínio de linguagens de programação e de metodologias de construção de projetos, entre outras, adquirindo conhecimentos com tecnologia de ponta. Inclusive, sempre atualizando conforme as novas ferramentas, por exemplo, o uso da Inteligência Artificial (IA).",
-   "Transforme código em soluções reais e conquiste seu espaço na profissão que mais cresce no mundo!"
-  ]
- },
+ "seo_descricao": "Análise e Desenvolvimento de Sistemas EAD no UNICIVE: planeje, desenvolva e implemente softwares com métodos ágeis. Veja grade e mensalidade.",
+ "descricao": {},
  "matriz_curricular": [
   "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
   "ALGORITMOS E LÓGICA DE PROGRAMAÇÃO",
@@ -52,10 +46,6 @@
  ],
  "carga_horaria_total": null,
  "outras_secoes": {
-  "Mercado de trabalho": [
-   "Atualmente, a área da Tecnologia da Informação (TI) é uma das mais aquecidas, apresentando diversas oportunidades para os profissionais qualificados. A formação em ADS prepara os profissionais para atuarem em diversas áreas, como desenvolvimento de sistemas, análise de dados e otimização de processos.",
-   "Existem oportunidades desde startups até grandes corporações em que o profissional poderá empregar linguagens de programação e metodologias de construção de projetos; Modelar, especificar, implementar, implantar e validar sistemas de informações; Apropriar-se e utilizar novas ferramentas e metodologias computacionais; Comunicar-se eficientemente nas formas escrita e gráfica; Planejar e gerenciar os sistemas de informações de forma a alinhá-los aos objetivos Estratégicos de negócio das organizações; Aplicar a ética e responsabilidade profissional; Auxiliar os profissionais das outras áreas a compreenderem como os sistemas de informações podem contribuir para as áreas de negócio; Avaliar o impacto das atividades da tecnologia no contexto social e ambiental; Coordenar e atuar em equipes multidisciplinares. Além de poder empreender negócios, projetos e assessoria em sistemas digitais."
-  ],
   "Metodologia EAD": [
    "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
    "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
@@ -89,6 +79,6 @@
   "Ter concluído o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/ads_grad_ead.webp",
- "sincronizado_em": "2026-10-30T07:34:47+00:00",
+ "sincronizado_em": "2026-10-30T18:42:04+00:00",
  "primeira_vez_visto": "2026-10-16T14:55:43+00:00"
 }
