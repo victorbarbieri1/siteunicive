@@ -1,0 +1,84 @@
+{
+ "id": 231711,
+ "slug": "hotelaria",
+ "url": "https://unicive.com/courses/hotelaria/",
+ "titulo": "Hotelaria",
+ "publicado": "2026-11-04T16:31:12",
+ "modificado": "2026-11-04T16:31:12",
+ "centro": [
+  "Centro de Ciências Sociais Aplicadas (CCSA)"
+ ],
+ "categorias": [],
+ "tags": [
+  "1.5 anos"
+ ],
+ "seo_descricao": "Curso de Hotelaria no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
+ "descricao": {
+  "Informações sobre o curso": [
+   "O setor de hotelaria e hospitalidade passa por constantes transformações impulsionadas pela evolução das tecnologias, mudanças no comportamento dos hóspedes, expansão do turismo nacional e internacional e crescente profissionalização da gestão dos empreendimentos de hospedagem. Nesse cenário, as organizações demandam profissionais capazes de integrar competências gerenciais, operacionais e estratégicas, garantindo excelência na prestação de serviços, sustentabilidade dos negócios e experiências memoráveis aos cliente.",
+   "Formar tecnólogos aptos a planejar, organizar, coordenar e gerenciar empreendimentos de hospedagem e negócios da hospitalidade, desenvolvendo competências para atuar nos diversos segmentos do setor, com visão estratégica, foco na excelência operacional, sustentabilidade, inovação, experiência do cliente e utilização de tecnologias voltadas à gestão hoteleira."
+  ]
+ },
+ "matriz_curricular": [
+  "COMUNICAÇÃO EMPRESARIAL",
+  "COMPORTAMENTO DO CONSUMIDOR",
+  "GESTÃO DE SERVIÇOS",
+  "GESTÃO FINANCEIRA E ORÇAMENTÁRIA",
+  "ATIVIDADES EXTENSIONISTAS I E II",
+  "RELAÇÕES INTERPESSOAIS E DINÂMICA DE GRUPO",
+  "HOSPEDAGEM E HOSPITALIDADE",
+  "GESTÃO DE ALIMENTOS E BEBIDAS",
+  "HOTELARIA SUSTENTÁVEL, ESG E CERTIFICAÇÕES",
+  "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+  "OPERAÇÕES HOTELEIRA E FRONT OFFICE",
+  "GOVERNANÇA, HOUSEKEEPING E FACILITIES",
+  "TECNOLOGIA E SISTEMAS PARA HOTELARIA (PMS, CRS, OTA E BI)",
+  "ESTUDOS INTERDISCIPLINARES EM GESTÃO DE SERVIÇO",
+  "LEGISLAÇÃO APLICADA À HOTELARIA E TURISMO",
+  "EMPREENDEDORISMO, INOVAÇÃO E TECNOLOGIA",
+  "DISTRIBUIÇÃO E TOTAL REVENUE MANAGEMENT",
+  "DISCIPLINAS OPTATIVAS:",
+  "TURISMO E SUSTENTABILIDADE",
+  "LÍNGUA BRASILEIRA DE SINAIS – LIBRAS",
+  "BRANDING: CONSTRUÇÃO E ENGAJAMENTO DA MARCA",
+  "DISCIPLINA INTERNACIONAL"
+ ],
+ "carga_horaria_total": null,
+ "outras_secoes": {
+  "Metodologia": [
+   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
+   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
+   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+  ],
+  "Mercado de trabalho": [
+   "O mercado de trabalho para o Tecnólogo em Hotelaria com foco tecnológico é altamente promissor, impulsionado por um faturamento recorde de R$ 228,1 bilhões no setor turístico e por uma profunda transformação digital nos meios de hospedagem. A transição do empirismo para uma gestão baseada em dados e inteligência de mercado abriu um leque amplo de atuação que vai muito além dos hotéis tradicionais.",
+   "Principais segmentos, cargos e diferenciais competitivos mapeados para o egresso deste curso:",
+   "– Hotelaria Tradicional e de Lazer: Grandes redes internacionais, resorts, hotéis-fazenda e hotéis-boutique.",
+   "– Novos Modelos de Hospedagem: Empresas de multipropriedade e administradoras profissionais de locação por temporada (Short Term Rentals / plataformas como Airbnb e Booking estruturadas).",
+   "– Turismo Corporativo e de Negócios: Setor em franca expansão que movimentou mais de R$ 9,75 bilhões recentemente, demandando gestores de viagens e eventos corporativos.",
+   "– Alimentos e Bebidas (A&B): Gerenciamento de restaurantes hoteleiros, bares, serviços de quarto (room service) e grandes banquetes.",
+   "– Consultoria e Empreendedorismo: Desenvolvimento de novos modelos de negócios, auditoria de processos hoteleiros e implementação de tecnologias do setor."
+  ]
+ },
+ "coordenacao": [
+  {
+   "nome": "Antônio Sanches",
+   "curriculo": "Mestre em desenvolvimento de tecnologia pelo Institutos Lactec/UFPR (2016), especialista em MBA executivo pela UEM (2004), e em tecnologias aplicadas ao ensino a distância pelo UniCV (2021), graduado em ciências contábeis pela UEM (2001), cursando a segunda graduação em Administração pelo UniCV. Experiência profissional de mais de 30 anos como executivo de compras e operações em empresas do ramo do vestuário, atuando há mais de 18 anos como professor de graduação e pós graduação.",
+   "lattes": null
+  }
+ ],
+ "investimento": {
+  "de": 693.08,
+  "por": 181.99,
+  "parcelamento": null,
+  "texto": "De: R$ 693.08 a mensalidade Até: 1+18x R$ 181,99"
+ },
+ "modalidade": "Graduação Tecnólogo",
+ "duracao": "1.5 anos",
+ "meta_extra": {},
+ "documentos_necessarios": [],
+ "requisitos": [],
+ "imagem": "https://unicive.com/wp-content/uploads/2026/11/hotelaria.webp",
+ "sincronizado_em": "2026-11-04T21:45:50+00:00",
+ "primeira_vez_visto": "2026-11-04T21:45:50+00:00"
+}
