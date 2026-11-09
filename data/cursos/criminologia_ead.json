@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/criminologia_ead/",
  "titulo": "Criminologia",
  "publicado": "2025-11-06T18:22:41",
- "modificado": "2026-08-03T15:40:06",
+ "modificado": "2026-11-09T16:55:28",
  "centro": [
   "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
@@ -70,6 +70,13 @@
    "• Habilitar o profissional para a compreensão e o enfrentamento de novas formas de criminalidade, como os cibercrimes, e para a utilização de tecnologias na investigação.",
    "• Estimular o desenvolvimento de competências para a mediação de conflitos e a aplicação de práticas de justiça restaurativa.",
    "• Conscientizar o futuro profissional sobre a importância da atuação ética e do respeito aos direitos humanos no campo da segurança e da justiça."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -91,6 +98,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/10/pessoas-em-roupas-de-protecao-conversando-scaled.jpg",
- "sincronizado_em": "2026-11-09T07:54:40+00:00",
+ "sincronizado_em": "2026-11-09T21:45:58+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:23+00:00"
 }
