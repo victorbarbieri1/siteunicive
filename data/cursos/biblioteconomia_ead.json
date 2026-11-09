@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/biblioteconomia_ead/",
  "titulo": "Biblioteconomia",
  "publicado": "2023-06-28T17:54:40",
- "modificado": "2026-09-09T08:48:49",
+ "modificado": "2026-11-09T14:28:11",
  "centro": [
   "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
@@ -15,6 +15,7 @@
  "seo_descricao": "Curso de Biblioteconomia no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
   "Informações sobre o curso": [
+   "Sobre o curso",
    "O profissional de Biblioteconomia é responsável por organizar, catalogar e gerir documentos e dados , sejam físicos ou digitais, garantindo acesso rápido, seguro e eficiente à informação.",
    "No curso de Biblioteconomia do Unicive , você aprende a planejar e administrar bibliotecas, centros de documentação, acervos e bases de dados digitais, além de dominar técnicas de catalogação, normalização, avaliação de conteúdo e uso de softwares de gestão da informação.A formação também prepara para atuar em consultoria, assessoria, ensino, pesquisa e desenvolvimento de projetos culturais, com forte base em tecnologia, organização e comunicação.",
    "Uma carreira que exige visão estratégica, ética e inovação, com oportunidades em empresas, órgãos públicos, bibliotecas, museus e ambientes digitais.",
@@ -68,6 +69,13 @@
   "Mercado de trabalho": [
    "O profissional de Biblioteconomia é especialista em organizar, proteger e facilitar o acesso a documentos e dados, transformando informação em conhecimento. Como gestor da informação, está preparado para atender às demandas de empresas, instituições e da própria sociedade, garantindo eficiência, segurança e inovação em todos os processos.",
    "Uma carreira estratégica, que conecta organização, tecnologia e conhecimento para gerar valor e resultados."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -97,6 +105,6 @@
   "Ter o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/biblioteconomia_grad_ead.webp",
- "sincronizado_em": "2026-11-09T07:56:16+00:00",
+ "sincronizado_em": "2026-11-09T18:50:40+00:00",
  "primeira_vez_visto": "2026-10-16T14:55:43+00:00"
 }

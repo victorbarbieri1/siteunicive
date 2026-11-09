@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/engenharia-de-prompt/",
  "titulo": "Engenharia de Prompt",
  "publicado": "2026-06-11T15:40:12",
- "modificado": "2026-09-03T08:37:33",
+ "modificado": "2026-11-09T13:37:48",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -53,9 +53,11 @@
    "Nesse contexto, o Engenheiro de Prompt assume um papel estratégico ao atuar na concepcao, desenvolvimento, avaliacão e melhoria contínua de instruções, contextos e fluxos conversacionais que potencializam o desempenho dos modelos de Inteligencia Artificial. Sua atuacão contribui diretamente para a qualidade, precisão, segurança e eficiência das soluções baseadas em IA, tornando-se essencial para organizações que buscam obter resultados consistentes e confiáveis com o uso dessas tecnologias."
   ],
   "Metodologia EAD": [
-   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo e dar flexibilidade à sua rotina.",
-   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
-   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeicoar os conteudos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -77,6 +79,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/06/engenharia-prompt.webp",
- "sincronizado_em": "2026-11-09T07:54:06+00:00",
+ "sincronizado_em": "2026-11-09T18:50:34+00:00",
  "primeira_vez_visto": "2026-10-16T14:51:21+00:00"
 }

@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/bacharelado-em-fisica-ead/",
  "titulo": "Física",
  "publicado": "2025-11-06T18:22:27",
- "modificado": "2026-09-09T09:41:49",
+ "modificado": "2026-11-09T13:04:59",
  "centro": [
   "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
@@ -73,6 +73,13 @@
    "● Habilitar o Uso de Tecnologias: Familiarizar o estudante com recursos da informática, incluindo noções de linguagem computacional, e capacitá-lo a conhecer e absorver novas técnicas, métodos e o uso de instrumentos para medições e análise de dados.",
    "● Promover a Interdisciplinaridade e a Comunicação Científica: Desenvolver a capacidade de reconhecer as relações da Física com outras áreas do saber, tecnologias e instâncias sociais, e de utilizar a linguagem científica para expressar conceitos, descrever procedimentos e divulgar resultados de forma eficaz.",
    "● Formar para Diferentes Perfis Profissionais: Oferecer uma formação flexível que contemple as necessidades de físicos pesquisadores, educadores, tecnólogos e aqueles que atuam em campos interdisciplinares, permitindo ao egresso direcionar sua carreira."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -94,6 +101,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/10/aluna-atenta-experimentando-modelo-de-molecula-em-laboratorio-scaled.jpg",
- "sincronizado_em": "2026-11-09T07:54:44+00:00",
+ "sincronizado_em": "2026-11-09T18:50:37+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:25+00:00"
 }

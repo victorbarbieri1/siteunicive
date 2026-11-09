@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/ciencias_contabeis_ead/",
  "titulo": "Ciências Contábeis",
  "publicado": "2023-06-28T17:37:11",
- "modificado": "2026-09-09T09:15:44",
+ "modificado": "2026-11-09T14:59:43",
  "centro": [
   "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
@@ -15,6 +15,7 @@
  "seo_descricao": "Curso de Ciências Contábeis no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
   "Informações sobre o curso": [
+   "Sobre o curso",
    "O contador é hoje um dos profissionais mais estratégicos nas empresas, atuando em um cenário em constante mudança. As exigências vão muito além de cálculos: é preciso emitir relatórios precisos, orientar gestores, interpretar dados, registrar e armazenar informações com agilidade e segurança.",
    "O Bacharelado em Ciências Contábeis do Unicive prepara você para esse desafio. Com foco em ética, tecnologia e gestão, o curso desenvolve competências essenciais para enfrentar fraudes, lidar com legislações complexas e utilizar softwares especializados. Mais do que acompanhar o mercado, o curso forma profissionais capazes de liderar a evolução da contabilidade, unindo conhecimento técnico, visão estratégica e domínio das ferramentas digitais. Evolua com a profissão que não para de crescer com o Unicive!",
    "Mais do que acompanhar o mercado, o curso forma profissionais capazes de liderar a evolução da contabilidade, unindo conhecimento técnico, visão estratégica e domínio das ferramentas digitais. Evolua com a profissão que não para de crescer com o Unicive!",
@@ -71,6 +72,13 @@
   "Mercado de trabalho": [
    "Mais do que organizar balanços, a contabilidade é responsável por controlar patrimônios, bens, direitos e obrigações, garantindo segurança e crescimento. Com uma formação completa, o profissional pode atuar em diversas áreas — Contabilidade Comercial, de Custos, Pública, Social e Ambiental, além de gestão, capital de giro e perícia.",
    "Uma carreira versátil, moderna e indispensável, que combina tecnologia, estratégia e resultados concretos!"
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -100,6 +108,6 @@
   "Ter o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/cienciascontabil_grad_ead.webp",
- "sincronizado_em": "2026-11-09T07:56:31+00:00",
+ "sincronizado_em": "2026-11-09T18:50:40+00:00",
  "primeira_vez_visto": "2026-10-16T14:56:22+00:00"
 }

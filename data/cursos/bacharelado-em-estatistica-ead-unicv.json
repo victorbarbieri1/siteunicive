@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/bacharelado-em-estatistica-ead-unicv/",
  "titulo": "Estatística",
  "publicado": "2025-11-06T18:22:32",
- "modificado": "2026-09-09T09:41:04",
+ "modificado": "2026-11-09T13:08:58",
  "centro": [
   "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
@@ -77,6 +77,13 @@
    "• Indústria e Controle de Qualidade: implementação de processos de melhoria contínua e controle estatístico em ambientes produtivos.",
    "• Setor Público e Instituições Governamentais: elaboração de estatísticas oficiais e políticas públicas baseadas em evidências.",
    "• Academia e Pesquisa: continuidade dos estudos em pós-graduação, com foco em docência e produção científica."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -98,6 +105,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/10/empresario-usando-computador-com-analise-de-crescimento-grafico-na-tela-virtual-scaled.jpg",
- "sincronizado_em": "2026-11-09T07:54:43+00:00",
+ "sincronizado_em": "2026-11-09T18:50:35+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:25+00:00"
 }

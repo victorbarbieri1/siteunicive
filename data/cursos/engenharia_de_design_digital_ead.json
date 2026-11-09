@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/engenharia_de_design_digital_ead/",
  "titulo": "Engenharia de Design Digital",
  "publicado": "2023-06-28T17:52:59",
- "modificado": "2026-09-09T09:25:14",
+ "modificado": "2026-11-09T13:42:38",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -69,9 +69,11 @@
    "As possibilidades de atuação são amplas: desenvolvimento de interfaces e produtos digitais, criação de campanhas, design de jogos, animações, branding, experiência do usuário (UX/UI), produção audiovisual, consultoria em inovação, ensino digital e projetos de arte e cultura. É uma carreira que permite transformar criatividade em soluções digitais que impactam pessoas e negócios."
   ],
   "Metodologia EAD": [
-   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
-   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
-   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -101,6 +103,6 @@
   "Ter o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/eng_designer_digital_grad_ead.webp",
- "sincronizado_em": "2026-11-09T07:56:17+00:00",
+ "sincronizado_em": "2026-11-09T18:50:40+00:00",
  "primeira_vez_visto": "2026-10-16T14:55:45+00:00"
 }

@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/engenharia_de_software_ead/",
  "titulo": "Engenharia de Software",
  "publicado": "2023-06-28T17:49:28",
- "modificado": "2026-09-09T09:27:30",
+ "modificado": "2026-11-09T13:22:34",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -69,9 +69,11 @@
    "Profissionais da área de engenharia, exatas e de áreas afins, que estejam interessados em aprimorar seus conhecimentos e incrementar seus currículos na área de ENGENHARIA, visando o aprimoramento de conhecimento relativos à engenharia, indústria e logística."
   ],
   "Metodologia EAD": [
-   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
-   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
-   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ],
   "Mercado de trabalho": [
    "O engenheiro de software é o profissional que domina todo o ciclo de desenvolvimento de sistemas, unindo criatividade, lógica e tecnologia para transformar ideias em soluções inovadoras. No mercado, é ele quem planeja, desenvolve e integra softwares completos, garantindo qualidade, segurança e alto desempenho em cada etapa do processo.",
@@ -106,6 +108,6 @@
   "Possuir o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/engenharia_de_software_grad_ead.jpg",
- "sincronizado_em": "2026-11-09T07:56:21+00:00",
+ "sincronizado_em": "2026-11-09T18:50:40+00:00",
  "primeira_vez_visto": "2026-10-16T14:55:54+00:00"
 }
