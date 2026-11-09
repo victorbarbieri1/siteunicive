@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/arquivologia/",
  "titulo": "Arquivologia",
  "publicado": "2023-11-24T13:32:57",
- "modificado": "2026-09-09T08:47:29",
+ "modificado": "2026-11-09T12:16:06",
  "centro": [
   "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
@@ -15,6 +15,7 @@
  "seo_descricao": "Curso de Arquivologia no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
   "Informações sobre o curso": [
+   "Sobre o curso",
    "A Arquivologia é essencial para a organização e preservação de documentos físicos e digitais, garantindo acesso seguro, autêntico e eficiente. O profissional da área atua em empresas, órgãos públicos, museus, bibliotecas e centros de pesquisa, classificando, indexando e gerindo informações estratégicas.",
    "O curso de Arquivologia do Unicive combina teoria, prática e tecnologia, preparando você para lidar com grandes acervos documentais, aplicar a legislação arquivística e utilizar ferramentas modernas de gestão da informação.",
    "Uma carreira estratégica, que une preservação da memória, inovação e segurança da informação!"
@@ -24,9 +25,7 @@
   "AAC – ATIVIDADES ACADÊMICAS COMPLEMENTARES",
   "ARQUIVOS CORRENTES E INTERMEDIÁRIOS",
   "ARQUIVOS PERMANENTES",
-  "ATIVIDADES EXTENSIONISTAS I",
-  "ATIVIDADES EXTENSIONISTAS II",
-  "ATIVIDADES EXTENSIONISTAS III",
+  "ATIVIDADES EXTENSIONISTAS I,II E III",
   "CLASSIFICAÇÃO ARQUIVÍSTICA",
   "CONSERVAÇÃO E PRESERVAÇÃO DE DOCUMENTOS",
   "DESCRIÇÃO ARQUIVÍSTICA",
@@ -100,6 +99,6 @@
   "Ter o Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_documentos-de-organizacao-de-jovens-adultos_23-2149396670_large.jpg",
- "sincronizado_em": "2026-11-09T07:55:16+00:00",
+ "sincronizado_em": "2026-11-09T15:56:36+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:21+00:00"
 }
