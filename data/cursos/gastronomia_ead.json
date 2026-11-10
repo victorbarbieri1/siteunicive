@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/gastronomia_ead/",
  "titulo": "Gastronomia",
  "publicado": "2025-11-06T18:22:39",
- "modificado": "2026-09-03T16:22:26",
+ "modificado": "2026-11-10T09:22:41",
  "centro": [
   "Centro de Ciências da Saúde (CCS)"
  ],
@@ -62,6 +62,13 @@
   ],
   "Objetivos do curso": [
    "O objetivo do curso de gastronomia é capacitar indivíduos de forma abrangente, prontos para trabalhar de forma exemplar e ética em um ambiente de negócios dinâmico e competitivo, colaborando com o crescimento sustentável da culinária e com o bem-estar da comunidade em geral."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -83,6 +90,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/10/chef-executa-como-fazer-buger-adequado-comida-deliciosa-scaled.jpg",
- "sincronizado_em": "2026-11-10T07:42:53+00:00",
+ "sincronizado_em": "2026-11-10T12:55:58+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:24+00:00"
 }
