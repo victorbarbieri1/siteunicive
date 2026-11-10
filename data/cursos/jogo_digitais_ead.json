@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/jogo_digitais_ead/",
  "titulo": "Jogos Digitais",
  "publicado": "2023-06-28T17:45:21",
- "modificado": "2026-08-21T14:41:01",
+ "modificado": "2026-11-10T11:26:19",
  "centro": [
   "Centro de Tecnologia da Informação e Comunicação (CTIC)"
  ],
@@ -57,6 +57,13 @@
   "Mercado de trabalho": [
    "E o que faz um profissional graduado em Jogos Digitais? Esse profissional pode trabalhar desde a criação, modelagem, ambientação e criação de personagens a projetos que envolvem funções mais específicas, não só no mundo de games efetivos, como em outros ambientes organizacionais que requerem alternativas de bem-estar.",
    "O tecnólogo em Jogos Digitais também encontrará, entre os diversos campos de atuação e aplicação da informática, ferramentas de desenvolvimento que têm se tornado acessíveis a um público mais amplo, não ficando limitadas apenas às grandes empresas que atuam no setor, situação que permitiu o surgimento de pequenos estúdios e a possibilidade de elaboração de produtos sem que o profissional esteja necessariamente vinculado a alguma pessoa jurídica."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [],
@@ -80,6 +87,6 @@
   "Ensino Médio Completo"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/jogosdigitais_grad_ead.webp",
- "sincronizado_em": "2026-11-10T07:44:46+00:00",
+ "sincronizado_em": "2026-11-10T15:44:39+00:00",
  "primeira_vez_visto": "2026-10-16T14:56:04+00:00"
 }

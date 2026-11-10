@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/gestao_de_registro_e_informacoes_em_saude_ead/",
  "titulo": "Gestão de Registro e Informações em Saúde",
  "publicado": "2023-11-24T15:29:12",
- "modificado": "2026-09-08T11:04:37",
+ "modificado": "2026-11-10T12:40:09",
  "centro": [
   "Centro de Ciências da Saúde (CCS)"
  ],
@@ -60,6 +60,13 @@
   "Especificidades": [
    "O Curso Superior de Tecnologia em Gestão de Registros e Informações em Saúde possui uma caraterística que está direcionada na organização dos dados, no planejamento do processo de trabalho e nos registros e saúde, com disciplinas voltadas às políticas de saúde, à administração, aos sistemas gerenciais e à legislação.",
    "A participação no planejamento, no controle e no gerenciamento dos dados também é realizada pelo gestor, podendo este apenas assessorar ou participar dos dados estatísticos."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -81,6 +88,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/11/fpdl.in_doutor-que-usa-um-aplicativo-virtual_1134-652_large.jpg",
- "sincronizado_em": "2026-11-10T07:43:30+00:00",
+ "sincronizado_em": "2026-11-10T15:44:35+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:20+00:00"
 }

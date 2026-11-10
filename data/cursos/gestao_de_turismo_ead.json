@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/gestao_de_turismo_ead/",
  "titulo": "Gestão de Turismo",
  "publicado": "2025-11-06T18:22:38",
- "modificado": "2026-08-06T15:36:38",
+ "modificado": "2026-11-10T12:26:12",
  "centro": [
   "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
@@ -63,6 +63,13 @@
    "● Promover o desenvolvimento da capacidade de integração com o meio ambiente e com a cultura local, atuando de forma sustentável e respeitando a diversidade cultural;",
    "● Estimular o aprendizado continuado no setor de turismo, por meio da pesquisa, inovação e uso de tecnologias aplicadas;",
    "● Atender à crescente demanda do mercado turístico, que necessita de profissionais qualificados, capazes de planejar, operar e gerir serviços e destinos turísticos de maneira eficiente."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [],
@@ -78,6 +85,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2025/10/vista-superior-da-colecao-de-elementos-de-viagem-scaled.jpg",
- "sincronizado_em": "2026-11-10T07:42:53+00:00",
+ "sincronizado_em": "2026-11-10T15:44:29+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:24+00:00"
 }

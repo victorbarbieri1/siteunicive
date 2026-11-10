@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/gestao-de-eventos-2/",
  "titulo": "Gestão de Eventos",
  "publicado": "2026-11-04T16:31:07",
- "modificado": "2026-11-04T16:31:07",
+ "modificado": "2026-11-10T10:42:42",
  "centro": [
   "Centro de Ciências Sociais Aplicadas (CCSA)"
  ],
@@ -45,11 +45,6 @@
  ],
  "carga_horaria_total": null,
  "outras_secoes": {
-  "Metodologia": [
-   "No ensino a distância a construção do conhecimento é baseada na autonomia do aluno e o objetivo é dar flexibilidade à sua rotina.",
-   "Os professores compartilham o conteúdo e adaptam as melhores práticas e ferramentas para que possam transmitir os conhecimentos essenciais para uma prática profissional atualizada e de destaque no mercado.",
-   "Ao longo da trajetória de estudos o aluno terá acesso a materiais de apoio, vídeos, indicações de livros e textos para complementar as informações e aperfeiçoar os conteúdos apresentados, além de técnicas específicas desenvolvidas para cada disciplina e curso."
-  ],
   "Mercado de trabalho": [
    "O mercado de trabalho para o Tecnólogo em Gestão de Eventos está em plena expansão nacional e abrange um amplo ecossistema econômico (hub setorial) que engloba 52 atividades econômicas diretas e indiretas. O egresso estará apto a atuar em posições de liderança técnica e operacional em:",
    "Agências e Empresas Organizadoras: Produtoras de feiras de negócios, congressos, exposições comerciais, festivais culturais e grandes competições esportivas.",
@@ -57,6 +52,13 @@
    "Corporações e Órgãos Públicos: Departamentos internos de comunicação, marketing e relações públicas voltados para eventos corporativos, lançamentos de produtos, endomarketing e solenidades oficiais.",
    "A&B (Alimentos e Bebidas): Gestão operacional de serviços de buffet, banquetes e catering para eventos.",
    "Empreendedorismo e Consultoria: Atuação autônoma como prestador de serviços de produção executiva, consultor estratégico em logística e especialista autônomo em captação de recursos."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -78,6 +80,6 @@
  "documentos_necessarios": [],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2026/11/gestao_eventos.webp",
- "sincronizado_em": "2026-11-10T07:41:26+00:00",
+ "sincronizado_em": "2026-11-10T15:44:29+00:00",
  "primeira_vez_visto": "2026-11-04T21:45:49+00:00"
 }
