@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/tecnologias_aplicadas_ao_ensino_a_distancia/",
  "titulo": "Tecnologias Aplicadas ao Ensino à Distância",
  "publicado": "2025-12-17T17:21:08",
- "modificado": "2026-08-31T17:13:19",
+ "modificado": "2026-11-10T14:27:56",
  "centro": [
   "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
@@ -34,8 +34,12 @@
   "Público-alvo": [
    "Professores, profissionais da educação e demais interessados na área"
   ],
-  "Metodologia": [
-   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e mentoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -65,6 +69,6 @@
   "Graduado em qualquer área do conhecimento"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2025/12/mulher-com-tiro-medio-anotando-informacoes-scaled.jpg",
- "sincronizado_em": "2026-11-10T07:42:51+00:00",
+ "sincronizado_em": "2026-11-10T18:45:21+00:00",
  "primeira_vez_visto": "2026-10-16T14:52:19+00:00"
 }
