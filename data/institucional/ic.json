@@ -205,35 +205,15 @@
   },
   {
    "tipo": "texto",
-   "texto": "Resultado Edital com e sem Bolsa – 2025.2025"
+   "texto": "Resultado Edital 2025/2026"
   },
   {
    "tipo": "texto",
-   "texto": "Resultado Edital com e sem Bolsa – EAD 2024.2025"
+   "texto": "Resultado Edital 2026/2027"
   },
   {
    "tipo": "texto",
-   "texto": "Resultado Edital com Bolsa – EAD 2024.2024"
-  },
-  {
-   "tipo": "texto",
-   "texto": "Resultado Edital sem Bolsa – 2024.2024"
-  },
-  {
-   "tipo": "texto",
-   "texto": "Resultado Edital com Bolsa – Presencial 2023.2024"
-  },
-  {
-   "tipo": "texto",
-   "texto": "Resultado Edital sem Bolsa – 2023.2024 Anais ENIIC 2023"
-  },
-  {
-   "tipo": "texto",
-   "texto": "Resultado PIIC sem bolsa – Presencial 2025.2026"
-  },
-  {
-   "tipo": "texto",
-   "texto": "Resultado PIIC sem Bolsa – EAD 2025.2026"
+   "texto": "Resultado Edital 2027/2027"
   },
   {
    "tipo": "texto",
@@ -400,5 +380,5 @@
    "texto": "Clique no botão abaixo para ver a lista de aprovados no PIIC"
   }
  ],
- "sincronizado_em": "2026-11-11T12:59:40+00:00"
+ "sincronizado_em": "2026-11-11T15:49:33+00:00"
 }
