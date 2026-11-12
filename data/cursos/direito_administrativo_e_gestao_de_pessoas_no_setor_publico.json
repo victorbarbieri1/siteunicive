@@ -4,14 +4,19 @@
  "url": "https://unicive.com/courses/direito_administrativo_e_gestao_de_pessoas_no_setor_publico/",
  "titulo": "Direito Administrativo e Gestão de Pessoas no Setor Público",
  "publicado": "2023-06-29T09:51:36",
- "modificado": "2026-08-25T11:36:16",
+ "modificado": "2026-11-12T09:43:51",
  "centro": [
   "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
  "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Direito Administrativo e Gestão de Pessoas no Setor Público no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
- "descricao": {},
+ "descricao": {
+  "Informações sobre o curso": [
+   "Unicive inova e lança o curso de Pós-Graduação lato sensu na área de Direito Administrativo e Gestão de pessoas no setor público, em um modelo voltado a quem busca investir no crescimento profissional de quem atua diretamente ou não na área, ou ainda para quem busca aprovação em concurso público na carreira jurídica.",
+   "O curso oferece matérias como: direito administrativo, evolução e importância do direito público, gestão de pessoas no setor público, crimes contra administração pública, direitos humanos e educação inclusiva."
+  ]
+ },
  "matriz_curricular": [
   "Direito Administrativo – 40H",
   "Gestão de Pessoas no Setor Público – 40H",
@@ -28,6 +33,13 @@
  "outras_secoes": {
   "Público-alvo": [
    "Este curso de pós-graduação é imprescindível para qualquer profissional ou estudante que está investindo na preparação para as carreiras da advocacia pública federal, estadual e municipal."
+  ],
+  "Metodologia EAD": [
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -57,6 +69,6 @@
   "Graduado em qualquer área do conhecimento"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/direito_administrativo_e_gestao_de_pessoas_no_setor_publico.webp",
- "sincronizado_em": "2026-11-12T07:49:09+00:00",
+ "sincronizado_em": "2026-11-12T13:00:53+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:56+00:00"
 }

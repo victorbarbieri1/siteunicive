@@ -4,7 +4,7 @@
  "url": "https://unicive.com/courses/direito_administrativo/",
  "titulo": "Direito Administrativo",
  "publicado": "2023-06-29T08:12:26",
- "modificado": "2026-08-25T11:17:23",
+ "modificado": "2026-11-12T09:23:14",
  "centro": [
   "Centro de Gestão Jurídica e Segurança (CGJS)"
  ],
@@ -38,7 +38,11 @@
    "Acadêmicos e profissionais com diploma em nível superior, graduados, advogados privados e públicos, reguladores, julgadores, gestores e formuladores de políticas públicas, procuradores e advogados públicos municipais, estaduais ou federal, assim como a membros de órgãos encarregados da fiscalização tributária, investigação e da persecução penal, que exerçam ou desejam exercer funções de gestão ou consultoria em processos e sistemas estratégicos."
   ],
   "Metodologia EAD": [
-   "O curso de pós-graduação do Unicive é 100% online, conta com materiais digitais e tutoria especializada. A avaliação é composta por questões objetivas com base nos conteúdos discutidos ao longo do curso."
+   "Estude no seu ritmo, sem estudar sozinho.",
+   "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
+   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
+   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
+   "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
  "coordenacao": [
@@ -68,6 +72,6 @@
   "Graduado em qualquer área do conhecimento"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/direito_administrativo.webp",
- "sincronizado_em": "2026-11-12T07:49:49+00:00",
+ "sincronizado_em": "2026-11-12T13:00:53+00:00",
  "primeira_vez_visto": "2026-10-16T14:54:57+00:00"
 }
