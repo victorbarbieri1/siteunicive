@@ -4,29 +4,12 @@
  "url": "https://unicive.com/courses/ciencias_da_religiao_2a_graduacao_licenciatura/",
  "titulo": "Ciências da Religião – 2ª Graduação de Licenciatura",
  "publicado": "2024-03-26T13:27:59",
- "modificado": "2026-03-30T10:40:34",
- "centro": [],
+ "modificado": "2026-11-26T10:37:08",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
+ ],
  "categorias": [
-  "2 graduação em licenciatura",
-  "Andragogia",
-  "Artes",
-  "Artes Visuais",
-  "Ciências Biológicas",
-  "Ciências Sociais",
-  "Educação Especial",
-  "Educação Física",
-  "Filosofia",
-  "Física",
-  "Geografia",
-  "História",
-  "Letras Português e Espanhol",
-  "Letras Português e Francês",
-  "Letras Português e Inglês",
-  "Letras Português e Libras",
-  "Matemática",
-  "Pedagogia",
-  "Química",
-  "Sociologia"
+  "2 graduação em licenciatura"
  ],
  "tags": [
   "1 ano"
@@ -68,6 +51,6 @@
  ],
  "requisitos": [],
  "imagem": "https://unicive.com/wp-content/uploads/2023/06/cienciareligiao_grad_ead.webp",
- "sincronizado_em": "2026-11-25T17:30:12+00:00",
+ "sincronizado_em": "2026-11-26T16:42:22+00:00",
  "primeira_vez_visto": "2026-10-16T14:53:13+00:00"
 }
