@@ -4,11 +4,11 @@
  "url": "https://unicive.com/courses/formacao_de_professores_para_o_ensino_de_lingua_portuguesa/",
  "titulo": "Formação de Professores para o Ensino de Língua Portuguesa",
  "publicado": "2023-06-29T08:36:30",
- "modificado": "2026-11-13T13:39:21",
- "centro": [],
- "categorias": [
-  "Educação"
+ "modificado": "2026-11-27T10:52:19",
+ "centro": [
+  "Centro de Educação, Humanidades, Letras e Artes (CEHLA)"
  ],
+ "categorias": [],
  "tags": [],
  "seo_descricao": "Curso de Formação de Professores para o Ensino de Língua Portuguesa no Unicive: instituição credenciada pelo MEC, com polos em todo o Brasil. Veja grade curricular, mensalidade e formas de ingresso.",
  "descricao": {
@@ -42,8 +42,6 @@
   "Metodologia EAD": [
    "Estude no seu ritmo, sem estudar sozinho.",
    "No ensino a distância do Unicive, você organiza os estudos de acordo com a sua rotina. Estuda quando e onde for melhor, sem abrir mão do acompanhamento de professores e mediadores.",
-   "Em cada disciplina, você terá à disposição videoaulas, textos de apoio e indicações de livros para aprofundar os temas estudados. Além disso, as atividades e técnicas de cada disciplina são pensadas para os conteúdos da sua área, para que você aplique o que aprende.",
-   "Às terças e quintas, à noite, o curso oferece aulas ao vivo. Nesses encontros, você tira dúvidas, debate os conteúdos e troca experiências com professores e colegas.",
    "É a flexibilidade de estudar no seu tempo, com apoio sempre que você precisar."
   ]
  },
@@ -74,6 +72,6 @@
   "Graduado em qualquer área do conhecimento"
  ],
  "imagem": "https://unicive.com/wp-content/uploads/2023/07/formacao_de_professores_para_o_ensino_de_lingua_portuguesa.webp",
- "sincronizado_em": "2026-11-26T17:17:34+00:00",
+ "sincronizado_em": "2026-11-27T16:57:30+00:00",
  "primeira_vez_visto": "2026-10-16T14:54:23+00:00"
 }
